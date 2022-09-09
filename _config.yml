@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Moncla Lab
+title: ""
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the Moncla Lab
@@ -117,4 +117,4 @@ atom_feed:
   hide: true
 
 masthead_title: "The Moncla Lab"
-logo: "/assets/images/viron.png"
+logo: "assets/images/viron.png"
