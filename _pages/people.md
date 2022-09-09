@@ -3,15 +3,12 @@ permalink: /team/
 title: "Team"
 ---
 <center>
-<img src="/assets/images/Louise-Moncla-headshot.jpg" width="20%">
+<img src="/assets/images/Louise-Moncla-headshot.png" width="20%">
 </center>
 
 __Principal Investigator__
-
 Assistant Professor, Department of Pathobiology
-
 School of Veterinary Medicine, University of Pennsylvania
-
 [google scholar](https://scholar.google.com/citations?user=_myzKrwAAAAJ&hl=en)
 
 
