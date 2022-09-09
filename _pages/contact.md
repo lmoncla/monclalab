@@ -3,7 +3,7 @@ permalink: /contact/
 title: ""
 ---
 <center>
-<img src="/assets/images/philadelphia.png" width="20%">
+<img src="/assets/images/philadelphia.png" width="100%">
 </center>
 
 Thanks for your interest in the lab! We are located in Hill Pavilion, on Penn's main campus in Philadelphia. 
