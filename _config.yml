@@ -116,5 +116,5 @@ tag_archive:
 atom_feed:
   hide: true
 
-#masthead_title: "The Moncla Lab"
-logo: "/assets/images/viron.png"
+masthead_title: "The Moncla Lab"
+logo: "assets/images/virion.png"
