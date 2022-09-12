@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size: 24 !default;
+$doc-font-size: 10 !default;
 
 /* paragraph indention */
 $paragraph-indent: false !default; // true, false (default)
@@ -29,8 +29,8 @@ $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
-$global-font-family: $sans-serif !default;
-$header-font-family: $sans-serif !default;
+$global-font-family: $helvetica !default;
+$header-font-family: $helvetica !default;
 $caption-font-family: $serif !default;
 
 /* type scale */
@@ -61,7 +61,7 @@ $dark-gray: mix(#000, $gray, 50%) !default;
 $darker-gray: mix(#000, $gray, 60%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
-$ligher-virion-color: #DAEBE9 !default;
+$lighter-virion-color: #DAEBE9 !default;
 
 $background-color: #fff !default;
 $code-background-color: #fafafa !default;
@@ -69,10 +69,10 @@ $code-background-color-dark: $light-gray !default;
 $text-color: $black !default;
 $muted-text-color: $black !default;
 $border-color: $lighter-gray !default;
-$form-background-color: $lighter-gray !default;
+$form-background-color: $lighter-virion-color !default;
 $footer-background-color: $lighter-virion-color !default;
 
-$primary-color: #6f777d !default;
+$primary-color: #000000 !default;
 $success-color: #3fa63f !default;
 $warning-color: #d67f05 !default;
 $danger-color: #ee5f5b !default;
