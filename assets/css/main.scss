@@ -10,8 +10,8 @@ search: false
 
 
 html {
-  font-size: 10px; // change to whatever
-
+  font-size: 20px; // change to whatever
+  
   @include breakpoint($medium) {
     font-size: 10px; // change to whatever
   }
