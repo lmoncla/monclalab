@@ -71,6 +71,8 @@ body {
 .page__title {
   margin-top: 0;
   line-height: 1;
+  font-size: $type-size-4;
+  font-weight: light;
 
   a {
     color: $text-color;
