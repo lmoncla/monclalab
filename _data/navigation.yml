@@ -1,9 +1,9 @@
 main:
-  - title: "Research"
+  - title: "research"
     url: /research/
-  - title: "Team"
+  - title: "team"
     url: /team/
-  - title: "Handbook"
+  - title: "handbook"
     url: /handbook/
-  - title: "Contact"
+  - title: "contact"
     url: /contact/
