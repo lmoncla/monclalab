@@ -1,6 +1,6 @@
 ---
 permalink: /team/
-title: "Team"
+title: "team"
 ---
 <left>
 <img src="/assets/images/Louise-Moncla-headshot.png" width="25%">
