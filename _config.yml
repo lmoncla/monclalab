@@ -116,5 +116,5 @@ tag_archive:
 atom_feed:
   hide: true
 
-masthead_title: "The Moncla Lab"
+#masthead_title: "The Moncla Lab"
 logo: "assets/images/lab-logo-2.png"
