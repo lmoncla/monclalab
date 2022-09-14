@@ -3,7 +3,7 @@ permalink: /team/
 title: "team"
 ---
 <left>
-<img src="https://github.com/lmoncla/monclalab/blob/master/assets/images/Louise-Moncla-headshot.png" width="25%">
+<img src="https://lmoncla.github.io/monclalab/blob/master/assets/images/Louise-Moncla-headshot.png" width="25%">
 </left>
 __Principal Investigator__<br/>
 Assistant Professor, Department of Pathobiology<br/>
