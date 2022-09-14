@@ -8,7 +8,7 @@
   margin-left: 0;
   margin-right: 0;
   width: 100%;
-  margin-top: 1em;
+  margin-top: 3em;
   color: $muted-text-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -24,8 +24,8 @@
     max-width: 100%;
     padding: 0 1em 2em;
 
-    @include breakpoint($small) {
-      max-width: $small;
+    @include breakpoint($x-large) {
+      max-width: $x-large;
     }
   }
 
