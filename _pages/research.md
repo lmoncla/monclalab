@@ -12,7 +12,7 @@ In the Moncla lab, we are interested in how viruses __emerge__ in human populati
 Viruses are constantly crossing species barriers and causing outbreaks in humans. Many new viral pathogens are zoonotic, meaning that they come from animal reservoirs. Most animal viruses are poorly adapted to humans, and must evolve the ability to replicate and transmit among humans. Simultaneously, environmental and epidemiologic factors that habitat encroachment, husbandry practices, and climate can facilitate opportunities for cross-species tranmission by bringing host species together. We are interested in defining the genetic, epidemiologic, and ecological factors that contribute to cross-species transmission of novel, zoonotic viruses. We are particularly interested in avian influenza viruses, which have repeatedly crossed species barriers and infected humans. By defining the evolutionary pathways by which these viruses adapt to new hosts, we can improve surveillance and vaccine design and improve human health. 
 
 <left>
-<img src="/monclalab/assets/images/within-host-diversity-2.png" width="90%">
+<img src="/monclalab/assets/images/within-host-diversity-2.png" width="130%">
 </left>
 
 ### Within-host diversity and adaptation 
