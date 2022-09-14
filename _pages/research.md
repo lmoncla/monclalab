@@ -5,14 +5,14 @@ permalink: /research/
 In the Moncla lab, we are interested in how viruses __emerge__ in human populations, and __transmit__ between them. We draw on tools from phylodynamics, virology, and population genetics to understand how viruses evolve within individuals, between populations, and across continents. The ultimate goal of our work is to better understand viral evolution and transmission so that we can __prevent new outbreaks from occurring and mitigate the toll of endemic viral transmission.__ Although our lab primarily uses computational methods, we also generate new genomic data and draw on tools from basic virology to validate our computational findings. 
 
 <left>
-<img src="/monclalab/assets/images/exploded-tree.png" width="50%">
+<img src="/monclalab/assets/images/exploded-tree-with-schematic.png" width="70%">
 </left>
 
 ### Viral emergence and cross-species transmission
 Viruses are constantly crossing species barriers and causing outbreaks in humans. Many new viral pathogens are zoonotic, meaning that they come from animal reservoirs. Most animal viruses are poorly adapted to humans, and must evolve the ability to replicate and transmit among humans. Simultaneously, environmental and epidemiologic factors that habitat encroachment, husbandry practices, and climate can facilitate opportunities for cross-species tranmission by bringing host species together. We are interested in defining the genetic, epidemiologic, and ecological factors that contribute to cross-species transmission of novel, zoonotic viruses. We are particularly interested in avian influenza viruses, which have repeatedly crossed species barriers and infected humans. By defining the evolutionary pathways by which these viruses adapt to new hosts, we can improve surveillance and vaccine design and improve human health. 
 
 <left>
-<img src="/monclalab/assets/images/within-host-diversity.png" width="50%">
+<img src="/monclalab/assets/images/within-host-diversity-2.png" width="60%">
 </left>
 
 ### Within-host diversity and adaptation 
