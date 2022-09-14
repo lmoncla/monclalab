@@ -1,7 +1,6 @@
 main:
   - title: "research"
     url: /research/
-    font-size: 60
   - title: "team"
     url: /team/
   - title: "handbook"
