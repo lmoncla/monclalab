@@ -10,7 +10,6 @@ Thanks for your interest in the lab! We are located in Hill Pavilion, on Penn's 
 
 __Email:__<br/>
 lhmoncla@upenn.edu<br/>
-lhmoncla@gmail.com<br/>
 
 __Mail:__<br/>
 Louise Moncla<br/>
