@@ -6,7 +6,14 @@ title: ""
 <img src="/monclalab/assets/images/philadelphia.png" width="200%">
 </center>
 
-Thanks for your interest in the lab! We are located in Hill Pavilion, on Penn's main campus in Philadelphia. 
+Thanks for your interest in the lab! We are located in Hill Pavilion, on Penn's main campus in Philadelphia. If you are interested in joining the lab, please send me an email with the following: 
+
+__graduate students:__ Let me know which graduate program you are in, a bit about your background, and when you are hoping to rotate. Please attach a CV or resume, and let me know why you're interested in the lab!
+
+__post-docs:__ Tell me a bit about what your PhD work was about, and what it showed/contributed to the field, and why you are interested in the lab. Please also include a CV and names of 2 references, as well as your approximate timeline for finishing your PhD/starting in the group. 
+
+__undergraduates:__ Please let me know your major, year, and why you are interested in the lab.
+
 
 __Email:__<br/>
 lhmoncla@upenn.edu<br/>
