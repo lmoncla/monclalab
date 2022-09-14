@@ -18,5 +18,9 @@ Viruses are constantly crossing species barriers and causing outbreaks in humans
 ### Within-host diversity and adaptation 
 RNA viruses rapidly generate diversity because of their high mutation rates and quick generation times. Because of this, infections with RNA viruses are comprised of a population of viruses that harbors genetic diversity. The diversity that is generated within individuals is then modulated by the process of transmission, during which "transmission bottlenecks" can drastically alter the diversity and makeup of viral populations. By characterizing how viruses acquire mutations during infection, and how the fate of those mutations are shaped by transmission, we can better understand how novel variants arise and spread. 
 
+<left>
+<img src="/monclalab/assets/images/figure-3-genomic-epi-schematic.png" width="100%">
+</left>
+
 ### Phylodynamics of endemic human respiratory viruses 
 In recent years, viruses that have been previously well-controlled by vaccination have made a resurgence. For endemic human viruses, transmission intensity is impacted by the interplay between population immunity, vaccination campaigns, and human travel, movement, and interaction patterns. We are interested in how endemic RNA viruses move across time, space, and population groups, and how viral transmission is impacted by factors like geography, host immunity, and human contact networks.  
