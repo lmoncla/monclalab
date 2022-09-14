@@ -3,7 +3,7 @@ permalink: /handbook/
 title: ""
 ---
 
-## Handbook 
+# Handbook 
 
 Welcome to the Moncla lab! This lab handbook is intended to give you an overview of how I think about running a scientific lab and expectations I have for myself and team members. It also includes some materials that may be useful for getting acquainted with programming, phylogenetics, and virology.
 
@@ -69,12 +69,11 @@ If there is one paper that is important for understanding how tree structure and
 7. [Trevor Bedford's dynamics practical](https://github.com/trvrb/dynamics-practical)
 
 #### Papers
-1. [Pybus and Rambaut, 2009](https://www.nature.com/articles/nrg2583)
-
-2. [Viral Phylodynamics](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002947)
-
-3. [Tracking outbreaks in the 21st century](https://www.nature.com/articles/s41564-018-0296-2)
+* [Pybus and Rambaut, 2009](https://www.nature.com/articles/nrg2583)
+* [Viral Phylodynamics](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002947)
+* [Tracking outbreaks in the 21st century](https://www.nature.com/articles/s41564-018-0296-2)
 
 
 ### Population genetics
-1. [Nordborg](https://people.eecs.berkeley.edu/~jordan/sail/readings/nordborg.pdf)
+Population genetics is the foundation of phylodynamics. It is also the primary field that studies of within-host diversity have drawn from. [These book chapters by Magnus Nordborg](https://people.eecs.berkeley.edu/~jordan/sail/readings/nordborg.pdf)provide a great introduction into the coalescent, and how deviations from ideal populations alter tree topologies.
+
