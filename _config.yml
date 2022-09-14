@@ -21,6 +21,7 @@ twitter_username: username
 github_username: "lmoncla"
 minimal_mistakes_skin: default # default mint dark
 search: true
+baseurl: /monclalab
 
 # Build settings
 markdown: kramdown
