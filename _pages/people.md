@@ -3,7 +3,7 @@ permalink: /team/
 title: "team"
 ---
 <left>
-<img src="monclalab/assets/images/Louise-Moncla-headshot.png" width="25%">
+<img src="assets/images/Louise-Moncla-headshot.png" width="25%">
 </left>
                                                                                  
 __Principal Investigator__<br/>
