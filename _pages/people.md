@@ -7,7 +7,7 @@ title: "team"
 #</left>
 
 <left>
-<img src={{ site.baseurl }}{{ assets/images/Louise-Moncla-headshot.png }} width="25%>
+<img src={{ site.baseurl }}{{/assets/images/Louise-Moncla-headshot.png }} width="25%>
 <left>                                                                             
                                                                                  
 __Principal Investigator__<br/>
