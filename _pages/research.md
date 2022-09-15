@@ -22,5 +22,5 @@ RNA viruses rapidly generate diversity because of their high mutation rates and 
 <img src="/monclalab/assets/images/figure-3-genomic-epi-schematic.png" width="100%">
 </left>
 
-### Phylodynamics of endemic human respiratory viruses 
+### Phylodynamics of endemic human respiratory viruses
 In recent years, viruses that have been previously well-controlled by vaccination have made a resurgence. For endemic human viruses, transmission intensity is impacted by the interplay between population immunity, vaccination campaigns, and human travel, movement, and interaction patterns. We are interested in how endemic RNA viruses move across time, space, and population groups, and how viral transmission is impacted by factors like geography, host immunity, and human contact networks.  
