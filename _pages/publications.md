@@ -38,7 +38,7 @@ __Within-host evolution of human influenza virus__
 *Katherine S. Xue,* Louise H. Moncla, Trevor Bedford, Jesse D. Bloom‡. Trends in Microbiology, March 10, 2018. [DOI: 10.1016/j.tim.2018.02.007](https://pubmed.ncbi.nlm.nih.gov/29534854/)
 
 
-### 2016
+### 2017
 __Emergence of oseltamivir-resistant H7N9 influenza viruses in immunosuppressed cynomolgus macaques__
 *Maki Kiso,* Kiyoko Iwatsuki-Horimoto, Seiya Yamayoshi, Ryuta Uraki, Mutsumi Ito, Eiryo Kawakami, Yuriko Tomita, Satoshi Fukuyama, Tiago J.S. Lopes, Tokiko Watanabe, Louise H. Moncla, Thomas C. Friedrich, Gabriele Neumann, Yoshihiro Kawaoka‡.  Journal of Infectious Diseases, Volume 216, issue 5, September 1, 2017. [DOI: 10.1093/infdis/jix296](https://academic.oup.com/jid/article/216/5/582/3882740)
 
