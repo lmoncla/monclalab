@@ -5,7 +5,7 @@ permalink: /research/
 In the Moncla lab, we are interested in how viruses __emerge__ in human populations, and __transmit__ between them. We draw on tools from phylodynamics, virology, and population genetics to understand how viruses evolve within individuals, between populations, and across continents. The ultimate goal of our work is to better understand viral evolution and transmission so that we can __prevent new outbreaks from occurring and mitigate the toll of endemic viral transmission.__ Although our lab primarily uses computational methods, we also generate new genomic data and draw on tools from basic virology to validate our computational findings. 
 
 <left>
-<img src="/monclalab/assets/images/exploded-tree-with-schematic.png" width="70%">
+<img src="/monclalab/assets/images/overview.png" width="100%">
 </left>
 
 ### Viral emergence and cross-species transmission
