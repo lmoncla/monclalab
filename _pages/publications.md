@@ -2,6 +2,7 @@
 permalink: /publications/
 title: "Publications"
 ---
+<br/><br/>
 __Acute SARS-CoV-2 infections harbor limited within-host diversity and transmit via tight transmission bottlenecks<br/>__
 *Katarina Braun, Gage Moreno*, Cassia Wagner, Molly A. Accola, William M. Rehrauer, David Baker, Katia Koelle, David H. O’Connor, Trevor Bedford, Thomas C. Friedrich‡, Louise H. Moncla‡. PLOS Pathogens, August 23, 2021, [DOI: 10.1371/journal.ppat.1009849](https://journals.plos.org/Plospathogens/article?id=10.1371/journal.ppat.1009849)
 
