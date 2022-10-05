@@ -1,0 +1,10 @@
+---
+title: "We're hiring a research specialist"
+date: 2022-10-05
+---
+
+The Moncla lab growing! We are looking for a research specialist who can assist with setting up the lab and contribute to ongoing projects that focus on RNA virus evolution and transmission. The research specialist will work with myself and other team members to perform molecular biology and tissue culture work aimed at understanding the evolutionary and molecular determinants of virus host-switching and evolution, and contribute to lab ordering and organization. 
+
+We are looking for someone with strong organizational skills who is willing to help with lab ordering and setup, and is excited about learning new skills in the wet and dry laboratory. The ideal candidate would have a background in biology or computational biology, and be detail-oriented, willing to learn new skills, a strong problem-solver, and be willing and interested in working with a team. The research specialist would perform molecular biology experiments (PCR, RNA extraction, next-generation sequencing library preparation), develop and optimize sequencing pipelines for viral sequencing, perform cell culture experiments using non-infectious viral components, and contribute to miscellaneous tasks in the lab (ordering supplies, managing samples). Applicants with prior experience with viral cell culture, viral sequencing, bioinformatics, or coding in python are especially encouraged to apply. 
+
+If you think you might be interested, check out our [official job posting](https://wd1.myworkdaysite.com/recruiting/upenn/careers-at-penn/job/Hill-Pavilion/Research-Specialist-A_JR00061852), which includes a link to submit an application. Please submit a resume, contact information for 3 references, and a cover letter that describes your specific interest in our research group and why you would be a great member of our team. We look forward to hearing from you! 
