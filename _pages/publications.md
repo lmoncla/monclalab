@@ -44,3 +44,31 @@ __Emergence of oseltamivir-resistant H7N9 influenza viruses in immunosuppressed 
 
 __Influenza evolution: new insights into an old foe__
 *Louise H. Moncla,* Nicholas W. Florek, Thomas C. Friedrich‡. Trends in Microbiology, June 25, 2017. PMID: 28478941. [DOI: 10.1016/j.tim.2017.04.003](https://www.sciencedirect.com/science/article/pii/S0966842X17300914)
+
+
+### 2016
+__Within-host evolution of simian arteriviruses in crab-eating macaques__
+*Louise H. Moncla**, Andrea M. Weiler, Gabrielle Barry, Jason Weinfurter, Jorge M. Dinis, Olivia Charlier, Michael Lauck, Adam Bailey, Jens Kuhn, Victoria Wahl-Jensen, Joshua C. Johnson, Peter B. Jahrling, Tony L. Goldberg, David H. O’Connor, Thomas C. Friedrich‡. Journal of Virology, August 12, 2016.[DOI: 10.1128/JVI.02231-16](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5286893/)
+
+__A Single Mutation in the VP1 of Enterovirus 71 is Responsible for Increased Virulence and Neurotropism in Adult Interferon Deficient Mice__
+*Elizabeth A. Caine*, Louise H. Moncla, Monica Ronderos, Thomas C. Friedrich, Jorge E. Osorio‡. Journal of Virology. July 20, 2016. [DOI: 10.1128/JVI.01370-16](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5021399/)
+
+__A rhesus macaque model of Asian-lineage Zika virus infection__
+*Dudley DM**, Aliota MT, Mohr EL, Weiler AM, Lehrer-Brey G, Weisgrau KL, Mohns MS, Breitbach ME, Rasheed MN, Newman CM, Gellerup DD, Moncla LH, Post J, Schultz-Darken N, Schotzko ML, Hayes JM, Eudailey JA, Moody MA, Permar SR, O'Connor SL, Rakasz EG, Simmons HA, Capuano S, Golos TG, Osorio JE, Friedrich TC, O'Connor DH‡. Nature Communications; 7:12204. Jun 28, 2016. [DOI: 10.1038/ncomms12204](https://www.nature.com/articles/ncomms12204)
+
+__Selective bottlenecks shape evolutionary pathways taken during mammalian adaptation of a 1918-like avian influenza virus__
+*Louise H. Moncla**, Gongxun Zhong, Chase W. Nelson, Austin L. Hughes, James Mutschler, Tokiko Watanabe, Yoshihiro Kawaoka, Thomas C. Friedrich‡. Cell Host and Microbe 19, 169-190, February 10, 2016. (Featured Article)[DOI: 10.1016/j.chom.2016.01.011](https://www.sciencedirect.com/science/article/pii/S1931312816300105?via%3Dihub)
+
+__Divergent simian arteriviruses cause simian hemorrhagic fever of different severity in macaques__
+*Victoria Wahl-Jensen, Joshua Johnson*, Michael Lauck, Jason Weinfurter, Louise Moncla, Andrea Weiler, Olivia Charlier, Oscar Rojas, Russell Byrum, Dan Ragland, Louis Huzella, Erika Zommer, Melanie Cohen, John Bernbaum, Yíngyún Caì, Hannah Sanford, Steven Mazur, Reed Johnson, Gustavo Palacios, Adam Bailey, Peter Jahrling, Tony Goldberg, David O'Connor, Thomas Friedrich, and Jens Kuhn‡. MBio. 2016 Febraury 23; 7(1). [DOI: 10.1128/mBio.02009-15](https://journals.asm.org/doi/pdf/10.1128/mBio.02009-15)
+
+__Deep sequencing reveals potential antigenic drift variants at low frequency in influenza A-infected humans__
+*Jorge M. Dinis, Nicholas W. Florek*, Omolayo O. Fatola, Louise H. Moncla, James P. Mutschler, Jennifer K. Meece, Edward A. Belongia, Thomas C. Friedrich‡. Journal of Virology. 2016 January 6. [DOI: 10.1128/JVI.03248-15](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4794676/)
+
+### Pre-2016
+__SNPGenie: estimating evolutionary parameters to detect natural selection using pooled next-generation sequencing data__
+*Nelson CW**, Moncla LH, Hughes AL‡. Bioinformatics. 2015 July 29. [DOI: 10.1093/bioinformatics/btv449](https://academic.oup.com/bioinformatics/article/31/22/3709/241742)
+
+__A novel nonhuman primate model for influenza transmission__
+*Louise H. Moncla**, Ted M. Ross*, Jorge M. Dinis, Jason T. Weinfurter, Tatum D. Mortimer, Nancy Schultz-Darken, Kevin Brunner, Saverio V. Capuano III, Carissa Boettcher, Jennifer Post, Michael Johnson, Chalise E. Bloom, Andrea M. Weiler, Thomas C. Friedrich‡. PLOS One 8, e78750. November 14, 2013. [DOI: 10.1371/journal.pone.0078750](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078750)
+
