@@ -1,5 +1,5 @@
 ---
-permalink: /news and outreach/
+permalink: /outreach/
 title: "News and Outreach"
 ---
 
