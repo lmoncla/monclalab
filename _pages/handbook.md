@@ -73,9 +73,9 @@ This handbook was written by Alli Black and Gytis Dudas, specifically targeting 
 #### Papers
 * [Pybus and Rambaut, 2009](https://www.nature.com/articles/nrg2583)
 * [Viral Phylodynamics](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002947)
-* [Tracking outbreaks in the 21st century](https://www.nature.com/articles/s41564-018-0296-2)
+* [Tracking outbreaks in the 21st century](https://www.nature.com/articles/s41564-018-0296-2). This is a really nice review article about the utility of viral genomics for genomic epidemiology and outbreak tracking. 
 
 
 ### Population genetics
-Population genetics is the foundation of phylodynamics. It is also the primary field that studies of within-host diversity have drawn from. [These book chapters by Magnus Nordborg](https://people.eecs.berkeley.edu/~jordan/sail/readings/nordborg.pdf) provide a great introduction into the coalescent, and how deviations from ideal populations alter tree topologies.
+Population genetics is the foundation of phylodynamics. It is also the primary field that studies of within-host diversity have drawn from. [These book chapters by Magnus Nordborg](https://people.eecs.berkeley.edu/~jordan/sail/readings/nordborg.pdf) provide a great introduction into the coalescent, and how deviations from ideal populations alter tree topologies. [This review](nature.com/articles/nrg795) is also a good place to start, and provides a nice overview of the coalescent. 
 
