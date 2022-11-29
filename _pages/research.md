@@ -25,3 +25,6 @@ In recent years, viruses that have been previously well-controlled by vaccinatio
 <img src="/monclalab/assets/images/figure-3-genomic-epi-schematic.png" width="100%">
 </left>
 
+### Code and data availability
+For code and ongoing work, check out our lab [github page](https://github.com/moncla-lab). We will be keeping scripts and protocols documented there. 
+
