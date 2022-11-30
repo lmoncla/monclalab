@@ -1,5 +1,5 @@
 ---
-permalink: /people/LouiseMoncla/
+permalink: /team/LouiseMoncla/
 title: ""
 author:
   name   : "Louise Moncla"
