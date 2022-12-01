@@ -3,6 +3,10 @@ permalink: /publications/
 title: ""
 ---
 # Publications
+## 2022
+__A multivalent nucleoside-modified mRNA vaccine against all known influenza virus subtypes__<br/>
+Claudia P Arevalo, Marcus J Bolton, Valerie Le Sage, Naiqing Ye, Colleen Furey, Hiromi Muramatsu, Mohamad-Gabriel Alameh, Norbert Pardi, Elizabeth M Drapeau, Kaela Parkhouse, Tyler Garretson, Jeffrey S Morris, Louise H Moncla, Ying K Tam, Steven HY Fan, Seema S Lakdawala, Drew Weissman, Scott E Hensley. Science, November 24, 2022, [DOI: 10.1126/science.abm0271](https://www.science.org/doi/full/10.1126/science.abm0271)
+
 ## 2021
 __Acute SARS-CoV-2 infections harbor limited within-host diversity and transmit via tight transmission bottlenecks<br/>__
 *Katarina Braun, Gage Moreno*, Cassia Wagner, Molly A. Accola, William M. Rehrauer, David Baker, Katia Koelle, David H. O’Connor, Trevor Bedford, Thomas C. Friedrich‡, Louise H. Moncla‡. PLOS Pathogens, August 23, 2021, [DOI: 10.1371/journal.ppat.1009849](https://journals.plos.org/Plospathogens/article?id=10.1371/journal.ppat.1009849)
