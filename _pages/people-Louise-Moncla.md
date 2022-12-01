@@ -3,7 +3,7 @@ permalink: /team/LouiseMoncla/
 title: ""
 author:
   name   : "Louise Moncla"
-  avatar : "/assets/images/Louise-Moncla-headshot.png"
+  avatar : "/assets/images/people-Louise-Moncla.png"
   bio    : Assistant Professor<br>Department of Pathobiology<br>University of Pennsylvania
   links:
     - label: "Louise's CV"

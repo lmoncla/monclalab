@@ -4,7 +4,7 @@ title: ""
 ---
 
 <a href="https://lmoncla.github.io/monclalab/team/LouiseMoncla">
-<img src="/monclalab/assets/images/Louise-Moncla-headshot.png" width="30%" title="Louise Moncla, PI" align="left" hspace="30">
+<img src="/monclalab/assets/images/people-Louise-Moncla.png" width="30%" title="Louise Moncla, PI" align="left" hspace="30">
 </a>
 
 __Louise Moncla, PI__<br/>
@@ -12,6 +12,14 @@ Assistant Professor<br/>
 Department of Pathobiology<br/>
 School of Veterinary Medicine, University of Pennsylvania<br/><br/><br/><br/>
 
+<a href="https://lmoncla.github.io/monclalab/team/AlexVoegele">
+<img src="/monclalab/assets/images/people-Alex-Voegele.jpeg" width="30%" title="Alex Voegele" align="left" hspace="30">
+</a>
+
+__Alex Voegele__<br/>
+Research Specialist<br/>
+Department of Pathobiology<br/>
+School of Veterinary Medicine, University of Pennsylvania<br/><br/><br/><br/>
 
 <a href="">
 <img src="/monclalab/assets/images/blank.png" width="30%" align="left" hspace="30">
