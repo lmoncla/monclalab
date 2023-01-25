@@ -77,5 +77,5 @@ This handbook was written by Alli Black and Gytis Dudas, specifically targeting 
 
 
 ### Population genetics
-Population genetics is the foundation of phylodynamics. It is also the primary field that studies of within-host diversity have drawn from. [These book chapters by Magnus Nordborg](https://people.eecs.berkeley.edu/~jordan/sail/readings/nordborg.pdf) provide a great introduction into the coalescent, and how deviations from ideal populations alter tree topologies. [This review](nature.com/articles/nrg795) is also a good place to start, and provides a nice overview of the coalescent. 
+Population genetics is the foundation of phylodynamics. It is also the primary field that studies of within-host diversity have drawn from. [These book chapters by Magnus Nordborg](https://people.eecs.berkeley.edu/~jordan/sail/readings/nordborg.pdf) provide a great introduction into the coalescent, and how deviations from ideal populations alter tree topologies. [This review](https://www.nature.com/articles/nrg795) is also a good place to start, and provides a nice overview of the coalescent. 
 
