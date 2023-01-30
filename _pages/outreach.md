@@ -3,6 +3,11 @@ permalink: /outreach/
 title: "News and Outreach"
 ---
 
+### November 30, 2022: What is bird flu and how deadly is it? 
+__[What is bird flu and how deadly is it?](https://www.bbc.com/news/science-environment-63464065)__<br/>
+I provided a quote for Helen Briggs, who was writing an article about the ongoing avian influenza outbreak for BBC News. The article discusses why this outbreak is distinct from past outbreaks, and possible reasons why this one is so widespread. 
+
+
 ### October 21, 2022: Why is bird flu so bad right now? 
 __[Why is bird flu so bad right now?](https://www.nature.com/articles/d41586-022-03322-2#:~:text=Mutations%20matter&text=One%20is%20that%20genetic%20mutations,previous%20strains%20were%20capable%20of)__<br/>
 Saima Sidik from Nature News chatted with me about the ongoing H5N1 avian influenza outbreak that is happening in the US and Europe, which is causing devastating impacts on wild and domestic birds. We talked about why this outbreak is different from past outbreaks, and what we still need to learn about H5N1 going forward. 
