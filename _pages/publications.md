@@ -6,11 +6,11 @@ title: ""
 
 ## 2023
 __Avian H7N9 influenza viruses are evolutionarily constrained by stochastic processes during replication and transmission in mammals__<br/>
-**Katarina M Braun, Luis A Haddock III,** Chelsea M Crooks, Gabrielle L Barry, Joseph Lalli, Gabriele Neumann, Tokiko Watanabe, Masaki Imai, Seiya Yamayoshi, Mutsumi Ito, Louise H Moncla, Katia Koelle, Yoshihiro Kawaoka, Thomas C Friedrich‡. Virus Evolution, January 19, 2023, [DOI:10.1093/ve/vead004](https://academic.oup.com/ve/advance-article/doi/10.1093/ve/vead004/6991850)
+*Katarina M Braun, Luis A Haddock III,* Chelsea M Crooks, Gabrielle L Barry, Joseph Lalli, Gabriele Neumann, Tokiko Watanabe, Masaki Imai, Seiya Yamayoshi, Mutsumi Ito, Louise H Moncla, Katia Koelle, Yoshihiro Kawaoka, Thomas C Friedrich‡. Virus Evolution, January 19, 2023, [DOI:10.1093/ve/vead004](https://academic.oup.com/ve/advance-article/doi/10.1093/ve/vead004/6991850)
 
 ## 2022
 __A multivalent nucleoside-modified mRNA vaccine against all known influenza virus subtypes__<br/>
-Claudia P Arevalo, Marcus J Bolton, Valerie Le Sage, Naiqing Ye, Colleen Furey, Hiromi Muramatsu, Mohamad-Gabriel Alameh, Norbert Pardi, Elizabeth M Drapeau, Kaela Parkhouse, Tyler Garretson, Jeffrey S Morris, Louise H Moncla, Ying K Tam, Steven HY Fan, Seema S Lakdawala, Drew Weissman, Scott E Hensley. Science, November 24, 2022, [DOI: 10.1126/science.abm0271](https://www.science.org/doi/full/10.1126/science.abm0271)
+*Claudia P Arevalo*, Marcus J Bolton, Valerie Le Sage, Naiqing Ye, Colleen Furey, Hiromi Muramatsu, Mohamad-Gabriel Alameh, Norbert Pardi, Elizabeth M Drapeau, Kaela Parkhouse, Tyler Garretson, Jeffrey S Morris, Louise H Moncla, Ying K Tam, Steven HY Fan, Seema S Lakdawala, Drew Weissman, Scott E Hensley. Science, November 24, 2022, [DOI: 10.1126/science.abm0271](https://www.science.org/doi/full/10.1126/science.abm0271)
 
 ## 2021
 __Acute SARS-CoV-2 infections harbor limited within-host diversity and transmit via tight transmission bottlenecks<br/>__
