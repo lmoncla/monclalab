@@ -3,6 +3,11 @@ permalink: /outreach/
 title: "News and Outreach"
 ---
 
+### February 14, 2023: A Bird Flu Pandemic Hovering on the Horizon? 
+__[A Bird Flu Pandemic Hovering on the Horizon](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/bird-flu-pandemic-hovering-horizon)__<br/>
+I did an interview for the Naked Scientist (a BBC podcast series) on the ongoing avian influenza outbreak in North America, why it's distinct from past outbreaks, and what we should be thinking about going forward. Also featured in this are some of my all-time favorite virologists (Wendy Barclay!), giving great commentary.
+
+
 ### November 30, 2022: What is bird flu and how deadly is it? 
 __[What is bird flu and how deadly is it?](https://www.bbc.com/news/science-environment-63464065)__<br/>
 I provided a quote for Helen Briggs, who was writing an article about the ongoing avian influenza outbreak for BBC News. The article discusses why this outbreak is distinct from past outbreaks, and possible reasons why this one is so widespread. 
