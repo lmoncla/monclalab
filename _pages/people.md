@@ -21,6 +21,16 @@ Research Specialist<br/>
 Department of Pathobiology<br/>
 School of Veterinary Medicine, University of Pennsylvania<br/><br/><br/><br/>
 
+<a href="https://lmoncla.github.io/monclalab/team/LambodharDamodaran">
+<img src="/monclalab/assets/images/people-Lambodhar-Damodaran.jpg" width="30%" title="Lambodhar Damodaran" align="left" hspace="30">
+</a>
+
+__Lambodhar Damodaran, PhD__<br/>
+Post-doctoral Research Fellow<br/>
+Department of Pathobiology<br/>
+School of Veterinary Medicine, University of Pennsylvania<br/><br/><br/><br/>
+
+
 <a href="">
 <img src="/monclalab/assets/images/blank.png" width="30%" align="left" hspace="30">
 </a>
