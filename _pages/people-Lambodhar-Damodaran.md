@@ -12,7 +12,7 @@ author:
     - label: "@LD__50"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/LD__50"
-    - label: "lmoncla"
+    - label: "ldamodaran"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ldamodaran"
     - label: "lamda@vet.upenn.edu"
