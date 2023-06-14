@@ -6,9 +6,7 @@ title: "News and Outreach"
 ### June 14, 2023
 The summer is off to a good start! I taught for a day in Fort Collins, CO for the [Genomics of Disease in Wildlife Workshop](https://gdwworkshop.colostate.edu/). I lectured and lead two lab activities about phylodynamics, BEAST, and Nextstrain. The participants and co-instructors were awesome, and Fort Collins was beautiful. All the course materials (lectures and lab activities) are publicly available on the [course github page](https://github.com/gdw-workshop/2023_GDW_Workshop), as well as on my github page [here](https://github.com/lmoncla/csu-genomics-disease-wildlife-workshop). Here are some pictures from the workshop hike!
 
-<a href="https://lmoncla.github.io/monclalab/team/AlexVoegele">
 <img src="/monclalab/assets/images/CSU-GDW-workshop-hike.jpg" width="30%" title="workshop hike in Fort Collins" align="left" hspace="30">
-</a>
 
 
 ### February 14, 2023: A Bird Flu Pandemic Hovering on the Horizon? 
