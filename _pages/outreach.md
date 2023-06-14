@@ -7,12 +7,11 @@ title: "News and Outreach"
 The summer is off to a good start! I taught for a day in Fort Collins, CO for the [Genomics of Disease in Wildlife Workshop](https://gdwworkshop.colostate.edu/). I lectured and lead two lab activities about phylodynamics, BEAST, and Nextstrain. The participants and co-instructors were awesome, and Fort Collins was beautiful. All the course materials (lectures and lab activities) are publicly available on the [course github page](https://github.com/gdw-workshop/2023_GDW_Workshop), as well as on my github page [here](https://github.com/lmoncla/csu-genomics-disease-wildlife-workshop). Here are some pictures from the workshop hike!
 
 <center>
-<img src="/monclalab/assets/images/CSU-GDW-workshop-hike.jpg" width="100%" title="workshop hike in Fort Collins" align="left" hspace="30">
+<img src="/monclalab/assets/images/CSU-GDW-workshop-hike.jpg" width="100%" title="workshop hike in Fort Collins" align="left">
 </center>
 <br/>
 
-
-### February 14, 2023: A Bird Flu Pandemic Hovering on the Horizon? 
+<br/><br/> ### February 14, 2023: A Bird Flu Pandemic Hovering on the Horizon? 
 __[A Bird Flu Pandemic Hovering on the Horizon](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/bird-flu-pandemic-hovering-horizon)__<br/>
 I did an interview for the Naked Scientist (a BBC podcast series) on the ongoing avian influenza outbreak in North America, why it's distinct from past outbreaks, and what we should be thinking about going forward. Also featured in this are some of my all-time favorite virologists (Wendy Barclay!), giving great commentary.
 
