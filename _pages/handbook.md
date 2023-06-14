@@ -39,6 +39,15 @@ Once our lab gets to a critical mass, we will have a once a week lab meeting. Th
 Occasionally, we will have social events with the lab, like lab dinners or happy hours. Although it is my hope that people would enjoy attending these events, they are absolutely not required. However, if there is anything that I could do to make lab hangouts more accessible or appealing, please let me know! 
 
 ## Resources 
+### Personnel Resources 
+1. What the lab will provide: In this lab, anything work-related (travel, meals, computers, office equipment) will all be covered by the lab. This includes expenses for travel to workshops and conferences, with an expected frequency of ~1 big conference per person per year. You will also be provided with a laptop, monitor(s), hard drives, and any office or computing supplies that would improve your work environment. Work-related books, software licenses, and subscription services can also be purchased by the lab. 
+
+2. [Graduate emergency fund](https://gsc.upenn.edu/grad-emergency-grant). This is a cool resource to help defray the costs of emergency expenses for graduate students. Emergency situations include things like surprise medical bills, travel for family emergencies, and theft of personal items. Check it out!
+
+3. [Title IX office](https://titleixoffice.upenn.edu/title-ix). This page has a lot of links for issues of harassment and discrimination. Policies and guides for submitting sexual harassment complaints can be found [here](https://titleixoffice.upenn.edu/), and information about university Ombuds (who are often a good first point of contact for reporting harassment issues) can be found [here](https://ombuds.upenn.edu/). 
+
+4. [Employee Assistance Program](https://www.hr.upenn.edu/announcements/2019/09/11/penn-eap-and-898-help-support-resources-for-the-penn-community). Penn has a system in place for students, faculty, and staff (including post-docs) to access up to 8 free therapy/counseling sessions per year. For faculty, staff, and post-docs, this program is EAP (the employee assistance program), while for students this service is provided by CAPS (Counseling and Psychological services). This page has information on who to call to set up counseling. You will be matched with a provider who participates in the EAP or CAPS program, who is a licensed therapist/counselor. 
+
 ### Computation
 I spent a majority of my life believing that computational skills were an inherent ability that I simply did not possess. When I learned to code in graduate school, I felt this overwhelming sense that I had learned a very accessible skill that made my life much easier. It also became clear to me that anyone can learn to code, and I feel quite passionate about making sure that people have the support they need to develop computational skills. If you are interested in the lab, but are hesitant about your ability to do computational work, __please do not let that stop you from contacting me.__ While coding may not be enjoyable to everyone, I promise that it is a skill anyone can learn. Below, I've compiled a few resources that helped me learn. 
 

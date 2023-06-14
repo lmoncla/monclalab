@@ -11,7 +11,6 @@ The summer is off to a good start! I taught for a day in Fort Collins, CO for th
 </center>
 <br/>
 
-<br/><br/> 
 ### February 14, 2023: A Bird Flu Pandemic Hovering on the Horizon? 
 __[A Bird Flu Pandemic Hovering on the Horizon](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/bird-flu-pandemic-hovering-horizon)__<br/>
 I did an interview for the Naked Scientist (a BBC podcast series) on the ongoing avian influenza outbreak in North America, why it's distinct from past outbreaks, and what we should be thinking about going forward. Also featured in this are some of my all-time favorite virologists (Wendy Barclay!), giving great commentary.
