@@ -31,9 +31,19 @@ Department of Pathobiology<br/>
 School of Veterinary Medicine, University of Pennsylvania<br/><br/><br/><br/>
 
 
+<a href="https://lmoncla.github.io/monclalab/team/JordanOrt">
+<img src="/monclalab/assets/images/people-Jordan-Ort.jpg" width="30%" title="Jordan Ort" align="left" hspace="30">
+</a>
+
+__Jordan Ort__<br/>
+PhD Student<br/>
+Microbiology, Virology, and Parasitology Graduate Program<br/>
+University of Pennsylvania<br/><br/><br/><br/>
+
 <a href="">
 <img src="/monclalab/assets/images/blank.png" width="30%" align="left" hspace="30">
 </a>
+
 
 __You!__<br/>
 We are always looking for new members to join our team. If you think you might be excited about the work we do, get in touch!<br/><br/>
