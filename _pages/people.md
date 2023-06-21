@@ -40,6 +40,15 @@ PhD Student<br/>
 Microbiology, Virology, and Parasitology Graduate Program<br/>
 University of Pennsylvania<br/><br/><br/><br/>
 
+<a href="https://lmoncla.github.io/monclalab/team/MariaMaltepes">
+<img src="/monclalab/assets/images/people-Maria-Maltepes.jpg" width="30%" title="Maria Maltepes" align="left" hspace="30">
+</a>
+
+__Maria Maltepes__<br/>
+PhD Student<br/>
+Biology Graduate Program<br/>
+University of Pennsylvania<br/><br/><br/><br/>
+
 <a href="">
 <img src="/monclalab/assets/images/blank.png" width="30%" align="left" hspace="30">
 </a>
