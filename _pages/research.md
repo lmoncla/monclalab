@@ -26,5 +26,5 @@ In recent years, viruses that have been previously well-controlled by vaccinatio
 </left>
 
 ### Code and data availability
-For code and ongoing work, check out our lab [github page](https://github.com/moncla-lab). We will be keeping scripts and protocols documented there. 
+For code and ongoing work, check out our lab [github page](https://github.com/moncla-lab). We will be keeping scripts and protocols documented there. For Moncla lab custom Nextstrain builds, check out our [Moncla lab Nextstrain Group page](https://nextstrain.org/groups/moncla-lab). We're tracking a few viruses beyond what is shown on the main Nextstrain site, and those builds are made public here. If you have any questions, don't hesitate to reach out! 
 
