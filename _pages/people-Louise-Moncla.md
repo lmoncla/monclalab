@@ -8,7 +8,7 @@ author:
   links:
     - label: "Louise's CV"
       icon: "fas fa-fw fa-link"
-      url: "/monclalab/assets/docs/Moncla-CV-2022-09-09.pdf"
+      url: "/monclalab/assets/docs/Moncla-CV-2023-08-30.pdf"
     - label: "Google Scholar Page"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=_myzKrwAAAAJ&hl=en"
