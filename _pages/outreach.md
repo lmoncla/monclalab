@@ -15,6 +15,9 @@ Today we celebrated all of the lab's summer successes and said goodbye to Alex, 
 </center>
 <br/>
 
+### August 8, 2023: Bird flu has never done this before 
+I talked to [Katie Wu](https://www.theatlantic.com/science/archive/2023/08/avian-flu-vaccine-wild-bird-transmission-endemic/674903/) at the Atlantic about the ongoing H5 avian influenza outbreak in North America. We talked about the recent, widespread infections in mammals in Europe and South America, and about the difficulty in assigning risk to new viruses when they emerge. Katie covered a lot of important information in this article and got commentary from a lot of amazing researchers, and it was fun to contribute to. 
+
 
 ### June 14, 2023
 The summer is off to a good start! I taught for a day in Fort Collins, CO for the [Genomics of Disease in Wildlife Workshop](https://gdwworkshop.colostate.edu/). I lectured and lead two lab activities about phylodynamics, BEAST, and Nextstrain. The participants and co-instructors were awesome, and Fort Collins was beautiful. All the course materials (lectures and lab activities) are publicly available on the [course github page](https://github.com/gdw-workshop/2023_GDW_Workshop), as well as on my github page [here](https://github.com/lmoncla/csu-genomics-disease-wildlife-workshop). Here are some pictures from the workshop hike!
