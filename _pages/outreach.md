@@ -3,6 +3,19 @@ permalink: /outreach/
 title: "News and Outreach"
 ---
 
+### August 28, 2023: The lab goes to the CEIRR Network Meeting 
+Jordan, Lambo, and I went to the [CEIRR](https://www.ceirr-network.org/) Annual Network meeting this year in Baltimore, MD. Lambo gave a poster on some work from his PhD using generalized additive models to model seasonal influenza circulation and transmission patterns, and Jordan got to meet some new people and hear about a lot of cool research! I did a demo of the [avian flu Nextstrain builds](https://nextstrain.org/flu/avian/h5nx/ha) for the [Computational Modeling Core](https://www.ceirrcmc.org/) showcase, and gave a talk on our work using new structured coalescent models to study H5Nx cross-species transmission. It was really fun to see old friends and meet some new people as well. 
+
+
+### August 25, 2023
+Today we celebrated all of the lab's summer successes and said goodbye to Alex, who is off to start a new job at AstraZeneca. This summer, both Jordan and Maria joined the lab as PhD students, and Lambo won a [Verena Fellowship](https://www.viralemergence.org/fellows) to work with Barbara Han on modeling canine influenza. To celebrate these successes and Alex's time in the lab, we went out in West Philly and finally took a lab photo!
+
+<center>
+<img src="/monclalab/assets/images/lab-pic-2023-08-25.MP.jpg" width="100%" title="lab outing at Gojjo" align="left" vspace="30">
+</center>
+<br/>
+
+
 ### June 14, 2023
 The summer is off to a good start! I taught for a day in Fort Collins, CO for the [Genomics of Disease in Wildlife Workshop](https://gdwworkshop.colostate.edu/). I lectured and lead two lab activities about phylodynamics, BEAST, and Nextstrain. The participants and co-instructors were awesome, and Fort Collins was beautiful. All the course materials (lectures and lab activities) are publicly available on the [course github page](https://github.com/gdw-workshop/2023_GDW_Workshop), as well as on my github page [here](https://github.com/lmoncla/csu-genomics-disease-wildlife-workshop). Here are some pictures from the workshop hike!
 
