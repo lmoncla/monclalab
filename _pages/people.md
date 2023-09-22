@@ -46,7 +46,7 @@ University of Pennsylvania<br/><br/><br/><br/>
 <img src="/monclalab/assets/images/people-Anna-Jaeger.jpg" width="30%" title="Anna Jaeger" align="left" hspace="30">
 </a>
 
-__Anna Jaeger__<br/>
+__Anna Jaeger, PhD__<br/>
 Post-doctoral Research Fellow<br/>
 Department of Pathobiology<br/>
 School of Veterinary Medicine, University of Pennsylvania<br/><br/><br/><br/>
