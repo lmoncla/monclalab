@@ -12,14 +12,6 @@ Assistant Professor<br/>
 Department of Pathobiology<br/>
 School of Veterinary Medicine, University of Pennsylvania<br/><br/><br/><br/>
 
-<a href="https://lmoncla.github.io/monclalab/team/AlexVoegele">
-<img src="/monclalab/assets/images/people-Alex-Voegele.jpeg" width="30%" title="Alex Voegele" align="left" hspace="30">
-</a>
-
-__Alex Voegele__<br/>
-Research Specialist<br/>
-Department of Pathobiology<br/>
-School of Veterinary Medicine, University of Pennsylvania<br/><br/><br/><br/>
 
 <a href="https://lmoncla.github.io/monclalab/team/LambodharDamodaran">
 <img src="/monclalab/assets/images/people-Lambodhar-Damodaran.jpg" width="30%" title="Lambodhar Damodaran" align="left" hspace="30">
@@ -49,6 +41,16 @@ PhD Student<br/>
 Biology Graduate Program<br/>
 University of Pennsylvania<br/><br/><br/><br/>
 
+<a href="https://lmoncla.github.io/monclalab/team/AnnaJaeger">
+<img src="/monclalab/assets/images/people-Anna-Jaeger.jpg" width="30%" title="Anna Jaeger" align="left" hspace="30">
+</a>
+
+__Anna Jaeger__<br/>
+Post-doctoral Research Fellow<br/>
+Department of Pathobiology<br/>
+School of Veterinary Medicine, University of Pennsylvania<br/><br/><br/><br/>
+
+
 <a href="">
 <img src="/monclalab/assets/images/blank.png" width="30%" align="left" hspace="30">
 </a>
@@ -59,3 +61,11 @@ We are always looking for new members to join our team. If you think you might b
 
 
 ## Lab alumni
+
+<a href="https://lmoncla.github.io/monclalab/team/AlexVoegele">
+<img src="/monclalab/assets/images/people-Alex-Voegele.jpeg" width="30%" title="Alex Voegele" align="left" hspace="30">
+</a>
+
+__Alex Voegele__<br/>
+Role: Research Specialist, 2022-2023<br/>
+Now: Technology Advisor at AstraZeneca
