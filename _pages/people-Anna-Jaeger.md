@@ -6,6 +6,9 @@ author:
   avatar : "/assets/images/people-Anna-Jaeger.jpg"
   bio    : Post-doctoral research fellow
   links:
+    - label: "Google Scholar Page"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?hl=en&user=tMHi69kAAAAJ&view_op=list_works"
     - label: "asjaeger@vet.upenn.edu"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:asjaeger@vet.upenn.edu"
