@@ -2,6 +2,7 @@
 permalink: /team/
 title: ""    
 ---
+# Current members
 
 <a href="https://lmoncla.github.io/monclalab/team/LouiseMoncla">
 <img src="/monclalab/assets/images/people-Louise-Moncla.png" width="30%" title="Louise Moncla, PI" align="left" hspace="30">
@@ -60,7 +61,7 @@ __You!__<br/>
 We are always looking for new members to join our team. If you think you might be excited about the work we do, get in touch!<br/><br/>
 
 
-## Lab alumni
+# Lab alumni
 
 <a href="https://lmoncla.github.io/monclalab/team/AlexVoegele">
 <img src="/monclalab/assets/images/people-Alex-Voegele.jpeg" width="30%" title="Alex Voegele" align="left" hspace="30">
