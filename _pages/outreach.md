@@ -16,6 +16,8 @@ The lab took a field trip! We went to see our friends and collaborators based ou
 </center>
 <br/>
 
+### October 15, 2023: TWIV 1053: Bird flu in Baltimore 
+During the CEIRR meeting in Baltimore, I sat down with Vincent Racaniello, Ron Fouchier, and Rafael Medina to chat about the ongoing H5Nx avian influenza outbreak in the Americas or a live recording for [This Week in Virology](https://www.microbe.tv/twiv/)! You can listen to the podcast [here](https://www.microbe.tv/twiv/twiv-1053/). 
 
 ### August 28, 2023: The lab goes to the CEIRR Network Meeting 
 Jordan, Lambo, and I went to the [CEIRR](https://www.ceirr-network.org/) Annual Network meeting this year in Baltimore, MD. Lambo gave a poster on some work from his PhD using generalized additive models to model seasonal influenza circulation and transmission patterns, and Jordan got to meet some new people and hear about a lot of cool research! I did a demo of the [avian flu Nextstrain builds](https://nextstrain.org/flu/avian/h5nx/ha) for the [Computational Modeling Core](https://www.ceirrcmc.org/) showcase, and gave a talk on our work using new structured coalescent models to study H5Nx cross-species transmission. It was really fun to see old friends and meet some new people as well. 
