@@ -3,6 +3,20 @@ permalink: /outreach/
 title: "News and Outreach"
 ---
 
+### December 12, 2023: Lab field trip!
+The lab took a field trip! We went to see our friends and collaborators based out to Penn Vet's large animal campus at New Bolton Center. We had a research update with investigators with the [Wildlife Futures Program](https://www.vet.upenn.edu/research/centers-laboratories/research-initiatives/wildlife-futures-program), picked up samples, and got to meet some alpacas! 
+
+<center>
+<img src="/monclalab/assets/images/field-trip-2023-12-12.jpg" width="100%" title="friendly alpacas, and 2 sheep" align="left" vspace="30">
+</center>
+<br/>
+
+<center>
+<img src="/monclalab/assets/images/alpacas-2023-12-12.jpg" width="100%" title="friendly alpacas, and 2 sheep" align="left" vspace="30">
+</center>
+<br/>
+
+
 ### August 28, 2023: The lab goes to the CEIRR Network Meeting 
 Jordan, Lambo, and I went to the [CEIRR](https://www.ceirr-network.org/) Annual Network meeting this year in Baltimore, MD. Lambo gave a poster on some work from his PhD using generalized additive models to model seasonal influenza circulation and transmission patterns, and Jordan got to meet some new people and hear about a lot of cool research! I did a demo of the [avian flu Nextstrain builds](https://nextstrain.org/flu/avian/h5nx/ha) for the [Computational Modeling Core](https://www.ceirrcmc.org/) showcase, and gave a talk on our work using new structured coalescent models to study H5Nx cross-species transmission. It was really fun to see old friends and meet some new people as well. 
 

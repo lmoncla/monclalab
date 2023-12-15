@@ -5,9 +5,12 @@ main:
     url: /team/
   - title: "publications"
     url: /publications/
+  - title: "data"
+    url: /data/
   - title: "outreach and news"
     url: /outreach/
   - title: "handbook"
     url: /handbook/
   - title: "contact"
     url: /contact/
+
