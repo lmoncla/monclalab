@@ -1,6 +1,6 @@
 ---
 permalink: /outreach/
-title: "News and Outreach"
+title: "News and outreach"
 ---
 
 ### December 12, 2023: Lab field trip!
