@@ -34,22 +34,8 @@ In addition to the resources hosted on the live Nextstrain site, we also maintai
 
 * [Long-term evolution of H3Nx influenza viruses](https://nextstrain.org/groups/moncla-lab/h3nx/ha). Avian H3 viruses have jumped into multiple hosts and gone on to circulate endemically, including pigs, horses, humans, and dogs. Maria put together a comprehensive phylogeny of H3Nx evolution across these host species and is using this resource for her PhD work. 
 <center>
-<img src="/monclalab/assets/images/h3nx-nextstrain-2023-12-14.png" width="70%" title="H5Nx global Nextstrain build" align="left" vspace="10">
+<img src="/monclalab/assets/images/h3nx-nextstrain-2023-12-14.png" width="100%" title="H5Nx global Nextstrain build" align="left" vspace="10">
 </center>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
