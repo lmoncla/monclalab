@@ -23,9 +23,7 @@ If you have avian influenza data that you would like to analyze using Nextstrain
 ## Moncla lab Nextstrain builds 
 In addition to the resources hosted on the live Nextstrain site, we also maintain custom or work in progress phylogenies for other projects on our [Moncla lab Nextstrain Group page](https://nextstrain.org/groups/moncla-lab). Check out some of our other fun builds there: 
 
-1. [Analysis of H5Nx in North America](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha). Since 2022, there has been an enormous outbreak of highly pathogenic H5Nx viruses in the Americas. We built a Nextstrain build that is specifically focused on viruses sampled in the Americas during this outbreak, along with extra features like colors for flyways, avian species, and domestic/wild status. 
-
-<br/>
+[Analysis of H5Nx in North America](https://nextstrain.org/groups/moncla-lab/h5nx/north-america/ha). Since 2022, there has been an enormous outbreak of highly pathogenic H5Nx viruses in the Americas. We built a Nextstrain build that is specifically focused on viruses sampled in the Americas during this outbreak, along with extra features like colors for flyways, avian species, and domestic/wild status. 
 <center>
 <img src="/monclalab/assets/images/h5nx-north-america-2023-12-14.png" width="100%" title="H5Nx global Nextstrain build" align="left" vspace="30">
 </center>
@@ -33,12 +31,11 @@ In addition to the resources hosted on the live Nextstrain site, we also maintai
 <br/>
 
 
-2. [Long-term evolution of H3Nx influenza viruses](https://nextstrain.org/groups/moncla-lab/h3nx/ha). Avian H3 viruses have jumped into multiple hosts and gone on to circulate endemically, including pigs, horses, humans, and dogs. Maria put together a comprehensive phylogeny of H3Nx evolution across these host species and is using this resource for her PhD work. 
-
-<br/>
+[Long-term evolution of H3Nx influenza viruses](https://nextstrain.org/groups/moncla-lab/h3nx/ha). Avian H3 viruses have jumped into multiple hosts and gone on to circulate endemically, including pigs, horses, humans, and dogs. Maria put together a comprehensive phylogeny of H3Nx evolution across these host species and is using this resource for her PhD work. 
 <center>
 <img src="/monclalab/assets/images/h3nx-nextstrain-2023-12-14.png" width="100%" title="H5Nx global Nextstrain build" align="left" vspace="30">
 </center>
+<br/>
 <br/>
 
 ### Data and code availability: 
