@@ -10,11 +10,6 @@ We are intersted in work that lies at the intersection of basic science and publ
 
 ## Nextstrain links:
 
-<center>
-<img src="/monclalab/assets/images/h5nx-nextstrain-with-map-2023-12-14.png" width="100%" title="H5Nx global Nextstrain build" align="left" vspace="30">
-</center>
-<br/>
-
 We are heavily involved in [Nextstrain](https://nextstrain.org/), and built and maintain the avian influenza resources there. Check out global phylogenies for [H5Nx](https://nextstrain.org/flu/avian/h5nx/ha), [H5N1](https://nextstrain.org/flu/avian/h5n1/ha), [H7N9](https://nextstrain.org/flu/avian/h7n9/ha), and [H9N2](https://nextstrain.org/flu/avian/h9n2/ha) avian influenza viruses. We update these builds ever month. 
 
 If you have avian influenza data that you would like to analyze using Nextstrain resources, check out our tutorial and example data [here](https://github.com/lmoncla/csu-genomics-disease-wildlife-workshop/tree/main/nextstrain-lab). 
