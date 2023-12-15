@@ -12,7 +12,7 @@ The lab took a field trip! We went to see our friends and collaborators based ou
 <br/>
 
 <center>
-<img src="/monclalab/assets/images/alpacas-2023-12-12.jpg" width="100%" title="friendly alpacas, and 2 sheep" align="left" vspace="30">
+<img src="/monclalab/assets/images/alpacas-2023-12-12.MP.jpg" width="100%" title="friendly alpacas, and 2 sheep" align="left" vspace="30">
 </center>
 <br/>
 
