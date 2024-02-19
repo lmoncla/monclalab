@@ -23,6 +23,16 @@ Department of Pathobiology<br/>
 School of Veterinary Medicine, University of Pennsylvania<br/><br/><br/><br/>
 
 
+<a href="https://lmoncla.github.io/monclalab/team/AnnaJaeger">
+<img src="/monclalab/assets/images/people-Anna-Jaeger.jpg" width="30%" title="Anna Jaeger" align="left" hspace="30">
+</a>
+
+__Anna Jaeger, PhD__<br/>
+Post-doctoral Research Fellow<br/>
+Department of Pathobiology<br/>
+School of Veterinary Medicine, University of Pennsylvania<br/><br/><br/><br/>
+
+
 <a href="https://lmoncla.github.io/monclalab/team/JordanOrt">
 <img src="/monclalab/assets/images/people-Jordan-Ort.jpg" width="30%" title="Jordan Ort" align="left" hspace="30">
 </a>
@@ -41,14 +51,14 @@ PhD Student<br/>
 Biology Graduate Program<br/>
 University of Pennsylvania<br/><br/><br/><br/>
 
-<a href="https://lmoncla.github.io/monclalab/team/AnnaJaeger">
-<img src="/monclalab/assets/images/people-Anna-Jaeger.jpg" width="30%" title="Anna Jaeger" align="left" hspace="30">
+
+<a href="https://lmoncla.github.io/monclalab/team/ElenaCruzAdames">
+<img src="/monclalab/assets/images/people-Elena-Cruz-Adames.jpg" width="30%" title="Elena Cruz-Adames" align="left" hspace="30">
 </a>
 
-__Anna Jaeger, PhD__<br/>
-Post-doctoral Research Fellow<br/>
-Department of Pathobiology<br/>
-School of Veterinary Medicine, University of Pennsylvania<br/><br/><br/><br/>
+__Elena Cruz-Adames__<br/>
+Research Specialist<br/>
+University of Pennsylvania<br/><br/><br/><br/>
 
 
 <a href="">
