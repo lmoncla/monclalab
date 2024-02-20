@@ -66,7 +66,7 @@ University of Pennsylvania<br/><br/><br/><br/>
 </a>
 
 __Ireland Gorecki__<br/>
-Undergrad Student<br/>
+Undergraduate Student<br/>
 Biology; Mechanisms of Disease Major<br/>
 University of Pennsylvania<br/><br/><br/><br/>
 
