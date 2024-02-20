@@ -62,7 +62,7 @@ University of Pennsylvania<br/><br/><br/><br/>
 
 
 <a href="https://lmoncla.github.io/monclalab/team/IrelandGorecki">
-<img src="/monclalab/assets/images/people-Ireland-Gorecki.jpg" width="30%" title="Ireland Gorecki" align="left" hspace="50">
+<img src="/monclalab/assets/images/people-Ireland-Gorecki.jpg" width="30%" title="Ireland Gorecki" align="left" hspace="30">
 </a>
 
 __Ireland Gorecki__<br/>
