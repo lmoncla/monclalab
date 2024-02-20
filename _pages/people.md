@@ -65,12 +65,12 @@ University of Pennsylvania<br/><br/><br/><br/>
 <img src="/monclalab/assets/images/people-Ireland-Gorecki.jpg" width="30%" title="Ireland Gorecki" align="left" hspace="50">
 </a>
 
-<br/>__Ireland Gorecki__<br/>
+__Ireland Gorecki__<br/>
 Undergraduate Student<br/>
 Biology; Mechanisms of Disease Major<br/>
 University of Pennsylvania<br/><br/><br/><br/>
 
-<br/><br/>
+<br/>
 #     Lab alumni
 
 <a href="https://lmoncla.github.io/monclalab/team/AlexVoegele">
