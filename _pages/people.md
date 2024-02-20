@@ -65,7 +65,7 @@ University of Pennsylvania<br/><br/><br/><br/>
 <img src="/monclalab/assets/images/people-Ireland-Gorecki.jpg" width="30%" title="Ireland Gorecki" align="left" hspace="30">
 </a>
 
-__Ireland Gorecki__<br/>
+<br/><br/>__Ireland Gorecki__<br/>
 Undergraduate Student<br/>
 Biology; Mechanisms of Disease Major<br/>
 University of Pennsylvania<br/><br/><br/><br/>
