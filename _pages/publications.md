@@ -4,13 +4,26 @@ title: ""
 ---
 # Publications
 
+## 2024
+__Deep mutational scanning of H5 hemagglutinin to inform influenza virus surveillance__<br>
+*Bernadeta Dadonaite*, Jenny J Ahn, Jordan T Ort, Jin Yu, Colleen Furey, Annie Dosey, William W Hannon, Amy Vincent Baker, Richard J Webby, Neil P King, Yan Liu, Scott E Hensley, Thomas P Peacock, Louise H Moncla, Jesse D Bloom‡. bioRxiv, May 24, 2024, [DOI:10.1101/2024.05.23.595634](https://doi.org/10.1101/2024.05.23.595634)
+
+__Within-host influenza viral diversity in the pediatric population as a function of age, vaccine, and health status__
+*Ashley Sobel Leonard*, Lydia Mendoza, Alexander G McFarland, Andrew D Marques, John K Everett, Louise Moncla, Frederic D Bushman, Audrey R Odom John, Scott E Hensley‡, May 28, 2024, Virus Evolution, [DOI:Volume 10, Issue 1, 2024, veae034, https://doi.org/10.1093/ve/veae034](https://academic.oup.com/ve/article/10/1/veae034/7658145)
+
+__Local-scale phylodynamics reveal differential community impact of SARS-CoV-2 in a metropolitan US county__
+*Miguel I Paredes‡*, Amanda C Perofsky, Lauren Frisbie, Louise H Moncla, Pavitra Roychoudhury, Hong Xie, Shah A Mohamed Bakhash, Kevin Kong, Isabel Arnould, Tien V Nguyen, Seffir T Wendm, Pooneh Hajian, Sean Ellis, Patrick C Mathias, Alexander L Greninger, Lea M Starita, Chris D Frazar, Erica Ryke, Weizhi Zhong, Luis Gamboa, Machiko Threlkeld, Jover Lee, Jeremy Stone, Evan McDermot, Melissa Truong, Jay Shendure, Hanna N Oltean, Cécile Viboud, Helen Chu, Nicola F Müller, Trevor Bedford‡, March 26, 2024, PLoS Pathogens, [DOI:10.1371/journal.ppat.1012117](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012117)
+
+__SARS-CoV-2 evolution during prolonged infection in immunocompromised patients__
+Andrew D Marques, Jevon Graham-Wooten, Ayannah S Fitzgerald, Ashley Sobel Leonard, Emma J Cook, John K Everett, Kyle G Rodino, Louise H Moncla, Brendan J Kelly, Ronald G Collman, Frederic D Bushman. MBio, March 13, 2024, [DOI:10.1128/mbio.00110-24](https://journals.asm.org/doi/full/10.1128/mbio.00110-24)
+
 ## 2023
 __Avian H7N9 influenza viruses are evolutionarily constrained by stochastic processes during replication and transmission in mammals__<br/>
 *Katarina M Braun, Luis A Haddock III,* Chelsea M Crooks, Gabrielle L Barry, Joseph Lalli, Gabriele Neumann, Tokiko Watanabe, Masaki Imai, Seiya Yamayoshi, Mutsumi Ito, Louise H Moncla, Katia Koelle, Yoshihiro Kawaoka, Thomas C Friedrich‡. Virus Evolution, January 19, 2023, [DOI:10.1093/ve/vead004](https://academic.oup.com/ve/advance-article/doi/10.1093/ve/vead004/6991850)
 
 ## 2022
 __A multivalent nucleoside-modified mRNA vaccine against all known influenza virus subtypes__<br/>
-*Claudia P Arevalo*, Marcus J Bolton, Valerie Le Sage, Naiqing Ye, Colleen Furey, Hiromi Muramatsu, Mohamad-Gabriel Alameh, Norbert Pardi, Elizabeth M Drapeau, Kaela Parkhouse, Tyler Garretson, Jeffrey S Morris, Louise H Moncla, Ying K Tam, Steven HY Fan, Seema S Lakdawala, Drew Weissman, Scott E Hensley. Science, November 24, 2022, [DOI: 10.1126/science.abm0271](https://www.science.org/doi/full/10.1126/science.abm0271)
+*Claudia P Arevalo*, Marcus J Bolton, Valerie Le Sage, Naiqing Ye, Colleen Furey, Hiromi Muramatsu, Mohamad-Gabriel Alameh, Norbert Pardi, Elizabeth M Drapeau, Kaela Parkhouse, Tyler Garretson, Jeffrey S Morris, Louise H Moncla, Ying K Tam, Steven HY Fan, Seema S Lakdawala, Drew Weissman, Scott E Hensley‡. Science, November 24, 2022, [DOI: 10.1126/science.abm0271](https://www.science.org/doi/full/10.1126/science.abm0271)
 
 ## 2021
 __Acute SARS-CoV-2 infections harbor limited within-host diversity and transmit via tight transmission bottlenecks<br/>__
