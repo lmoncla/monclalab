@@ -3,6 +3,13 @@ permalink: /outreach/
 title: "News and outreach"
 ---
 
+### July 16, 2024: Spring recap
+It was a busy spring! We were thrilled to have [Clara](https://lmoncla.github.io/monclalab/team/ClaraMalekshahi/) rotate and join the lab, and are excited to have her working on avian ecology and H5 transmission. Louise was named a [Pew Biomedical Scholar](https://www.pewtrusts.org/en/projects/pew-biomedical-scholars/directory-of-pew-scholars/2024/louise-moncla), and Maria and Jordan passed their prelims. Congrats to everyone! 
+
+It was also a busy spring for avian influenza. H5N1 started spreading in dairy cattle, necessitating new visualizations, builds, and updates to [Nextstrain/avian-flu](https://nextstrain.org/avian-flu/h5n1/ha/2y), which would not have been possible without a tremendous amount of help from Trevor, Jover, James, and John on the Nextstrain team. We also made some commentary/interpretations to news outlets about the cattle outbreak, which you can peruse at [NPR](https://www.npr.org/sections/health-shots/2024/04/26/1247479100/bird-avian-flu-cows-cattle-milk-virus-unanswered-questions), [All Things Considered](https://www.npr.org/2024/04/02/1242328542/a-strain-of-the-bird-flu-virus-has-been-detected-in-a-human-in-texas), [Vox](https://www.vox.com/even-better/24145304/bird-flu-h5n1-avian-influenza-pandemic), [Nature News](https://www.nature.com/articles/d41586-024-01256-5), and [New York Times here](https://www.nytimes.com/2024/04/22/health/birdflu-marine-mammals.html) and [here](https://www.nytimes.com/2024/05/03/health/bird-flu-cows-mutations.html). 
+
+[Jordan](https://lmoncla.github.io/monclalab/team/JordanOrt/) also released his [H5 Nextclade dataset](https://clades.nextstrain.org/) onto the main Nextclade site, providing a tool for rapid, drag and drop clade assignment that the community can use. This is really exciting, and will be hopefully be useful to the field. Congrats Jordan! 
+
 ### December 12, 2023: Lab field trip!
 The lab took a field trip! We went to see our friends and collaborators based out to Penn Vet's large animal campus at New Bolton Center. We had a research update with investigators with the [Wildlife Futures Program](https://www.vet.upenn.edu/research/centers-laboratories/research-initiatives/wildlife-futures-program), picked up samples, and got to meet some alpacas! 
 
