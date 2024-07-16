@@ -51,6 +51,15 @@ PhD Student<br/>
 Biology Graduate Program<br/>
 University of Pennsylvania<br/><br/><br/><br/>
 
+<a href="https://lmoncla.github.io/monclalab/team/ClaraMalekshahi">
+<img src="/monclalab/assets/images/people-Clara-Malekshahi.jpg" width="30%" title="Clara Malekshahi" align="left" hspace="30">
+</a>
+
+__Clara Malekshahi__<br/>
+PhD Student<br/>
+Microbiology, Virology, and Parasitology Graduate Program<br/>
+University of Pennsylvania<br/><br/><br/><br/>
+
 
 <a href="https://lmoncla.github.io/monclalab/team/ElenaCruzAdames">
 <img src="/monclalab/assets/images/people-Elena-Cruz-Adames.jpg" width="30%" title="Elena Cruz-Adames" align="left" hspace="30">
