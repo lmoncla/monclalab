@@ -2,6 +2,26 @@
 permalink: /outreach/
 title: "News and outreach"
 ---
+### July 2024: The lab goes to the CEIRR Annual meeting
+In July, almost the entire lab went to New York for the CEIRR annual meeting. Maria presented a poster on her work characterizing influenza evolution in different species and Jordan presented both a poster and a talk on his NextClade dataset. It was really exciting to have the lab presenting data, and they were both very well received. We also continued our quest to get a fully up to date lab photo and got close, but not all the way there. 
+
+<center>
+<img src="/monclalab/assets/images/Moncla-lab-CEIRR-2024.jpg" width="100%" title="friendly alpacas, and 2 sheep" align="left" vspace="30">
+</center>
+<br/>
+
+Jordan presenting his work at the Computational Modeling Core Showcase, and the lab relaxing in Central Park. 
+
+<center>
+<img src="/monclalab/assets/images/Jordan-presents-Nextclade.jpg" width="100%" title="friendly alpacas, and 2 sheep" align="left" vspace="30">
+</center>
+<br/>
+
+<center>
+<img src="/monclalab/assets/images/lab-central-park-2024.jpg" width="100%" title="friendly alpacas, and 2 sheep" align="left" vspace="30">
+</center>
+<br/>
+
 
 ### July 16, 2024: Spring recap
 It was a busy spring! We were thrilled to have [Clara](https://lmoncla.github.io/monclalab/team/ClaraMalekshahi/) rotate and join the lab, and are excited to have her working on avian ecology and H5 transmission. Louise was named a [Pew Biomedical Scholar](https://www.pewtrusts.org/en/projects/pew-biomedical-scholars/directory-of-pew-scholars/2024/louise-moncla), and Maria and Jordan passed their prelims. Congrats to everyone! 
