@@ -99,7 +99,7 @@ Population genetics is the foundation of phylodynamics. It is also the primary f
 
 ### Penn Vet resources and guides
 Penn Vet has a lot of resources that can be hard to access. Here, we've compiled instructions for how to access some of these resources, which we want to make available to others in the department. 
-1. [Instructions for printing at Penn Vet](https://roasted-rainstorm-aab.notion.site/Printing-101-412fb29046444147ab636c16388dcea6?pvs=4)
+1. [Instructions for printing at Penn Vet](https://roasted-rainstorm-aab.notion.site/Public-printing-instructions-123fea918fa3804f9f60d4e3ffb02f07?pvs=4)
 
 2. [Instructions for connecting to Penn Vet drives](https://roasted-rainstorm-aab.notion.site/How-To-Connect-to-the-Penn-Drives-d2c796f94b864247aa207f90708f60a7?pvs=4)
 
