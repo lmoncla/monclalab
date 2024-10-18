@@ -97,3 +97,9 @@ This handbook was written by Alli Black and Gytis Dudas, specifically targeting 
 ### Population genetics
 Population genetics is the foundation of phylodynamics. It is also the primary field that studies of within-host diversity have drawn from. [These book chapters by Magnus Nordborg](https://people.eecs.berkeley.edu/~jordan/sail/readings/nordborg.pdf) provide a great introduction into the coalescent, and how deviations from ideal populations alter tree topologies. [This review](https://www.nature.com/articles/nrg795) is also a good place to start, and provides a nice overview of the coalescent. 
 
+### Penn Vet resources and guides
+Penn Vet has a lot of resources that can be hard to access. Here, we've compiled instructions for how to access some of these resources, which we want to make available to others in the department. 
+1. [Instructions for printing at Penn Vet](https://roasted-rainstorm-aab.notion.site/Printing-101-412fb29046444147ab636c16388dcea6?pvs=4)
+
+2. [Instructions for connecting to Penn Vet drives](https://roasted-rainstorm-aab.notion.site/How-To-Connect-to-the-Penn-Drives-d2c796f94b864247aa207f90708f60a7?pvs=4)
+

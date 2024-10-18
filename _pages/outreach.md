@@ -2,6 +2,9 @@
 permalink: /outreach/
 title: "News and outreach"
 ---
+### October 16, 2024
+I did a webinar with Aliza Simeone, Cheryl Bettigole, and Kathleen Hall Jamieson on highly pathogenic avian influenza in North America. It was a great discussion, with lots of great questions, and the webinar was covered by [Penn Today](https://penntoday.upenn.edu/news/penn-vet-appc-avian-influenza-outbreak)!
+
 ### July 2024: The lab goes to the CEIRR Annual meeting
 In July, almost the entire lab went to New York for the CEIRR annual meeting. Maria presented a poster on her work characterizing influenza evolution in different species and Jordan presented both a poster and a talk on his NextClade dataset. It was really exciting to have the lab presenting data, and they were both very well received. We also continued our quest to get a fully up to date lab photo and got close, but not all the way there. 
 
