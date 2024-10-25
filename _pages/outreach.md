@@ -2,6 +2,14 @@
 permalink: /outreach/
 title: "News and outreach"
 ---
+### October 23, 2024
+The lab went out to dinner to celebrate the newest member of the lab, [Stephen Shank](https://lmoncla.github.io/monclalab/team/StephenShank/), who is joining us as a full time bioinformatician/computational biologist. We had dim sum on got a mostly complete lab picture. Welcome Stephen! 
+
+<center>
+<img src="/monclalab/assets/images/2024-10-23-dim-sum.MP.jpeg" width="100%" title="friendly alpacas, and 2 sheep" align="left" vspace="30">
+</center>
+<br/>
+
 ### October 16, 2024
 I did a webinar with Aliza Simeone, Cheryl Bettigole, and Kathleen Hall Jamieson on highly pathogenic avian influenza in North America. It was a great discussion, with lots of great questions, and the webinar was covered by [Penn Today](https://penntoday.upenn.edu/news/penn-vet-appc-avian-influenza-outbreak)!
 
