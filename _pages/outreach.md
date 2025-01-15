@@ -6,7 +6,7 @@ title: "News and outreach"
 The lab went out to dinner to celebrate the newest member of the lab, [Stephen Shank](https://lmoncla.github.io/monclalab/team/StephenShank/), who is joining us as a full time bioinformatician/computational biologist. We had dim sum on got a mostly complete lab picture. Welcome Stephen! 
 
 <center>
-<img src="/monclalab/assets/images/2024-10-23-dim-sum.MP.jpeg" width="100%" title="friendly alpacas, and 2 sheep" align="left" vspace="30">
+<img src="/monclalab/assets/images/2024-10-23-dim-sum.MP.jpeg" width="100%" title="" align="left" vspace="30">
 </center>
 <br/>
 
@@ -17,19 +17,19 @@ I did a webinar with Aliza Simeone, Cheryl Bettigole, and Kathleen Hall Jamieson
 In July, almost the entire lab went to New York for the CEIRR annual meeting. Maria presented a poster on her work characterizing influenza evolution in different species and Jordan presented both a poster and a talk on his NextClade dataset. It was really exciting to have the lab presenting data, and they were both very well received. We also continued our quest to get a fully up to date lab photo and got close, but not all the way there. 
 
 <center>
-<img src="/monclalab/assets/images/Moncla-lab-CEIRR-2024.jpg" width="100%" title="friendly alpacas, and 2 sheep" align="left" vspace="30">
+<img src="/monclalab/assets/images/Moncla-lab-CEIRR-2024.jpg" width="100%" title="" align="left" vspace="30">
 </center>
 <br/>
 
 Jordan presenting his work at the Computational Modeling Core Showcase, and the lab relaxing in Central Park. 
 
 <center>
-<img src="/monclalab/assets/images/Jordan-presents-Nextclade.jpg" width="100%" title="friendly alpacas, and 2 sheep" align="left" vspace="30">
+<img src="/monclalab/assets/images/Jordan-presents-Nextclade.jpg" width="100%" title="" align="left" vspace="30">
 </center>
 <br/>
 
 <center>
-<img src="/monclalab/assets/images/lab-central-park-2024.jpg" width="100%" title="friendly alpacas, and 2 sheep" align="left" vspace="30">
+<img src="/monclalab/assets/images/lab-central-park-2024.jpg" width="100%" title="" align="left" vspace="30">
 </center>
 <br/>
 
@@ -45,7 +45,7 @@ It was also a busy spring for avian influenza. H5N1 started spreading in dairy c
 The lab took a field trip! We went to see our friends and collaborators based out to Penn Vet's large animal campus at New Bolton Center. We had a research update with investigators with the [Wildlife Futures Program](https://www.vet.upenn.edu/research/centers-laboratories/research-initiatives/wildlife-futures-program), picked up samples, and got to meet some alpacas! 
 
 <center>
-<img src="/monclalab/assets/images/field-trip-2023-12-12.jpg" width="100%" title="friendly alpacas, and 2 sheep" align="left" vspace="30">
+<img src="/monclalab/assets/images/field-trip-2023-12-12.jpg" width="100%" title="" align="left" vspace="30">
 </center>
 <br/>
 
