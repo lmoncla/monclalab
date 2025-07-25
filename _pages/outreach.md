@@ -76,6 +76,15 @@ It was also a busy spring for avian influenza. H5N1 started spreading in dairy c
 
 [Jordan](https://lmoncla.github.io/monclalab/team/JordanOrt/) also released his [H5 Nextclade dataset](https://clades.nextstrain.org/) onto the main Nextclade site, providing a tool for rapid, drag and drop clade assignment that the community can use. This is really exciting, and will be hopefully be useful to the field. Congrats Jordan! 
 
+### December 2023: Departmental holiday party!
+Our lab went to the Pathobiology holiday party and took a cute lab pic! 
+
+<center>
+<img src="/monclalab/assets/images/holiday-lab-pic-2023-12-14.jpg" width="100%" title="" align="left" vspace="30">
+</center>
+<br/>
+
+
 ### December 12, 2023: Lab field trip!
 The lab took a field trip! We went to see our friends and collaborators based out to Penn Vet's large animal campus at New Bolton Center. We had a research update with investigators with the [Wildlife Futures Program](https://www.vet.upenn.edu/research/centers-laboratories/research-initiatives/wildlife-futures-program), picked up samples, and got to meet some alpacas! 
 
