@@ -11,6 +11,10 @@ Today our lab had a going away party for our much-beloved post-doc, Lambo. Lambo
 <br/>
  
 
+### June 2025 
+I participated in this [Scientific American podcast](https://www.scientificamerican.com/podcast/episode/how-h5n1-went-from-an-illness-in-wild-birds-to-a-global-pandemic-threat/) all about highly pathogenic avian influenza, and how it has become a real problem. This is segment one of a 3-part series, with lots of interesting guests. 
+
+
 ### May 30, 2025
 Jordan presented his work on NA antibodies at the CEIRR annual meeting at UGA! There was a big audience, and he did a great job. 
 
