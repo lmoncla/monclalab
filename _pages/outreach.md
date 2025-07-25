@@ -24,6 +24,15 @@ Jordan presented his work on NA antibodies at the CEIRR annual meeting at UGA! T
 </center>
 <br/>
 
+
+### February 2025 
+This month, Scott Hensley, Lisa Murphy, Andy Hoffman and I [traveled to Harrisburg](https://www.vet.upenn.edu/university-of-pennsylvania-avian-influenza-experts-provide-briefing-to-pennsylvania-policy-makers/) to brief the Pennsylvania State Senate, House Rural Affairs and Health committees, and the Governor's office on highly pathogenic avian influenza in North America and Pennsylvania. It was a very interesting experience, and you can check out the full House briefing and session [here](https://www.youtube.com/live/yRxdeG9VSIU)! 
+
+<center>
+<img src="/monclalab/assets/images/PA-state-legislature-briefing-2025-02.png" width="100%" title="" align="left" vspace="30">
+</center>
+<br/>
+
 ### October 23, 2024
 The lab went out to dinner to celebrate the newest member of the lab, [Stephen Shank](https://lmoncla.github.io/monclalab/team/StephenShank/), who is joining us as a full time bioinformatician/computational biologist. We had dim sum on got a mostly complete lab picture. Welcome Stephen! 
 
