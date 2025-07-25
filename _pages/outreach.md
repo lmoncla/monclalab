@@ -2,6 +2,28 @@
 permalink: /outreach/
 title: "News and outreach"
 ---
+### June 5, 2025
+Today our lab had a going away party for our much-beloved post-doc, Lambo. Lambo was the first post doc to join the lab, and since then, he has helped everyone learn about phylogenetics and BEAST, troubleshoot their trees, and made everyone feel welcome and supported in the lab. He also diligently remembered birthdays and always brought in cake! He will be sorely missed. To send him off we went to Bok Bar and had some drinks and cake.
+
+<center>
+<img src="/monclalab/assets/images/Lambo-going-away.jpg" width="100%" title="" align="left" vspace="30">
+</center>
+<br/>
+ 
+
+### May 30, 2025
+Jordan presented his work on NA antibodies at the CEIRR annual meeting at UGA! There was a big audience, and he did a great job. 
+
+<center>
+<img src="/monclalab/assets/images/CEIRR-2025.jpg" width="100%" title="" align="left" vspace="30">
+</center>
+<br/>
+
+<center>
+<img src="/monclalab/assets/images/CEIRR-2025-2.jpg" width="100%" title="" align="left" vspace="30">
+</center>
+<br/>
+
 ### October 23, 2024
 The lab went out to dinner to celebrate the newest member of the lab, [Stephen Shank](https://lmoncla.github.io/monclalab/team/StephenShank/), who is joining us as a full time bioinformatician/computational biologist. We had dim sum on got a mostly complete lab picture. Welcome Stephen! 
 
