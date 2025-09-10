@@ -25,7 +25,7 @@ author_profile: true
 
 ## Bio 
 
-*Lambo is now a post-doc at Emory in [Katia Koelle's}(https://scholarblogs.emory.edu/koellelab/) group**
+*Lambo is now a post-doc at Emory in [Katia Koelle's](https://scholarblogs.emory.edu/koellelab/) group*
 
 I am a postdoctoral researcher interested in disease ecology and what drives infections across different species and biological scales. I am particularly fascinated by urban ecology and the potential of pathogens to spread to and between humans and animals. 
 
