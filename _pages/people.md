@@ -86,8 +86,7 @@ University of Pennsylvania<br/><br/><br/><br/>
 
 __Lambodhar Damodaran, PhD__<br/>
 Role: Post-doctoral Research Fellow<br/>
-Now: Post-doctoral Research Fellow at Emory<br/>
-[Katia Koelle's lab](https://scholarblogs.emory.edu/koellelab/)<br/><br/><br/><br/>
+Now: Post-doctoral Research Fellow at Emory in [Katia Koelle's lab](https://scholarblogs.emory.edu/koellelab/)<br/><br/><br/><br/>
 
 
 <a href="https://lmoncla.github.io/monclalab/team/AlexVoegele">
