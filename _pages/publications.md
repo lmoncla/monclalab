@@ -6,7 +6,7 @@ title: ""
 
 ## 2025
 
-[__Emergence and Epidemiology of Dominant Variants of Human Metapneumovirus in the United States between 2016 and 2021__<br>
+__Emergence and Epidemiology of Dominant Variants of Human Metapneumovirus in the United States between 2016 and 2021__<br>
 *Lora Lee Pless*, Lambodar Damodaran, Ray Pomponio, Rose Patrick, Marissa Pacey Griffith, Sara Walters, Kady D Waggle, Atalia Pleskovitch, Vatsala Rangachar Srinivasa, Cole A Varela, Lee H Harrison, John P Barton, Louise H Moncla, Marian G Michaels, John V Williams, Anna F Wang-Erickson. __medRxiv__ at: [2025.08. 31.25334797](https://www.medrxiv.org/content/medrxiv/early/2025/09/02/2025.08.31.25334797.full.pdf)
 
 __Ecology and spread of the North American H5N1 epizootic__<br>
