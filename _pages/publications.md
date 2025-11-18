@@ -4,9 +4,35 @@ title: ""
 ---
 # Publications
 
+## 2025
+
+_Emergence and Epidemiology of Dominant Variants of Human Metapneumovirus in the United States between 2016 and 2021_<br>
+*Lora Lee Pless*, Lambodar Damodaran, Ray Pomponio, Rose Patrick, Marissa Pacey Griffith, Sara Walters, Kady D Waggle, Atalia Pleskovitch, Vatsala Rangachar Srinivasa, Cole A Varela, Lee H Harrison, John P Barton, Louise H Moncla, Marian G Michaels, John V Williams, Anna F Wang-Erickson. (in revision with minor revisions, MBio), available on medRxiv at: [2025.08. 31.25334797]()
+
+_Ecology and spread of the North American H5N1 epizootic__<br>
+*Lambodhar Damodaran*, Anna Jaeger, Louise H. Moncla‡. Nature, November 12, 2025. [DOI: s41586-025-09737-x](https://www.nature.com/articles/s41586-025-09737-x)
+
+_Development of avian influenza A(H5) virus datasets for Nextclade enables rapid and accurate clade assignment__<br> 
+*Jordan T. Ort*, Samuel S. Shepard, Sonja Zolnoski, Tommy T.-Y. Lam, Todd Davis, Richard Neher, Louise H. Moncla‡. Virus Evolution, DOI: 10.1093/ve/veaf058, August 4, 2025. (‡Corresponding author)
+
+_“Controlling bird flu is urgent—for dairy, wildlife, poultry, pets, and people.”_<br> 
+*Anice C Lowen**, Andrew S Bowman, Jonathan A Runstadler, Amy L Baker, Adolfo García-Sastre, Scott E Hensley, Seema S Lakdawala, Louise H Moncla, Marthal Nelson, Andrew Pekosz, Rebecca L Poulson, Wendy B Puryear, Troy C Sutton, S Mark Tompkins, Richard J Webby. Journal of the American Veterinary Medical Association. June 25, 2025. [DOI: https://doi.org/10.1128/jvi.00052-25](https://avmajournals.avma.org/view/journals/javma/263/9/javma.25.05.0294.xml)
+
+_Influenza A (H5N1) immune response among ferrets with influenza A (H1N1)pdm09 immunity__<br> 
+*Valerie Le Sage*, Bailee D Werner, Grace A Merrbach, Sarah E Petnuch, Aoife K O’Connell, Holly C Simmons, Kevin R McCarthy, Douglas S Reed, Louise H Moncla, Disha Bhavsar, Florian Krammer, Nicholas A Crossland, Anita K McElroy, W Paul Duprex, Seema S Lakdawala‡. Emerging Infectious Diseases. March 31, 2025. [DOI: 10.3201/eid3103.241485]()
+
+_“Pandemic risk stemming from the bovine H5N1 outbreak: an account of the knowns and unknowns”_<br> 
+*Anice C Lowen*, Amy L Baker, Andrew S Bowman, Adolfo García-Sastre, Scott E Hensley, Seema S Lakdawala, Louise H Moncla, Martha I Nelson, Andrew Pekosz, Rebecca L Poulson, Wendy B Puryear, Jonathan A Runstadler, Troy C Sutton, S Mark Tompkins, Richard J Webby, Risk Assessment Pipeline working group of the NIAID Centers of Excellence for Influenza Research and Response (CEIRR) Network. Journal of Virology, February 27, 2025. [DOI: https://doi.org/10.1128/jvi.00052-25](). 
+
+_The Evolution and Epidemiology of H3N2 Canine Influenza Virus After 20 Years in Dogs__<br>
+*Brian R Wasik*, Lambodhar Damodaran, Maria A Maltepes, Ian EH Voorhees, Christian M Leutenegger, Sandra Newbury, Louise H Moncla, Benjamin D Dalziel, Laura B Goodman, Colin R Parrish. Epidemiology and Infection, March 5, 2025. [DOI: 10.1017/S0950268825000251](). 
+
 ## 2024
 __Deep mutational scanning of H5 hemagglutinin to inform influenza virus surveillance__<br>
-*Bernadeta Dadonaite*, Jenny J Ahn, Jordan T Ort, Jin Yu, Colleen Furey, Annie Dosey, William W Hannon, Amy Vincent Baker, Richard J Webby, Neil P King, Yan Liu, Scott E Hensley, Thomas P Peacock, Louise H Moncla, Jesse D Bloom‡. bioRxiv, May 24, 2024, [DOI:10.1101/2024.05.23.595634](https://doi.org/10.1101/2024.05.23.595634)
+*Bernadeta Dadonaite*, Jenny J Ahn, Jordan T Ort, Jin Yu, Colleen Furey, Annie Dosey, William W Hannon, Amy Vincent Baker, Richard J Webby, Neil P King, Yan Liu, Scott E Hensley, Thomas P Peacock, Louise H Moncla, Jesse D Bloom‡. PLOS Biology, November 12, 2024. 
+
+_The global H5N1 influenza panzootic in mammals__<br> 
+*Thomas Peacock*, Louise Moncla, Gytis Dudas, David VanInsberghe, Ksenia Sukhova, James O Lloyd-Smith, Michael Worobey, Anice C Lowen, Martha I Nelson. Nature, September 24, 2024, DOI: 10.1038/s41586-024-08054-z
 
 __Within-host influenza viral diversity in the pediatric population as a function of age, vaccine, and health status__<br>
 *Ashley Sobel Leonard*, Lydia Mendoza, Alexander G McFarland, Andrew D Marques, John K Everett, Louise Moncla, Frederic D Bushman, Audrey R Odom John, Scott E Hensley‡, May 28, 2024, Virus Evolution, [DOI:Volume 10, Issue 1, 2024, veae034, https://doi.org/10.1093/ve/veae034](https://academic.oup.com/ve/article/10/1/veae034/7658145)
