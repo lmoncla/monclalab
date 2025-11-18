@@ -22,6 +22,16 @@ Post-doctoral Research Fellow<br/>
 Department of Pathobiology<br/>
 School of Veterinary Medicine, University of Pennsylvania<br/><br/><br/><br/>
 
+<a href="https://lmoncla.github.io/monclalab/team/QiqiYang">
+<img src="/monclalab/assets/images/people-Qiqi-Yang.jpg" width="30%" title="Qiqi Yang" align="left" hspace="30">
+</a>
+
+__Qiqi Yang, PhD__<br/>
+Post-doctoral Research Fellow<br/>
+Department of Pathobiology<br/>
+School of Veterinary Medicine, University of Pennsylvania<br/><br/><br/><br/>
+
+
 <a href="https://lmoncla.github.io/monclalab/team/StephenShank">
 <img src="/monclalab/assets/images/people-Stephen-Shank.jpg" width="30%" title="Stephen Shank" align="left" hspace="30">
 </a>
