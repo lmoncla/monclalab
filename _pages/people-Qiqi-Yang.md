@@ -3,7 +3,7 @@ permalink: /team/QiqiYang/
 title: ""
 author:
   name   : "Qiqi Yang"
-  avatar : "/assets/images/people-Anna-Jaeger.jpg"
+  avatar : "/assets/images/people-Qiqi-Yang.jpg"
   bio    : Post-doctoral research fellow
   links:
     - label: "Google Scholar Page"
