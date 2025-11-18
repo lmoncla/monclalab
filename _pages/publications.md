@@ -6,26 +6,26 @@ title: ""
 
 ## 2025
 
-__Emergence and Epidemiology of Dominant Variants of Human Metapneumovirus in the United States between 2016 and 2021__<br>
-*Lora Lee Pless*, Lambodar Damodaran, Ray Pomponio, Rose Patrick, Marissa Pacey Griffith, Sara Walters, Kady D Waggle, Atalia Pleskovitch, Vatsala Rangachar Srinivasa, Cole A Varela, Lee H Harrison, John P Barton, Louise H Moncla, Marian G Michaels, John V Williams, Anna F Wang-Erickson. __medRxiv__ at: [2025.08. 31.25334797]()
+[__Emergence and Epidemiology of Dominant Variants of Human Metapneumovirus in the United States between 2016 and 2021__](https://www.medrxiv.org/content/medrxiv/early/2025/09/02/2025.08.31.25334797.full.pdf)<br>
+*Lora Lee Pless*, Lambodar Damodaran, Ray Pomponio, Rose Patrick, Marissa Pacey Griffith, Sara Walters, Kady D Waggle, Atalia Pleskovitch, Vatsala Rangachar Srinivasa, Cole A Varela, Lee H Harrison, John P Barton, Louise H Moncla, Marian G Michaels, John V Williams, Anna F Wang-Erickson. __medRxiv__: 2025.08. 31.25334797
 
 __Ecology and spread of the North American H5N1 epizootic__<br>
 *Lambodhar Damodaran*, Anna Jaeger, Louise H. Moncla‡. __Nature__, November 12, 2025. [DOI: s41586-025-09737-x](https://www.nature.com/articles/s41586-025-09737-x)
 
 __Development of avian influenza A(H5) virus datasets for Nextclade enables rapid and accurate clade assignment__<br> 
-*Jordan T. Ort*, Samuel S. Shepard, Sonja Zolnoski, Tommy T.-Y. Lam, Todd Davis, Richard Neher, Louise H. Moncla‡. Virus Evolution, August 4, 2025, [DOI: 10.1093/ve/veaf058]()
+*Jordan T. Ort*, Samuel S. Shepard, Sonja Zolnoski, Tommy T.-Y. Lam, Todd Davis, Richard Neher, Louise H. Moncla‡. __Virus Evolution__, August 4, 2025, [DOI: 10.1093/ve/veaf058](https://academic.oup.com/ve/article/11/1/veaf058/8221740)
 
 __Controlling bird flu is urgent—for dairy, wildlife, poultry, pets, and people__<br> 
 *Anice C Lowen*, Andrew S Bowman, Jonathan A Runstadler, Amy L Baker, Adolfo García-Sastre, Scott E Hensley, Seema S Lakdawala, Louise H Moncla, Marthal Nelson, Andrew Pekosz, Rebecca L Poulson, Wendy B Puryear, Troy C Sutton, S Mark Tompkins, Richard J Webby. __Journal of the American Veterinary Medical Association.__ June 25, 2025. [DOI: https://doi.org/10.1128/jvi.00052-25](https://avmajournals.avma.org/view/journals/javma/263/9/javma.25.05.0294.xml)
 
 __Influenza A (H5N1) immune response among ferrets with influenza A (H1N1)pdm09 immunity__<br> 
-*Valerie Le Sage*, Bailee D Werner, Grace A Merrbach, Sarah E Petnuch, Aoife K O’Connell, Holly C Simmons, Kevin R McCarthy, Douglas S Reed, Louise H Moncla, Disha Bhavsar, Florian Krammer, Nicholas A Crossland, Anita K McElroy, W Paul Duprex, Seema S Lakdawala‡. __Emerging Infectious Diseases.__ March 31, 2025. [DOI: 10.3201/eid3103.241485]()
+*Valerie Le Sage*, Bailee D Werner, Grace A Merrbach, Sarah E Petnuch, Aoife K O’Connell, Holly C Simmons, Kevin R McCarthy, Douglas S Reed, Louise H Moncla, Disha Bhavsar, Florian Krammer, Nicholas A Crossland, Anita K McElroy, W Paul Duprex, Seema S Lakdawala‡. __Emerging Infectious Diseases.__ March 31, 2025. [DOI: 10.3201/eid3103.241485](https://pmc.ncbi.nlm.nih.gov/articles/PMC11878318/)
 
 __Pandemic risk stemming from the bovine H5N1 outbreak: an account of the knowns and unknowns__<br> 
-*Anice C Lowen*, Amy L Baker, Andrew S Bowman, Adolfo García-Sastre, Scott E Hensley, Seema S Lakdawala, Louise H Moncla, Martha I Nelson, Andrew Pekosz, Rebecca L Poulson, Wendy B Puryear, Jonathan A Runstadler, Troy C Sutton, S Mark Tompkins, Richard J Webby, Risk Assessment Pipeline working group of the NIAID Centers of Excellence for Influenza Research and Response (CEIRR) Network. __Journal of Virology__, February 27, 2025. [DOI: https://doi.org/10.1128/jvi.00052-25](). 
+*Anice C Lowen*, Amy L Baker, Andrew S Bowman, Adolfo García-Sastre, Scott E Hensley, Seema S Lakdawala, Louise H Moncla, Martha I Nelson, Andrew Pekosz, Rebecca L Poulson, Wendy B Puryear, Jonathan A Runstadler, Troy C Sutton, S Mark Tompkins, Richard J Webby, Risk Assessment Pipeline working group of the NIAID Centers of Excellence for Influenza Research and Response (CEIRR) Network. __Journal of Virology__, February 27, 2025. [DOI: https://doi.org/10.1128/jvi.00052-25](https://journals.asm.org/doi/pdf/10.1128/jvi.00052-25). 
 
 __The Evolution and Epidemiology of H3N2 Canine Influenza Virus After 20 Years in Dogs__<br>
-*Brian R Wasik*, Lambodhar Damodaran, Maria A Maltepes, Ian EH Voorhees, Christian M Leutenegger, Sandra Newbury, Louise H Moncla, Benjamin D Dalziel, Laura B Goodman, Colin R Parrish. __Epidemiology and Infection__, March 5, 2025. [DOI: 10.1017/S0950268825000251](). 
+*Brian R Wasik*, Lambodhar Damodaran, Maria A Maltepes, Ian EH Voorhees, Christian M Leutenegger, Sandra Newbury, Louise H Moncla, Benjamin D Dalziel, Laura B Goodman, Colin R Parrish. __Epidemiology and Infection__, March 5, 2025. [DOI: 10.1017/S0950268825000251](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0743D5B6FC771D5CD4087B4CF50EAE73/S0950268825000251a.pdf/evolution_and_epidemiology_of_h3n2_canine_influenza_virus_after_20_years_in_dogs.pdf). 
 
 ## 2024
 __Deep mutational scanning of H5 hemagglutinin to inform influenza virus surveillance__<br>
