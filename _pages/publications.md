@@ -31,7 +31,7 @@ __The Evolution and Epidemiology of H3N2 Canine Influenza Virus After 20 Years i
 __Deep mutational scanning of H5 hemagglutinin to inform influenza virus surveillance__<br>
 *Bernadeta Dadonaite*, Jenny J Ahn, Jordan T Ort, Jin Yu, Colleen Furey, Annie Dosey, William W Hannon, Amy Vincent Baker, Richard J Webby, Neil P King, Yan Liu, Scott E Hensley, Thomas P Peacock, Louise H Moncla, Jesse D Bloom‡. __PLOS Biology__, November 12, 2024. [DOI:10.1371/journal.pbio.3002916](https://journals.plos.org/Plosbiology/article?id=10.1371/journal.pbio.3002916)
 
-_The global H5N1 influenza panzootic in mammals__<br> 
+__The global H5N1 influenza panzootic in mammals__<br> 
 *Thomas Peacock*, Louise Moncla, Gytis Dudas, David VanInsberghe, Ksenia Sukhova, James O Lloyd-Smith, Michael Worobey, Anice C Lowen, Martha I Nelson. __Nature__, September 24, 2024, [DOI: 10.1038/s41586-024-08054-z](https://qcb.ucla.edu/wp-content/uploads/sites/14/2025/02/s41586-024-08054-z.pdf)
 
 __Within-host influenza viral diversity in the pediatric population as a function of age, vaccine, and health status__<br>
