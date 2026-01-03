@@ -30,7 +30,7 @@ Maria, Elena, Clara, and Louise went to Penn State for the first, northeast regi
 ### November 12, 2025: Lambo's paper got published!
 [Lambo's paper](https://www.nature.com/articles/s41586-025-09737-x) on the North American H5N1 epizootic was published online today in Nature!! Huge congratulations Lambo and Anna on their fantastic work. We used phylodynamics to recover how H5N1 virusres were introduced and spread within North America, and pinpoint transmission in wild birds as key to seeding spread and incursions into agriculture. 
 
-### June 5, 2025
+### June 5, 2025: Goodbye party for Lambo
 Today our lab had a going away party for our much-beloved post-doc, Lambo. Lambo was the first post doc to join the lab, and since then, he has helped everyone learn about phylogenetics and BEAST, troubleshoot their trees, and made everyone feel welcome and supported in the lab. He also diligently remembered birthdays and always brought in cake! He will be sorely missed. To send him off we went to Bok Bar and had some drinks and cake.
 
 <center>
@@ -43,7 +43,7 @@ Today our lab had a going away party for our much-beloved post-doc, Lambo. Lambo
 I participated in this [Scientific American podcast](https://www.scientificamerican.com/podcast/episode/how-h5n1-went-from-an-illness-in-wild-birds-to-a-global-pandemic-threat/) all about highly pathogenic avian influenza, and how it has become a real problem. This is segment one of a 3-part series, with lots of interesting guests. 
 
 
-### May 30, 2025
+### May 30, 2025: CEIRR Annual Meeting
 Jordan presented his work on NA antibodies at the CEIRR annual meeting at UGA! There was a big audience, and he did a great job. 
 
 <center>
@@ -57,7 +57,7 @@ Jordan presented his work on NA antibodies at the CEIRR annual meeting at UGA! T
 <br/>
 
 
-### February 2025 
+### February 2025: Briefing the Pennsylvania state government 
 This month, Scott Hensley, Lisa Murphy, Andy Hoffman and I [traveled to Harrisburg](https://www.vet.upenn.edu/university-of-pennsylvania-avian-influenza-experts-provide-briefing-to-pennsylvania-policy-makers/) to brief the Pennsylvania State Senate, House Rural Affairs and Health committees, and the Governor's office on highly pathogenic avian influenza in North America and Pennsylvania. It was a very interesting experience, and you can check out the full House briefing and session [here](https://www.youtube.com/live/yRxdeG9VSIU)! 
 
 <center>
@@ -65,7 +65,7 @@ This month, Scott Hensley, Lisa Murphy, Andy Hoffman and I [traveled to Harrisbu
 </center>
 <br/>
 
-### October 23, 2024
+### October 23, 2024: Stephen joins the lab
 The lab went out to dinner to celebrate the newest member of the lab, [Stephen Shank](https://lmoncla.github.io/monclalab/team/StephenShank/), who is joining us as a full time bioinformatician/computational biologist. We had dim sum on got a mostly complete lab picture. Welcome Stephen! 
 
 <center>
