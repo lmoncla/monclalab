@@ -3,6 +3,14 @@ permalink: /outreach/
 title: "News and outreach"
 ---
 
+### November 30-December 3, 2025
+Anna, Lambo, Maria, and Louise went to the [10th Epidemics conference in San Diego](https://www.elsevier.com/events/conferences/all/international-conference-on-infectious-disease-dynamics), where Louise and Maria gave talks and Anna gave a poster. We somehow didn't get a single picture of all of us at the conference, but we did get a photo of us eating some really great Mexican food.
+
+<center>
+<img src="/monclalab/assets/images/epidemics-dinner.jpg" width="100%" title="" align="left" vspace="30">
+</center>
+<br/>
+
 ### November 13-15, 2025
 Maria, Elena, Clara, and Louise went to Penn State for the first, northeast regional Ecology and Evolution of Infectious Diseases Meeting. It was great! Maria presented a talk on her reassortment work that was very well received, and Clara gave a poster that got lots of interest. We also ate some delicious Korean food and got creamery ice cream! 
 
@@ -15,6 +23,9 @@ Maria, Elena, Clara, and Louise went to Penn State for the first, northeast regi
 <img src="/monclalab/assets/images/psu-eeid-2025-2.jpg" width="100%" title="" align="left" vspace="30">
 </center>
 <br/>
+
+### November 12, 2025
+[Lambo's paper](https://www.nature.com/articles/s41586-025-09737-x) on the North American H5N1 epizootic was published online today in Nature!! Huge congratulations Lambo and Anna on their fantastic work. We used phylodynamics to recover how H5N1 virusres were introduced and spread within North America, and pinpoint transmission in wild birds as key to seeding spread and incursions into agriculture. 
 
 ### June 5, 2025
 Today our lab had a going away party for our much-beloved post-doc, Lambo. Lambo was the first post doc to join the lab, and since then, he has helped everyone learn about phylogenetics and BEAST, troubleshoot their trees, and made everyone feel welcome and supported in the lab. He also diligently remembered birthdays and always brought in cake! He will be sorely missed. To send him off we went to Bok Bar and had some drinks and cake.
