@@ -68,30 +68,21 @@ This is an amazing book about Bayesian statistics. During my post-doc, our lab d
 The field of phylodynamics has exploded in recent years, which means that there are now some really great resources for learning about it. Below are some tools and background reading that are great for learning. 
 
 #### Lectures, tutorials, and handbooks
-1. [Lectures and labs on introduction to phylodynamics, Nextstrain and BEAST](https://github.com/lmoncla/csu-genomics-disease-wildlife-workshop). I taught 2 lectures and 2 labs for the [Genomics of Disease in Wildlife Workshop](https://gdwworkshop.colostate.edu/) in 2023. Those lectures go over an introduction to the field of phylodynamics, coalescent theory, and an introduction to Markov Chain Monte Carlo and BEAST. In the labs, I used a nice dataset that Maria put together to go over how to set up a BEAST analysis and to develop and use Nextstrain. Feel free to look through these slides and/or the lab activities. The lab activities are meant to be self-guided, and include screenshots and commands to set up and analyze the results of BEAST and Nextstrain analyses. Check out the entire set of course materials [here](https://github.com/gdw-workshop/2023_GDW_Workshop). 
+1. [Intro to Phylodynamics and Nextstrain](https://roasted-rainstorm-aab.notion.site/Intro-to-Phylodynamics-and-Nextstrain-2ddfea918fa380158cdec5658e0bfbc3). Our lab has put together a short list of reading materials (mostly reviews) and tutorials to get you started on learning phylodynamics and building Nextstrain trees. If you are new to the lab, or looking to get started with phylodynamics for the first time, this is a good place to start. 
 
-2. [Trevor Bedford's lectures on phylodynamics](https://bedford.io/projects/phylodynamics-lecture/)
+2. [Lectures and labs on introduction to phylodynamics, Nextstrain and BEAST](https://github.com/lmoncla/csu-genomics-disease-wildlife-workshop). I taught 2 lectures and 2 labs for the [Genomics of Disease in Wildlife Workshop](https://gdwworkshop.colostate.edu/) in 2023. Those lectures go over an introduction to the field of phylodynamics, coalescent theory, and an introduction to Markov Chain Monte Carlo and BEAST. In the labs, I used a nice dataset that Maria put together to go over how to set up a BEAST analysis and to develop and use Nextstrain. Feel free to look through these slides and/or the lab activities. The lab activities are meant to be self-guided, and include screenshots and commands to set up and analyze the results of BEAST and Nextstrain analyses. Check out the entire set of course materials [here](https://github.com/gdw-workshop/2023_GDW_Workshop). 
 
-3. [Nextstrain tutorial](https://docs.nextstrain.org/en/latest/index.html)
+3. [Trevor Bedford's lectures on phylodynamics](https://bedford.io/projects/phylodynamics-lecture/)
+
+4. [Nextstrain tutorials and documentation](https://docs.nextstrain.org/en/latest/index.html)
 Nextstrain is a set of tools for performing phylodynamic analyses. The software powers the live website hosted at [Nextstrain.org](nextstrain.org), which is a platform for real-time tracking of viral pathogens. It was developed by Trevor Bedford and Richard Neher, and is maintained by a large team of scientists and software developers. This documentation page includes background information on what Nextstrain is, how to install the software, and a great tutorial for getting a Zika build up and running. 
 
-4. [Felsenstein pruning algorithm](https://link.springer.com/article/10.1007/BF01734359#Bib1)
-If there is one paper that is important for understanding phylogenetics, it is this one. This is Joe Felsenstein's original paper on the Maximum Likelihood approach that is used to infer trees. This basic algorithm is used in most software that is used today, and has been applied to many other applications. It's also a very well-written paper that I personally found quite useful for learning about phylogenetics. 
+5. [David Rasmussen's reading list](https://davidrasm.github.io/MolEpi/readings/) David Rasmussen has put together this really great list of papers that cover many aspects of phylogenetics and evolutionary biology as applied to viruses. 
 
-5. [How to read a tree](https://artic.network/how-to-read-a-tree.html)
-This is generally a very nice, quick introduction on how to read and interpret a phylogeny. 
-
-6. [David Rasmussen's reading list](https://davidrasm.github.io/MolEpi/readings/) David Rasmussen has put together this really great list of papers that cover many aspects of phylogenetics and evolutionary biology as applied to viruses. 
-
-7. [Black and Dudas Genomic Epidemiology handbook](https://alliblk.github.io/genepi-book/)
+6. [Black and Dudas Genomic Epidemiology handbook](https://alliblk.github.io/genepi-book/)
 This handbook was written by Alli Black and Gytis Dudas, specifically targeting individuals working in the field of public health practice. It goes over some background concepts in genomic epidemiology, and is a nicely written guide. 
 
-8. [Trevor Bedford's dynamics practical](https://github.com/trvrb/dynamics-practical). I did this practical when I first joined the Bedford lab as a post doc and it was a really nice introduction to setting up a beast analysis. It is quick, easy, and a good introduction. 
-
-#### Papers
-* [Pybus and Rambaut, 2009](https://www.nature.com/articles/nrg2583)
-* [Viral Phylodynamics](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002947)
-* [Tracking outbreaks in the 21st century](https://www.nature.com/articles/s41564-018-0296-2). This is a really nice review article about the utility of viral genomics for genomic epidemiology and outbreak tracking. 
+7. [Trevor Bedford's dynamics practical](https://github.com/trvrb/dynamics-practical). I did this practical when I first joined the Bedford lab as a post doc and it was a really nice introduction to setting up a beast analysis. It is quick, easy, and a good introduction. 
 
 
 ### Population genetics
