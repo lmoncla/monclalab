@@ -2,6 +2,20 @@
 permalink: /outreach/
 title: "News and outreach"
 ---
+
+### November 13-15, 2025
+Maria, Elena, Clara, and Louise went to Penn State for the first, northeast regional Ecology and Evolution of Infectious Diseases Meeting. It was great! Maria presented a talk on her reassortment work that was very well received, and Clara gave a poster that got lots of interest. We also ate some delicious Korean food and got creamery ice cream! 
+
+<center>
+<img src="/monclalab/assets/images/psu-eeid-2025-1.jpg" width="100%" title="" align="left" vspace="30">
+</center>
+<br/>
+
+<center>
+<img src="/monclalab/assets/images/psu-eeid-2025-2.jpg" width="100%" title="" align="left" vspace="30">
+</center>
+<br/>
+
 ### June 5, 2025
 Today our lab had a going away party for our much-beloved post-doc, Lambo. Lambo was the first post doc to join the lab, and since then, he has helped everyone learn about phylogenetics and BEAST, troubleshoot their trees, and made everyone feel welcome and supported in the lab. He also diligently remembered birthdays and always brought in cake! He will be sorely missed. To send him off we went to Bok Bar and had some drinks and cake.
 
