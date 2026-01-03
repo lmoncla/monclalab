@@ -51,8 +51,8 @@ Occasionally, we will have social events with the lab, like lab dinners or happy
 ### Computation
 I spent a majority of my life believing that computational skills were an inherent ability that I simply did not possess. When I learned to code in graduate school, I felt this overwhelming sense that I had learned a very accessible skill that made my life much easier. It also became clear to me that anyone can learn to code, and I feel quite passionate about making sure that people have the support they need to develop computational skills. If you are interested in the lab, but are hesitant about your ability to do computational work, __please do not let that stop you from contacting me.__ While coding may not be enjoyable to everyone, I promise that it is a skill anyone can learn. Below, I've compiled a few resources that helped me learn. 
 
-1. [Codecademy](https://www.codecademy.com/learn)
-In this lab, we mostly use python and R. Learning some basics of navigating your computer through the terminal, as well as basic python scripting can get you pretty far. I believe that many of the courses are free, but if not, you should be able to do a free trial for 30 days or so. I'd recommend getting started with intro to bash and python. 
+1. [Learn to code](https://roasted-rainstorm-aab.notion.site/Learn-to-code-2ddfea918fa380fb8561da7982186411)
+In this lab, we mostly use python, with a tiny bit of R. Learning some basics of navigating your computer through the terminal, as well as basic python scripting can get you pretty far. We've compiled a list of resources that I and others have used to learn to code, which should be a good place to get started. If you are joining or rotating in the lab, I usually recommend the book listed below, which we have a copy of in the lab. 
 
 2. [Practical Computing for Biologists](https://practicalcomputing.org/index.html)
 This book was my very first introduction to command-line navigation and coding, and I found it to be a really great intro. I have a copy in my office that I keep around to lend to people, and am more than happy to buy additional copies. 
