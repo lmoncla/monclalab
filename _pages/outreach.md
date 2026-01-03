@@ -11,6 +11,9 @@ Anna, Lambo, Maria, and Louise went to the [10th Epidemics conference in San Die
 </center>
 <br/>
 
+### November 17, 2025
+Today we welcomed a new lab member, [Qiqi Yang](https://lmoncla.github.io/monclalab/team/QiqiYang/)! Qiqi did her PhD at Princeton where she did some really fantastic work on flu phylodynamics and modeling, and we are thrilled to have her join us. Welcome Qiqi! 
+
 ### November 13-15, 2025
 Maria, Elena, Clara, and Louise went to Penn State for the first, northeast regional Ecology and Evolution of Infectious Diseases Meeting. It was great! Maria presented a talk on her reassortment work that was very well received, and Clara gave a poster that got lots of interest. We also ate some delicious Korean food and got creamery ice cream! 
 
