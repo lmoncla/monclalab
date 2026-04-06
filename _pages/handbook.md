@@ -23,6 +23,20 @@ My general philosophy on rotations are that they are best thought of as extended
 
 On my end, when I evaluate fit, I ask myself the following questions: Does this person conduct themselves professionally, and are they good team members? Are they self-motivated and hard-working? Are they intellectually engaged, and do they take ownership of their project and work to push it forward? Is this person organized and detail-oriented, and can I trust their work? Are our communication styles compatible, and do they take constructive criticism well? Is the degree or type of mentorship this person requires something I know I can provide? I will never evaluate your progress based on your level of past computational training, and am much more interested in understanding how you think about and approach problems, think through solutions, and evaluate them. I also want to see how you intellectually engage with the research questions and why they matter, and observe how you go about learning new things. To me, these things are all much more important than your background, so don't let your experience keep you from a rotation!
 
+#### Generative AI usage 
+We are still working on our AI policy for the lab, but below are several fantastic write-ups that explore conceptual frameworks for AI usage in research and training. Because we are a primarily computational lab, we will be developing a lab AI policy that is meant to ensure that our work continues to be rigorous and that trainees continue to be rigorously trained in coding and computational techniques. I tend to think that the reasoning argued in item 3 is very reasonable, and a good framing. 
+
+1. A plea for lab AI guidelines: https://blekhman.substack.com/p/you-need-to-make-ai-guidelines-for
+2. Two nature articles about AI and its usage among [PhD students](https://www.nature.com/articles/d41586-026-00843-y) and [academia more broadly](https://www.nature.com/articles/d41586-025-03572-w). 
+3. A well-reasoned [paper]((https://zenodo.org/records/18930036)) describing different uses of AI, and how they help or hinder PhD development 
+4. [A follow-up](https://zenodo.org/records/18452320) to item 3 providing practical guidelines for AI usage 
+
+While we work on a formal lab guide, some guidelines for my expectations: 
+1. Any writing you do should be your own. This includes drafts of papers, reports, grants, posters, documentation, or lab notebook or git entries. 
+2. While learning to code, I advise against using generative AI at all. I believe that it can get in the way of learning, especially when you are starting out. 
+3. Once you have mastered core coding concepts, you may use AI to help with syntax or searching. However, for I any code you have produced, with or without the help of AI, I expect that you will be able explain exactly how it works, including line by line understanding of what it is doing.
+4. If you use AI to generate code, you must have the ability to check it. This means that you must have the skills to produce and read that code and understand it, and it also means that you have designed test data/test sets that aim to determine whether the code if functioning properly. 
+
 #### Working hours
 I personally find working in a group setting to be a great way to learn from others and foster a sense of camaraderie. Being in a social lab environment has absolutely helped me during times where my science was challenging, and made me enjoy the day to day of my job. However, I know that many people are not like me, and may work better at home or during non-standard hours. It is my expectation that people are generally available during the hours of 10 to 4 pm, Monday through Friday. It is also my expectation that people physically come into work at least 4 days a week, with the more the better. Should you require a special accommodation, I am happy to discuss it to find a schedule that works well for you. That being said, I do not want to keep track of your hours, and will mostly be happy if you get your work done. 
 
