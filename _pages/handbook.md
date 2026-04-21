@@ -28,7 +28,7 @@ We are still working on our AI policy for the lab, but below are several fantast
 
 1. [A plea for lab AI guidelines](https://blekhman.substack.com/p/you-need-to-make-ai-guidelines-for)
 2. Two nature articles about AI and its usage among [PhD students](https://www.nature.com/articles/d41586-026-00843-y) and [academia more broadly](https://www.nature.com/articles/d41586-025-03572-w). 
-3. A well-reasoned [paper]((https://zenodo.org/records/18930036)) describing different uses of AI, and how they help or hinder PhD development 
+3. A well-reasoned [paper](https://zenodo.org/records/18930036) describing different uses of AI, and how they help or hinder PhD development 
 4. [A follow-up](https://zenodo.org/records/18452320) to item 3 providing practical guidelines for AI usage 
 
 While we work on a formal lab guide, some guidelines for my expectations: 
@@ -36,8 +36,10 @@ While we work on a formal lab guide, some guidelines for my expectations:
 2. While learning to code, I advise against using generative AI at all. I have seen multiple instances in which people learning to code have used it, produced code they didn't understand, and then had to start over from scratch and rewrite everything. In these instances, AI usage made the whole task take longer, without providing the benefit of learning. So if you're just starting to code, I think that you should completely avoid it. 
 3. Once you have mastered core coding concepts, you may use AI to help with syntax or searching. However, for any code you have produced, with or without the help of AI, I expect that you will be able to do the following: 
 * explain exactly how it works 
-* be able to walk through the code line by line, and explain what each line does, and what its inputs and outputs are 
-I am generally very happy to help people debug their code, and to help them rethink, refactor, or design their code. However, if you ask me for help with AI generated code, but cannot accomplish the above two tasks, I will not be happy, and I will ask you to redo it. 
+* be able to walk through the code line by line, and explain what each line does
+* for each line, explain what the inputs and outputs are, including the type of variable/data object they are.
+I am generally very happy to help people debug their code, and to help them rethink, refactor, or design their code. However, if you ask me for help with AI generated code, but cannot accomplish the above tasks, I will not be happy, and I will ask you to redo it.
+ 
 4. If you use AI to generate code, you must have the ability to check it. This means that you must have the skills to produce and read that code and understand it. If you find that you are using code you don't understand, stop, and work with it or rewrite it until you do. If you are using AI to generate code, I will also expect that you have designed test data/test sets that aim to determine whether the code if functioning properly. I also expect this for larger code bases you will write on your own, but it is especially important for AI generated code, for which even small, routine tasks could have bugs. 
 
 #### Working hours
