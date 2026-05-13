@@ -3,7 +3,7 @@ permalink: /team/GrantPark/
 title: ""
 author:
   name   : "Grant Park"
-  avatar : "/assets/images/people-Grant-Park.jpg"
+  avatar : "/assets/images/people-Grant-Park.JPG"
   bio    : Undergraduate
   links:
     - label: "gpark322@sas.upenn.edu"
