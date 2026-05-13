@@ -1,5 +1,5 @@
 ---
-permalink: /team/IrelandGorecki/
+permalink: /team/GrantPark/
 title: ""
 author:
   name   : "Grant Park"

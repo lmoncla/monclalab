@@ -95,9 +95,8 @@ University of Pennsylvania<br/><br/><br/><br/>
 __Grant Park__<br/>
 Undergraduate Student<br/>
 Biology; Chemistry minor<br/>
-University of Pennsylvania<br/><br/><br/><br/>
+University of Pennsylvania<br/><br/>
 
-<br/>
 
 #     Lab alumni
 
