@@ -92,9 +92,9 @@ University of Pennsylvania<br/><br/><br/><br/>
 <img src="/monclalab/assets/images/people-Grant-Park.JPG" width="30%" title="Grant Park" align="left" hspace="30">
 </a>
 
-__Ireland Gorecki__<br/>
+__Grant Park__<br/>
 Undergraduate Student<br/>
-Biology; Mechanisms of Disease Major<br/>
+Biology; Chemistry minor<br/>
 University of Pennsylvania<br/><br/><br/><br/>
 
 <br/>
