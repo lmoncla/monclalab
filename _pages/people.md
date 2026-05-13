@@ -84,7 +84,7 @@ University of Pennsylvania<br/><br/><br/><br/>
 
 __Ireland Gorecki__<br/>
 Undergraduate Student<br/>
-Biology; Mechanisms of Disease Major<br/>
+Biology, Mechanisms of Disease Major<br/>
 University of Pennsylvania<br/><br/><br/><br/>
 
 <br/>
@@ -94,7 +94,7 @@ University of Pennsylvania<br/><br/><br/><br/>
 
 __Grant Park__<br/>
 Undergraduate Student<br/>
-Biology; Chemistry minor<br/>
+Biology Major; Chemistry minor<br/>
 University of Pennsylvania<br/><br/>
 
 
