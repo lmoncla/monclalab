@@ -88,6 +88,17 @@ Biology; Mechanisms of Disease Major<br/>
 University of Pennsylvania<br/><br/><br/><br/>
 
 <br/>
+<a href="https://lmoncla.github.io/monclalab/team/GrantPark">
+<img src="/monclalab/assets/images/people-Grant-Park.JPG" width="30%" title="Grant Park" align="left" hspace="30">
+</a>
+
+__Ireland Gorecki__<br/>
+Undergraduate Student<br/>
+Biology; Mechanisms of Disease Major<br/>
+University of Pennsylvania<br/><br/><br/><br/>
+
+<br/>
+
 #     Lab alumni
 
 <a href="https://lmoncla.github.io/monclalab/team/LambodharDamodaran">
