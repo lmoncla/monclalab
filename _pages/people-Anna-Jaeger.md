@@ -8,7 +8,7 @@ author:
   links:
     - label: "Google Scholar Page"
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?hl=en&user=tMHi69kAAAAJ&view_op=list_works"
+      url: "https://scholar.google.com/citations?user=rDuSw3kAAAAJ&hl=en"
     - label: "asjaeger@vet.upenn.edu"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:asjaeger@vet.upenn.edu"
