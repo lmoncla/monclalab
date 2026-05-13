@@ -9,6 +9,10 @@ author:
     - label: "clara.malekshahi@pennmedicine.upenn.edu"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:clara.malekshahi@pennmedicine.upenn.edu"
+    - label: "Google Scholar Page"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=FZyWDcsAAAAJ&hl=en"
+
 author_profile: true
 ---
 

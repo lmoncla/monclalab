@@ -9,6 +9,11 @@ author:
     - label: "maltepes@sas.upenn.edu"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:maltepes@sas.upenn.edu"
+    - label: "Google Scholar Page"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=1W-xsT4AAAAJ&hl=en"
+
+    
 author_profile: true
 ---
 
