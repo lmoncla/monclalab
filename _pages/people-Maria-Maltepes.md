@@ -6,7 +6,7 @@ author:
   avatar : "/assets/images/people-Maria-Maltepes.jpg"
   bio    : PhD student<br>Biology Graduate Program<br>University of Pennsylvania
   links:
-    - label: "maltepes@sas.upenn.edu"
+	- label: "maltepes@sas.upenn.edu"
 	  icon: "fas fa-fw fa-envelope"
 	  url: "mailto:maltepes@sas.upenn.edu"
 	- label: "Google Scholar Page"
@@ -19,7 +19,6 @@ author:
     
 author_profile: true
 ---
-
 
 ## Bio 
 
