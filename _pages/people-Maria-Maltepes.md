@@ -12,9 +12,9 @@ author:
     - label: "Google Scholar Page"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=1W-xsT4AAAAJ&hl=en"
-      - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/maria-maltepes"
+	- label: "LinkedIn"
+	  icon: "fab fa-fw fa-linkedin"
+	  url: "www.linkedin.com/in/maria-maltepes"
 
     
 author_profile: true
