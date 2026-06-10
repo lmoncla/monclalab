@@ -12,6 +12,9 @@ author:
     - label: "Google Scholar Page"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=1W-xsT4AAAAJ&hl=en"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/maltepes"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "www.linkedin.com/in/maria-maltepes"
@@ -55,6 +58,6 @@ in the infectious disease space, can engage effectively with diverse
 communities, policymakers, and global stakeholders, including in contexts where
 scientific credibility and public trust are contested.
 
-Outside of lab, I love being outdoors, rock climbing, watching movies with
+I love being outdoors, rock climbing, watching movies with
 friends, going to concerts, exploring different cities, eating lots of
 vegetarian food, and hanging out with my niece and nephew!
