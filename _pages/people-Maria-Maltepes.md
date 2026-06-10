@@ -34,30 +34,26 @@ the Biology PhD program at Penn in 2022.
 In the Moncla lab, I investigate the evolutionary history of H3Nx influenza A
 viruses (IAV), a project inspired by the 2023 canine influenza outbreak in
 Philadelphia. Like most IAVs, canine H3N2 influenza is avian-derived,
-highlighting how adaptation after a cross-species event has led to sustained
+highlighting how adaptation after a cross-species transmission event has led to sustained
 circulation in a new host. Given that H3Nx viruses infect a wide range of
 species, this virus is a fitting system for uncovering the evolutionary
 mechanisms that enable the emergence of novel host clades. To do this, I use
-phylogenetic methods to assess whether adaptive substitution and reassortment
-rates vary by host. My research aims to analyze how host adaptation shapes IAV
-evolution, providing critical insights to predict and prevent future zoonotic
+phylogenetic methods to assess how host type impacts adaptive substitution and reassortment
+rates, with the goal of better surveilling future zoonotic
 spillovers. I was awarded the Martin and Pamela Winter Infectious Disease
 Fellowship through the Institute for Infectious & Zoonotic Diseases to support
 this research.
 
 Beyond the lab, I am committed to translating infectious disease research into
-actionable science policy. At Penn, I am currently a 2026-27 Perry World House Global
-Policy Fellow and the Science Communication co-chair for Penn Science Policy and
-Diplomacy Group (PSPDG). With PSPDG, I organized a Science Diplomacy & One
-Health panel that hosted experts working across the human, animal, and
-environmental interface to platform how cross-border collaboration
-strengthen global health efforts in Latin America and the Caribbean. Outside of
-Penn, I am a working member of the Scientists Network for Advancing Policy
-(SNAP), where I am increasingly interested in how scientists, especially those
-in the infectious disease space, can engage effectively with diverse
-communities, policymakers, and global stakeholders, including in contexts where
-scientific credibility and public trust are contested.
+actionable science policy. At Penn, I am currently a 2026-27 Perry World House
+Global Policy Fellow and the Science Communication co-chair for the Penn Science
+Policy and Diplomacy Group (PSPDG). Outside of Penn, I am a working member of
+the Scientists Network for Advancing Policy (SNAP), where I am increasingly
+interested in how scientists, especially those in the infectious disease space,
+can engage effectively with diverse communities, policymakers, and global
+stakeholders, including in contexts where scientific credibility and public
+trust are contested.
 
-I love being outdoors, rock climbing, watching movies with
-friends, going to concerts, exploring different cities, eating lots of
-vegetarian food, and hanging out with my niece and nephew!
+I love being outdoors, rock climbing, watching movies with friends, going to
+concerts, exploring different cities, eating lots of vegetarian food, and
+hanging out with my niece and nephew!
