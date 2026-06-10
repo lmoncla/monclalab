@@ -2,7 +2,7 @@
 permalink: /team/MariaMaltepes/
 title: ""
 author:
-  name   : "MariaMaltepes"
+  name   : "Maria Maltepes"
   avatar : "/assets/images/people-Maria-Maltepes.jpg"
   bio    : PhD student<br>Biology Graduate Program<br>University of Pennsylvania
   links:
@@ -12,6 +12,9 @@ author:
     - label: "Google Scholar Page"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=1W-xsT4AAAAJ&hl=en"
+      - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/maria-maltepes"
 
     
 author_profile: true
@@ -20,8 +23,39 @@ author_profile: true
 
 ## Bio 
 
-After graduating from Temple University ('21) with a B.S in Data Science, I found myself fascinated by the ability to navigate complex biological systems using bioinformatics. This fascination ultimately motivated me to join the Biology PhD program at Penn in 2022.
+I graduated from Temple University with a B.S in Data Science and minor in
+chemistry in 2021. During my time there, I found myself fascinated with
+evolutionary biology and the ability to use computational methods to elucidate
+complex biological processes. This fascination ultimately motivated me to join
+the Biology PhD program at Penn in 2022.
 
-I am mainly interested in uncovering the evolutionary history of viral populations and understanding their transmission dynamics between and within hosts. Currently, I am working on elucidating the evolution of H3 influenza viruses, a project inspired by the canine influenza outbreaks here in Philadelphia. I am curious to see if there are signatures of adaptive evolution within different H3 virus lineages, and if their adaptive rates vary by host.
+In the Moncla lab, I investigate the evolutionary history of H3Nx influenza A
+viruses (IAV), a project inspired by the 2023 canine influenza outbreak in
+Philadelphia. Like most IAVs, canine H3N2 influenza is avian-derived,
+highlighting how adaptation after a cross-species event has led to sustained
+circulation in a new host. Given that H3Nx viruses infect a wide range of
+species, this virus is a fitting system for uncovering the evolutionary
+mechanisms that enable the emergence of novel host clades. To do this, I use
+phylogenetic methods to assess whether adaptive substitution and reassortment
+rates vary by host. My research aims to analyze how host adaptation shapes IAV
+evolution, providing critical insights to predict and prevent future zoonotic
+spillovers. I was awarded the Martin and Pamela Winter Infectious Disease
+Fellowship through the Institute for Infectious & Zoonotic Diseases to support
+this research.
 
-Outside of lab, I love binging trash reality shows and watching Oscar nominated films, going to concerts, exploring different cities, eating lots of vegetarian food, and hanging out with my niece!
+Beyond the lab, I am committed to translating infectious disease research into
+actionable science policy. At Penn, I am currently a 2026-27 Perry World House Global
+Policy Fellow and the Science Communication co-chair for Penn Science Policy and
+Diplomacy Group (PSPDG). With PSPDG, I organized a Science Diplomacy & One
+Health panel that hosted experts working across the human, animal, and
+environmental interface to platform how cross-border collaboration
+strengthen global health efforts in Latin America and the Caribbean. Outside of
+Penn, I am a working member of the Scientists Network for Advancing Policy
+(SNAP), where I am increasingly interested in how scientists, especially those
+in the infectious disease space, can engage effectively with diverse
+communities, policymakers, and global stakeholders, including in contexts where
+scientific credibility and public trust are contested.
+
+Outside of lab, I love being outdoors, rock climbing, watching movies with
+friends, going to concerts, exploring different cities, eating lots of
+vegetarian food, and hanging out with my niece and nephew!
