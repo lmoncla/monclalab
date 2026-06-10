@@ -7,11 +7,11 @@ author:
   bio    : PhD student<br>Biology Graduate Program<br>University of Pennsylvania
   links:
     - label: "maltepes@sas.upenn.edu"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:maltepes@sas.upenn.edu"
-    - label: "Google Scholar Page"
-      icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=1W-xsT4AAAAJ&hl=en"
+	  icon: "fas fa-fw fa-envelope"
+	  url: "mailto:maltepes@sas.upenn.edu"
+	- label: "Google Scholar Page"
+	  icon: "fab fa-fw fa-google"
+	  url: "https://scholar.google.com/citations?user=1W-xsT4AAAAJ&hl=en"
 	- label: "LinkedIn"
 	  icon: "fab fa-fw fa-linkedin"
 	  url: "www.linkedin.com/in/maria-maltepes"
