@@ -17,19 +17,13 @@ author:
       url: "https://github.com/maltepes"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/maria-maltepes"
+      url: "https://linkedin.com/in/maria-maltepes"
 
     
 author_profile: true
 ---
 
 ## Bio 
-
-I graduated from Temple University with a B.S in Data Science and minor in
-chemistry in 2021. During my time there, I found myself fascinated with
-evolutionary biology and the ability to use computational methods to elucidate
-complex biological processes. This fascination ultimately motivated me to join
-the Biology PhD program at Penn in 2022.
 
 In the Moncla lab, I investigate the evolutionary history of H3Nx influenza A
 viruses (IAV), a project inspired by the 2023 canine influenza outbreak in
