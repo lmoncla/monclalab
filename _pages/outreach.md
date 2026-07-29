@@ -9,7 +9,7 @@ This year I was honored to be awarded the Ann Palmenberg Junior Investigator Awa
 </center>
 <br/>
 <center>
-<img src="/monclalab/assets/images/ASV-2026-Ann-Palmenberg-2.jpeg" width="50%" title="" align="left" vspace="10">
+<img src="/monclalab/assets/images/ASV-2026-Ann-Palmenberg-2.jpeg" width="50%" title="" align="right" vspace="0">
 </center>
 <br/>
 
