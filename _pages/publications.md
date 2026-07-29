@@ -4,7 +4,8 @@ title: ""
 ---
 # Publications
 
-*first author*, ‡corresponding author, [Moncla lab members](https://lmoncla.github.io/monclalab/team/); for the most up to date information, see [Louise's google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=_myzKrwAAAAJ&sortby=pubdate)
+*first author*, ‡corresponding author, [Moncla lab members](https://lmoncla.github.io/monclalab/team/)
+For the most up to date information, see [Louise's google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=_myzKrwAAAAJ&sortby=pubdate)
 
 ## 2026
 __Within-and between-host dynamics of highly pathogenic avian influenza in domestic birds from Pennsylvania farms and live bird markets__<br>
