@@ -28,7 +28,7 @@ Anna, Qiqi, Clara, Maria, and Lambo all went to [EEID](https://cpe.vt.edu/eeid20
 
 &nbsp;
 
-Anna, Qiqi, Lambo, and Maria gave posters, and took some cute pictures. Super proud of the lab for their work!! 
+Anna, Qiqi, Lambo, and Maria rocking their posters!
 
 <center>
 <img src="/monclalab/assets/images/EEID-2026-Maria.jpg" width="50%" title="" align="left" vspace="0">
@@ -41,6 +41,7 @@ Anna, Qiqi, Lambo, and Maria gave posters, and took some cute pictures. Super pr
 </center>
 <br/>
 
+&nbsp;
 
 ### November 30-December 3, 2025: Epidemics Conference
 Anna, Lambo, Maria, and Louise went to the [10th Epidemics conference in San Diego](https://www.elsevier.com/events/conferences/all/international-conference-on-infectious-disease-dynamics), where Louise and Maria gave talks and Anna gave a poster. We somehow didn't get a single picture of all of us at the conference, but we did get a photo of us eating some really great Mexican food.
