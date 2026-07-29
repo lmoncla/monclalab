@@ -32,7 +32,7 @@ __Emergence and Epidemiology of Dominant Variants of Human Metapneumovirus in th
 *Lora Lee Pless*, [Lambodhar Damodaran](https://lmoncla.github.io/monclalab/team/LambodharDamodaran/), Ray Pomponio, Rose Patrick, Marissa Pacey Griffith, Sara Walters, Kady D Waggle, Atalia Pleskovitch, Vatsala Rangachar Srinivasa, Cole A Varela, Lee H Harrison, John P Barton, [Louise Moncla](https://lmoncla.github.io/monclalab/team/LouiseMoncla/), Marian G Michaels, John V Williams, Anna F Wang-Erickson. __MBio__, January 12, 2026.[DOI:10.1128/mbio.02619-25](https://journals.asm.org/doi/full/10.1128/mbio.02619-25)
 
 __Ecology and spread of the North American H5N1 epizootic__<br>
-[*Lambodhar Damodaran*](https://lmoncla.github.io/monclalab/team/LambodharDamodaran/), [*Anna S Jaeger*](https://lmoncla.github.io/monclalab/team/AnnaJaeger/), [Louise Moncla‡](https://lmoncla.github.io/monclalab/team/LouiseMoncla/). __Nature__, January 8, 2026. [DOI: s41586-025-09737-x](https://www.nature.com/articles/s41586-025-09737-x)
+[*Lambodhar Damodaran*](https://lmoncla.github.io/monclalab/team/LambodharDamodaran/), [Anna S Jaeger](https://lmoncla.github.io/monclalab/team/AnnaJaeger/), [Louise Moncla‡](https://lmoncla.github.io/monclalab/team/LouiseMoncla/). __Nature__, January 8, 2026. [DOI: s41586-025-09737-x](https://www.nature.com/articles/s41586-025-09737-x)
 
 
 ## 2025
@@ -50,7 +50,7 @@ __Pandemic risk stemming from the bovine H5N1 outbreak: an account of the knowns
 *Anice C Lowen*, Amy L Baker, Andrew S Bowman, Adolfo García-Sastre, Scott E Hensley, Seema S Lakdawala, [Louise Moncla](https://lmoncla.github.io/monclalab/team/LouiseMoncla/), Martha I Nelson, Andrew Pekosz, Rebecca L Poulson, Wendy B Puryear, Jonathan A Runstadler, Troy C Sutton, S Mark Tompkins, Richard J Webby, Risk Assessment Pipeline working group of the NIAID Centers of Excellence for Influenza Research and Response (CEIRR) Network. __Journal of Virology__, February 27, 2025. [DOI: https://doi.org/10.1128/jvi.00052-25](https://journals.asm.org/doi/pdf/10.1128/jvi.00052-25). 
 
 __The Evolution and Epidemiology of H3N2 Canine Influenza Virus After 20 Years in Dogs__<br>
-*Brian R Wasik*, [*Lambodhar Damodaran*](https://lmoncla.github.io/monclalab/team/LambodharDamodaran/), [Maria Maltepes](https://lmoncla.github.io/monclalab/team/MariaMaltepes/), Ian EH Voorhees, Christian M Leutenegger, Sandra Newbury, [Louise Moncla](https://lmoncla.github.io/monclalab/team/LouiseMoncla/), Benjamin D Dalziel, Laura B Goodman, Colin R Parrish. __Epidemiology and Infection__, March 5, 2025. [DOI: 10.1017/S0950268825000251](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0743D5B6FC771D5CD4087B4CF50EAE73/S0950268825000251a.pdf/evolution_and_epidemiology_of_h3n2_canine_influenza_virus_after_20_years_in_dogs.pdf). 
+*Brian R Wasik*, [Lambodhar Damodaran](https://lmoncla.github.io/monclalab/team/LambodharDamodaran/), [Maria Maltepes](https://lmoncla.github.io/monclalab/team/MariaMaltepes/), Ian EH Voorhees, Christian M Leutenegger, Sandra Newbury, [Louise Moncla](https://lmoncla.github.io/monclalab/team/LouiseMoncla/), Benjamin D Dalziel, Laura B Goodman, Colin R Parrish. __Epidemiology and Infection__, March 5, 2025. [DOI: 10.1017/S0950268825000251](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0743D5B6FC771D5CD4087B4CF50EAE73/S0950268825000251a.pdf/evolution_and_epidemiology_of_h3n2_canine_influenza_virus_after_20_years_in_dogs.pdf). 
 
 ## 2024
 __Deep mutational scanning of H5 hemagglutinin to inform influenza virus surveillance__<br>
