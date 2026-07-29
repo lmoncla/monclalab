@@ -12,9 +12,6 @@ This year I was honored to be awarded the Ann Palmenberg Junior Investigator Awa
 <img src="/monclalab/assets/images/ASV-2026-Ann-Palmenberg-2.jpeg" width="50%" title="" align="right" vspace="10">
 </center>
 <br/>
-<br/>
-
-&nbsp;
 
 &nbsp;
 
@@ -25,11 +22,10 @@ Congratulations to [Qiqi](https://lmoncla.github.io/monclalab/team/QiqiYang/) an
 Anna, Qiqi, Clara, Maria, and Lambo all went to [EEID](https://cpe.vt.edu/eeid2026.html)! Clara gave a talk in front of ~450 people on her work on avian influenza ecology, and by all accounts did great! 
 
 <center>
-<img src="/monclalab/assets/images/EEID-2026-Clara.jpg" width="100%" title="" align="right" vspace="10">
+<img src="/monclalab/assets/images/EEID-2026-Clara.jpg" width="100%" title="" align="right" vspace="0">
 </center>
 <br/>
 
-&nbsp;
 &nbsp;
 
 Anna, Qiqi, Lambo, and Maria gave posters, and took some cute pictures. Super proud of the lab for their work!! 
@@ -41,13 +37,7 @@ Anna, Qiqi, Lambo, and Maria gave posters, and took some cute pictures. Super pr
 
 <center>
 <img src="/monclalab/assets/images/EEID-2026-Anna.jpg" width="50%" title="" align="right" vspace="0">
-</center>
-
-<center>
 <img src="/monclalab/assets/images/EEID-2026-Qiqi.jpg" width="50%" title="" align="right" vspace="0">
-</center>
-
-<center>
 <img src="/monclalab/assets/images/EEID-2026-Lambo.jpg" width="50%" title="" align="right" vspace="0">
 </center>
 <br/>
