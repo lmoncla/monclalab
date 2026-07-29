@@ -14,40 +14,39 @@ This year I was honored to be awarded the Ann Palmenberg Junior Investigator Awa
 <br/>
 <br/>
 
-### June 25, 2026: Qiqi and Maria win IIZD Fellowships! 
+<br/><br/>### June 25, 2026: Qiqi and Maria win IIZD Fellowships! 
 Congratulations to [Qiqi](https://lmoncla.github.io/monclalab/team/QiqiYang/) and [Maria](https://lmoncla.github.io/monclalab/team/MariaMaltepes/) on their [IIZD](https://www.vet.upenn.edu/research/research-centers-and-institute/institute-for-infectious-and-zoonotic-diseases/) Fellowship awards! Qiqi proposed to model the potential impacts of H5 vaccines on population level spillover and transmission, which is important for understanding vaccine rollout. Maria proposed to measure reassortment and its impacts on host adaptation and host switching. Congratulations you two!! 
 
 ### June 1-4, 2026: Ecology and Evolution of Infectious Diseases Meeting 
 Anna, Qiqi, Clara, Maria, and Lambo all went to [EEID](https://cpe.vt.edu/eeid2026.html)! Clara gave a talk in front of ~450 people on her work on avian influenza ecology, and by all accounts did great! 
 
 <center>
-<img src="/monclalab/assets/images/EEID-2026-Clara.jpg" width="50%" title="" align="left" vspace="10">
-</center>
-<br/>
-<center>
 <img src="/monclalab/assets/images/EEID-2026-Clara-2.jpg" width="50%" title="" align="left" vspace="10">
+</center>
+<center>
+<img src="/monclalab/assets/images/EEID-2026-Clara.jpg" width="50%" title="" align="right" vspace="0">
 </center>
 <br/>
 
 Anna, Qiqi, Lambo, and Maria gave posters, and took some cute pictures. Super proud of the lab for their work!! 
 
 <center>
-<img src="/monclalab/assets/images/EEID-2026-Anna.jpg" width="50%" title="" align="left" vspace="10">
+<img src="/monclalab/assets/images/EEID-2026-Anna.jpg" width="50%" title="" align="left" vspace="0">
 </center>
 <br/>
 
 <center>
-<img src="/monclalab/assets/images/EEID-2026-Maria.jpg" width="50%" title="" align="left" vspace="10">
+<img src="/monclalab/assets/images/EEID-2026-Maria.jpg" width="50%" title="" align="left" vspace="0">
 </center>
 <br/>
 
 <center>
-<img src="/monclalab/assets/images/EEID-2026-Qiqi.jpg" width="50%" title="" align="left" vspace="10">
+<img src="/monclalab/assets/images/EEID-2026-Qiqi.jpg" width="50%" title="" align="left" vspace="0">
 </center>
 <br/>
 
 <center>
-<img src="/monclalab/assets/images/EEID-2026-Lambo.jpg" width="50%" title="" align="left" vspace="10">
+<img src="/monclalab/assets/images/EEID-2026-Lambo.jpg" width="50%" title="" align="left" vspace="0">
 </center>
 <br/>
 
