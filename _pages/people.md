@@ -32,15 +32,6 @@ Department of Pathobiology<br/>
 School of Veterinary Medicine, University of Pennsylvania<br/><br/><br/><br/>
 
 
-<a href="https://lmoncla.github.io/monclalab/team/StephenShank">
-<img src="/monclalab/assets/images/people-Stephen-Shank.jpg" width="30%" title="Stephen Shank" align="left" hspace="30">
-</a>
-
-__Stephen Shank, PhD__<br/>
-Staff Bioinformatician/Computational Biologist<br/>
-Department of Pathobiology<br/>
-School of Veterinary Medicine, University of Pennsylvania<br/><br/><br/><br/>
-
 <a href="https://lmoncla.github.io/monclalab/team/JordanOrt">
 <img src="/monclalab/assets/images/people-Jordan-Ort.jpg" width="30%" title="Jordan Ort" align="left" hspace="30">
 </a>
@@ -108,6 +99,12 @@ __Lambodhar Damodaran, PhD__<br/>
 Role: Post-doctoral Research Fellow<br/>
 Now: Post-doctoral Research Fellow at Emory in [Katia Koelle's lab](https://scholarblogs.emory.edu/koellelab/)<br/><br/><br/><br/>
 
+<a href="https://lmoncla.github.io/monclalab/team/StephenShank">
+<img src="/monclalab/assets/images/people-Stephen-Shank.jpg" width="30%" title="Stephen Shank" align="left" hspace="30">
+</a>
+
+__Stephen Shank, PhD__<br/>
+Role: Staff Bioinformatician/Computational Biologist<br/>
 
 <a href="https://lmoncla.github.io/monclalab/team/AlexVoegele">
 <img src="/monclalab/assets/images/people-Alex-Voegele.jpeg" width="30%" title="Alex Voegele" align="left" hspace="30">
