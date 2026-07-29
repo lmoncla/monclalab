@@ -14,7 +14,7 @@ This year I was honored to be awarded the Ann Palmenberg Junior Investigator Awa
 <br/>
 <br/>
 
-<br/><br/>
+<br />
 ### June 25, 2026: Qiqi and Maria win IIZD Fellowships! 
 Congratulations to [Qiqi](https://lmoncla.github.io/monclalab/team/QiqiYang/) and [Maria](https://lmoncla.github.io/monclalab/team/MariaMaltepes/) on their [IIZD](https://www.vet.upenn.edu/research/research-centers-and-institute/institute-for-infectious-and-zoonotic-diseases/) Fellowship awards! Qiqi proposed to model the potential impacts of H5 vaccines on population level spillover and transmission, which is important for understanding vaccine rollout. Maria proposed to measure reassortment and its impacts on host adaptation and host switching. Congratulations you two!! 
 
