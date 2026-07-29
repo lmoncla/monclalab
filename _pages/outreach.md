@@ -2,8 +2,8 @@
 permalink: /outreach/
 title: "News and outreach"
 ---
-### July 27, 2026: ASV! 
-This year I was honored to be awarded the Ann Palmenberg Junior Investigator Award. It was really fun to give a talk and get to share our work with the broader virology community. Congratulations to Arinjay Banjeree on also winning, and to Susan Weiss on her election as the next ASV president! 
+### July 27, 2026: American Society for Virology Meeting!  
+This year I was honored to be awarded the [Ann Palmenberg Junior Investigator Award](https://www.asv.org/ann-palmenberg-junior-investigator-award) at the [ASV Annual Meeting](https://www.asv.org/scientific-program2026) in Minneapolis! It was fun to share our work with the broader virology community, and to catch up with old friends. Congratulations to Arinjay Banjeree, my fellow awardee, and to Susan Weiss on her election as the next ASV president! 
 
 <center>
 <img src="/monclalab/assets/images/ASV-2026-Ann-Palmenberg.jpeg" width="50%" title="" align="left" vspace="10">
