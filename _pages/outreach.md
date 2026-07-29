@@ -4,13 +4,14 @@ title: "News and outreach"
 ---
 ### July 27, 2026: ASV! 
 This year I was honored to be awarded the Ann Palmenberg Junior Investigator Award. It was really fun to give a talk and get to share our work with the broader virology community. Congratulations to Arinjay Banjeree on also winning, and to Susan Weiss on her election as the next ASV president! 
+
 <center>
 <img src="/monclalab/assets/images/ASV-2026-Ann-Palmenberg.jpeg" width="50%" title="" align="left" vspace="10">
 </center>
-<br/>
 <center>
-<img src="/monclalab/assets/images/ASV-2026-Ann-Palmenberg-2.jpeg" width="50%" title="" align="right" vspace="0">
+<img src="/monclalab/assets/images/ASV-2026-Ann-Palmenberg-2.jpeg" width="50%" title="" align="right" vspace="10">
 </center>
+<br/>
 <br/>
 
 ### June 25, 2026: Qiqi and Maria win IIZD Fellowships! 
@@ -20,33 +21,33 @@ Congratulations to [Qiqi](https://lmoncla.github.io/monclalab/team/QiqiYang/) an
 Anna, Qiqi, Clara, Maria, and Lambo all went to [EEID](https://cpe.vt.edu/eeid2026.html)! Clara gave a talk in front of ~450 people on her work on avian influenza ecology, and by all accounts did great! 
 
 <center>
-<img src="/monclalab/assets/images/EEID-2026-Clara.jpg" width="100%" title="" align="left" vspace="30">
+<img src="/monclalab/assets/images/EEID-2026-Clara.jpg" width="50%" title="" align="left" vspace="10">
 </center>
 <br/>
 <center>
-<img src="/monclalab/assets/images/EEID-2026-Clara-2.jpg" width="100%" title="" align="left" vspace="30">
+<img src="/monclalab/assets/images/EEID-2026-Clara-2.jpg" width="50%" title="" align="left" vspace="10">
 </center>
 <br/>
 
 Anna, Qiqi, Lambo, and Maria gave posters, and took some cute pictures. Super proud of the lab for their work!! 
 
 <center>
-<img src="/monclalab/assets/images/EEID-2026-Anna.jpg" width="100%" title="" align="left" vspace="30">
+<img src="/monclalab/assets/images/EEID-2026-Anna.jpg" width="50%" title="" align="left" vspace="10">
 </center>
 <br/>
 
 <center>
-<img src="/monclalab/assets/images/EEID-2026-Maria.jpg" width="100%" title="" align="left" vspace="30">
+<img src="/monclalab/assets/images/EEID-2026-Maria.jpg" width="50%" title="" align="left" vspace="10">
 </center>
 <br/>
 
 <center>
-<img src="/monclalab/assets/images/EEID-2026-Qiqi.jpg" width="100%" title="" align="left" vspace="30">
+<img src="/monclalab/assets/images/EEID-2026-Qiqi.jpg" width="50%" title="" align="left" vspace="10">
 </center>
 <br/>
 
 <center>
-<img src="/monclalab/assets/images/EEID-2026-Lambo.jpg" width="100%" title="" align="left" vspace="30">
+<img src="/monclalab/assets/images/EEID-2026-Lambo.jpg" width="50%" title="" align="left" vspace="10">
 </center>
 <br/>
 
