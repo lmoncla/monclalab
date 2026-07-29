@@ -2,6 +2,55 @@
 permalink: /outreach/
 title: "News and outreach"
 ---
+### July 27, 2026: ASV! 
+This year I was honored to be awarded the Ann Palmenberg Junior Investigator Award. It was really fun to give a talk and get to share our work with the broader virology community. Congratulations to Arinjay Banjeree on also winning, and to Susan Weiss on her election as the next ASV president! 
+
+<center>
+<img src="/monclalab/assets/images/ASV-2026-Ann-Palmenberg.jpg" width="100%" title="" align="left" vspace="30">
+</center>
+<br/>
+<center>
+<img src="/monclalab/assets/images/ASV-2026-Ann-Palmenberg-2.jpg" width="100%" title="" align="left" vspace="30">
+</center>
+<br/>
+
+### June 25, 2026: Qiqi and Maria win IIZD Fellowships! 
+Congratulations to [Qiqi](https://lmoncla.github.io/monclalab/team/QiqiYang/) and [Maria](https://lmoncla.github.io/monclalab/team/MariaMaltepes/) on their [IIZD](https://www.vet.upenn.edu/research/research-centers-and-institute/institute-for-infectious-and-zoonotic-diseases/) Fellowship awards! Qiqi proposed to model the potential impacts of H5 vaccines on population level spillover and transmission, which is important for understanding vaccine rollout. Maria proposed to measure reassortment and its impacts on host adaptation and host switching. Congratulations you two!! 
+
+### June 1-4, 2026: Ecology and Evolution of Infectious Diseases Meeting 
+Anna, Qiqi, Clara, Maria, and Lambo all went to [EEID](https://cpe.vt.edu/eeid2026.html)! Clara gave a talk in front of ~450 people on her work on avian influenza ecology, and by all accounts did great! 
+
+<center>
+<img src="/monclalab/assets/images/EEID-2026-Clara.jpg" width="100%" title="" align="left" vspace="30">
+</center>
+<br/>
+<center>
+<img src="/monclalab/assets/images/EEID-2026-Clara-2.jpg" width="100%" title="" align="left" vspace="30">
+</center>
+<br/>
+
+Anna, Qiqi, Lambo, and Maria gave posters, and took some cute pictures. Super proud of the lab for their work!! 
+
+<center>
+<img src="/monclalab/assets/images/EEID-2026-Anna.jpg" width="100%" title="" align="left" vspace="30">
+</center>
+<br/>
+
+<center>
+<img src="/monclalab/assets/images/EEID-2026-Maria.jpg" width="100%" title="" align="left" vspace="30">
+</center>
+<br/>
+
+<center>
+<img src="/monclalab/assets/images/EEID-2026-Qiqi.jpg" width="100%" title="" align="left" vspace="30">
+</center>
+<br/>
+
+<center>
+<img src="/monclalab/assets/images/EEID-2026-Lambo.jpg" width="100%" title="" align="left" vspace="30">
+</center>
+<br/>
+
 
 ### November 30-December 3, 2025: Epidemics Conference
 Anna, Lambo, Maria, and Louise went to the [10th Epidemics conference in San Diego](https://www.elsevier.com/events/conferences/all/international-conference-on-infectious-disease-dynamics), where Louise and Maria gave talks and Anna gave a poster. We somehow didn't get a single picture of all of us at the conference, but we did get a photo of us eating some really great Mexican food.
