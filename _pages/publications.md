@@ -26,14 +26,14 @@ __Nextstrain automates real-time phylodynamic analysis of open data for endemic 
 __Fatal Human H3N8 Influenza Virus has a Moderate Pandemic Risk__<br>
 *Valerie Le Sage*, Michelle Vu, Maria Maltepes, Shengyang Wang, Brooke Snow, Grace A. Merrbach, Alexandra Benton, Kylie Zirckel, Sarah E. Petnuch, Carly Marble, Grace Graudin, Lora H. Rigatti, James C. Paulson, Elizabeth M. Drapeau, Louise H. Moncla, Anita K. McElroy, Scott E. Hensley, Seema S. Lakdawala‡.  __PLoS Pathogens__ March 3, 2026, at [e1013586](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013586).
 
+__Emergence and Epidemiology of Dominant Variants of Human Metapneumovirus in the United States between 2016 and 2021__<br>
+*Lora Lee Pless*, Lambodar Damodaran, Ray Pomponio, Rose Patrick, Marissa Pacey Griffith, Sara Walters, Kady D Waggle, Atalia Pleskovitch, Vatsala Rangachar Srinivasa, Cole A Varela, Lee H Harrison, John P Barton, Louise H Moncla, Marian G Michaels, John V Williams, Anna F Wang-Erickson. __MBio__, January 12, 2026.[DOI:10.1128/mbio.02619-25](https://journals.asm.org/doi/full/10.1128/mbio.02619-25)
+
 __Ecology and spread of the North American H5N1 epizootic__<br>
 *Lambodhar Damodaran*, Anna Jaeger, Louise H. Moncla‡. __Nature__, January 8, 2026. [DOI: s41586-025-09737-x](https://www.nature.com/articles/s41586-025-09737-x)
 
 
 ## 2025
-
-__Emergence and Epidemiology of Dominant Variants of Human Metapneumovirus in the United States between 2016 and 2021__<br>
-*Lora Lee Pless*, Lambodar Damodaran, Ray Pomponio, Rose Patrick, Marissa Pacey Griffith, Sara Walters, Kady D Waggle, Atalia Pleskovitch, Vatsala Rangachar Srinivasa, Cole A Varela, Lee H Harrison, John P Barton, Louise H Moncla, Marian G Michaels, John V Williams, Anna F Wang-Erickson. __medRxiv__ at: [2025.08. 31.25334797](https://www.medrxiv.org/content/medrxiv/early/2025/09/02/2025.08.31.25334797.full.pdf)
 
 __Development of avian influenza A(H5) virus datasets for Nextclade enables rapid and accurate clade assignment__<br> 
 *Jordan T. Ort*, Samuel S. Shepard, Sonja Zolnoski, Tommy T.-Y. Lam, Todd Davis, Richard Neher, Louise H. Moncla‡. __Virus Evolution__, August 4, 2025, [DOI: 10.1093/ve/veaf058](https://academic.oup.com/ve/article/11/1/veaf058/8221740)
