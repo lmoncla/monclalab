@@ -4,13 +4,36 @@ title: ""
 ---
 # Publications
 
+## 2026
+__Within-and between-host dynamics of highly pathogenic avian influenza in domestic birds from Pennsylvania farms and live bird markets__
+*Anna S Jaeger*, Elena Cruz-Adames, Stephen D Shank, Irina Chupikova, Katie Kumta, Eman Anis, Louise Moncla‡. __bioRxiv__, July 22, 2026. [DOI: 10.64898/2026.07.17.739193](https://www.biorxiv.org/content/10.64898/2026.07.17.739193v1.abstract). 
+
+__Clade 2.3. 4.4 b H5N1 influenza virus and SARS-CoV-2 seroprevalence among owned and feral cats in Philadelphia and surrounding communities__
+*Gabrielle Scher**, Kathrine Maguire, Caitlin Duffy, Katie Mina, Clara Malekshahi, Stephen D Cole, Laura Ahlers, Jacob Wohlstadter, George B Sigal, Roderick B Gagne, Louise Moncla‡, Scott E Hensley‡. __bioRxiv__, July 3, 2026. [DOI: 10.64898/2026.07.03.736283](https://www.biorxiv.org/content/10.64898/2026.07.03.736283v1.abstract). ‡ co-corresponding, contributed equally
+
+__Frequent seasonal reassortment between high and low path viruses drives the diversification of influenza A/H5N1__
+*Lambodhar Damodaran*, Joseph A. Lewnard, Gregg S. Davis, Sara Y. Tartof, Louise H. Moncla‡, Nicola F. Müller‡. __bioRxiv__, April 18, 2026. [DOI: 10.64898/2026.04.17.719307](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_myzKrwAAAAJ&sortby=pubdate&citation_for_view=_myzKrwAAAAJ:J_g5lzvAfSwC). ‡ co-corresponding, contributed equally
+
+__The emergence and molecular evolution of H5N1 influenza viruses in United States dairy cattle__
+*Jonathan E Pekar*, Karthik Gangavarapu, Alvin Crespo-Bellido, Thomas P Peacock, Joel O Wertheim, Gytis Dudas, Jeffrey B Joy, Meera Chand, Florence Debarre, Praneeth Gangavarapu, Daniel H Goldhill, Natalie Groves, Xiang Ji, Lorena Malpica Serrano, Louise Moncla, Angela L Rasmussen, Christopher Ruis, Divya Venkatesh, Moritz UG Kraemer, Oliver G Pybus, Kristian G Andersen, Marc A Suchard, Martha I Nelson, Philippe Lamey, Michael Worobey, Andrew Rambaut‡. __bioRxiv__, March 30, 2026. at: [DOI: 10.64898/2026.03.30.713641](https://www.biorxiv.org/content/10.64898/2026.03.30.713641v1.abstract)
+
+__Dynamics and control of highly pathogenic H5 avian influenza in a threatened pelican population__
+*Qiqi Yang*, Olga Alexandrou, Ursula Höfle, Sara Minayo-Martín, Serafeim C Chaintoutis, Evangelia Moutou, Chrysostomos I Dovas, Louise H Moncla, Bryan T Grenfell, Giorgos Catsadorakis‡. __bioRxiv__, March 16, 2026. at: [DOI: 10.64898/2026.03.16.712014](https://www.biorxiv.org/content/10.64898/2026.03.16.712014v1.abstract)
+
+__Nextstrain automates real-time phylodynamic analysis of open data for endemic and emerging pathogens__<br>
+*Kimberly R Andrews*, Jennifer Chang, Cornelius Roemer, James Hadfield, Victor Lin, Anderson F Brito, Richard Olumide Daodu, Isabel A Joia, Kathryn Kistler, Allison Li, Louise H Moncla, Miguel I Paredes, Denise Kühnert, Laura Marcela Torres, Laura Voitl, Ivan Aksamentov, Emma B Hodcroft, John Huddleston, John T McCrone, John SJ Anderson, Thomas R Sibley, Jover Lee, Richard A Neher, Trevor Bedford‡.  __bioRxiv__, March 26, 2026. at [DOI: 10.64898/2026.03.23.713807](https://bedford.io/pdfs/papers/andrews-nextstrain-pathogens.pdf)
+
+__Fatal Human H3N8 Influenza Virus has a Moderate Pandemic Risk__<br>
+*Valerie Le Sage*, Michelle Vu, Maria Maltepes, Shengyang Wang, Brooke Snow, Grace A. Merrbach, Alexandra Benton, Kylie Zirckel, Sarah E. Petnuch, Carly Marble, Grace Graudin, Lora H. Rigatti, James C. Paulson, Elizabeth M. Drapeau, Louise H. Moncla, Anita K. McElroy, Scott E. Hensley, Seema S. Lakdawala‡.  __PLoS Pathogens__ March 3, 2026, at [e1013586](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013586).
+
+__Ecology and spread of the North American H5N1 epizootic__<br>
+*Lambodhar Damodaran*, Anna Jaeger, Louise H. Moncla‡. __Nature__, January 8, 2026. [DOI: s41586-025-09737-x](https://www.nature.com/articles/s41586-025-09737-x)
+
+
 ## 2025
 
 __Emergence and Epidemiology of Dominant Variants of Human Metapneumovirus in the United States between 2016 and 2021__<br>
 *Lora Lee Pless*, Lambodar Damodaran, Ray Pomponio, Rose Patrick, Marissa Pacey Griffith, Sara Walters, Kady D Waggle, Atalia Pleskovitch, Vatsala Rangachar Srinivasa, Cole A Varela, Lee H Harrison, John P Barton, Louise H Moncla, Marian G Michaels, John V Williams, Anna F Wang-Erickson. __medRxiv__ at: [2025.08. 31.25334797](https://www.medrxiv.org/content/medrxiv/early/2025/09/02/2025.08.31.25334797.full.pdf)
-
-__Ecology and spread of the North American H5N1 epizootic__<br>
-*Lambodhar Damodaran*, Anna Jaeger, Louise H. Moncla‡. __Nature__, November 12, 2025. [DOI: s41586-025-09737-x](https://www.nature.com/articles/s41586-025-09737-x)
 
 __Development of avian influenza A(H5) virus datasets for Nextclade enables rapid and accurate clade assignment__<br> 
 *Jordan T. Ort*, Samuel S. Shepard, Sonja Zolnoski, Tommy T.-Y. Lam, Todd Davis, Richard Neher, Louise H. Moncla‡. __Virus Evolution__, August 4, 2025, [DOI: 10.1093/ve/veaf058](https://academic.oup.com/ve/article/11/1/veaf058/8221740)
