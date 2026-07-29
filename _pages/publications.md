@@ -4,12 +4,14 @@ title: ""
 ---
 # Publications
 
+*first author in italics*, Moncla lab members linked
+
 ## 2026
 __Within-and between-host dynamics of highly pathogenic avian influenza in domestic birds from Pennsylvania farms and live bird markets__<br>
-[*Anna S Jaeger*](https://lmoncla.github.io/monclalab/team/AnnaJaeger/), Elena Cruz-Adames, Stephen D Shank, Irina Chupikova, Katie Kumta, Eman Anis, Louise Moncla‡. __bioRxiv__, July 22, 2026. [DOI: 10.64898/2026.07.17.739193](https://www.biorxiv.org/content/10.64898/2026.07.17.739193v1.abstract). 
+[*Anna S Jaeger*](https://lmoncla.github.io/monclalab/team/AnnaJaeger/), [Elena Cruz-Adames](https://lmoncla.github.io/monclalab/team/ElenaCruzAdames/), [Stephen D Shank](https://lmoncla.github.io/monclalab/team/StephenShank/), Irina Chupikova, Katie Kumta, Eman Anis, Louise Moncla‡. __bioRxiv__, July 22, 2026. [DOI: 10.64898/2026.07.17.739193](https://www.biorxiv.org/content/10.64898/2026.07.17.739193v1.abstract). 
 
 __Clade 2.3. 4.4 b H5N1 influenza virus and SARS-CoV-2 seroprevalence among owned and feral cats in Philadelphia and surrounding communities__<br>
-*Gabrielle Scher*, Kathrine Maguire, Caitlin Duffy, Katie Mina, Clara Malekshahi, Stephen D Cole, Laura Ahlers, Jacob Wohlstadter, George B Sigal, Roderick B Gagne, Louise Moncla‡, Scott E Hensley‡. __bioRxiv__, July 3, 2026. [DOI: 10.64898/2026.07.03.736283](https://www.biorxiv.org/content/10.64898/2026.07.03.736283v1.abstract). ‡ co-corresponding, contributed equally
+*Gabrielle Scher*, Kathrine Maguire, Caitlin Duffy, Katie Mina, [Clara Malekshahi](https://lmoncla.github.io/monclalab/team/ClaraMalekshahi/), Stephen D Cole, Laura Ahlers, Jacob Wohlstadter, George B Sigal, Roderick B Gagne, Louise Moncla‡, Scott E Hensley‡. __bioRxiv__, July 3, 2026. [DOI: 10.64898/2026.07.03.736283](https://www.biorxiv.org/content/10.64898/2026.07.03.736283v1.abstract). ‡ co-corresponding, contributed equally
 
 __Frequent seasonal reassortment between high and low path viruses drives the diversification of influenza A/H5N1__<br>
 [*Lambodhar Damodaran*](https://lmoncla.github.io/monclalab/team/LambodharDamodaran/), Joseph A. Lewnard, Gregg S. Davis, Sara Y. Tartof, Louise H. Moncla‡, Nicola F. Müller‡. __bioRxiv__, April 18, 2026. [DOI: 10.64898/2026.04.17.719307](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_myzKrwAAAAJ&sortby=pubdate&citation_for_view=_myzKrwAAAAJ:J_g5lzvAfSwC). ‡ co-corresponding, contributed equally
@@ -18,19 +20,19 @@ __The emergence and molecular evolution of H5N1 influenza viruses in United Stat
 *Jonathan E Pekar*, Karthik Gangavarapu, Alvin Crespo-Bellido, Thomas P Peacock, Joel O Wertheim, Gytis Dudas, Jeffrey B Joy, Meera Chand, Florence Debarre, Praneeth Gangavarapu, Daniel H Goldhill, Natalie Groves, Xiang Ji, Lorena Malpica Serrano, Louise Moncla, Angela L Rasmussen, Christopher Ruis, Divya Venkatesh, Moritz UG Kraemer, Oliver G Pybus, Kristian G Andersen, Marc A Suchard, Martha I Nelson, Philippe Lamey, Michael Worobey, Andrew Rambaut‡. __bioRxiv__, March 30, 2026. at: [DOI: 10.64898/2026.03.30.713641](https://www.biorxiv.org/content/10.64898/2026.03.30.713641v1.abstract)
 
 __Dynamics and control of highly pathogenic H5 avian influenza in a threatened pelican population__<br>
-*Qiqi Yang*, Olga Alexandrou, Ursula Höfle, Sara Minayo-Martín, Serafeim C Chaintoutis, Evangelia Moutou, Chrysostomos I Dovas, Louise H Moncla, Bryan T Grenfell, Giorgos Catsadorakis‡. __bioRxiv__, March 16, 2026. at: [DOI: 10.64898/2026.03.16.712014](https://www.biorxiv.org/content/10.64898/2026.03.16.712014v1.abstract)
+[*Qiqi Yang*](https://lmoncla.github.io/monclalab/team/QiqiYang/), Olga Alexandrou, Ursula Höfle, Sara Minayo-Martín, Serafeim C Chaintoutis, Evangelia Moutou, Chrysostomos I Dovas, Louise H Moncla, Bryan T Grenfell, Giorgos Catsadorakis‡. __bioRxiv__, March 16, 2026. at: [DOI: 10.64898/2026.03.16.712014](https://www.biorxiv.org/content/10.64898/2026.03.16.712014v1.abstract)
 
 __Nextstrain automates real-time phylodynamic analysis of open data for endemic and emerging pathogens__<br>
 *Kimberly R Andrews*, Jennifer Chang, Cornelius Roemer, James Hadfield, Victor Lin, Anderson F Brito, Richard Olumide Daodu, Isabel A Joia, Kathryn Kistler, Allison Li, Louise H Moncla, Miguel I Paredes, Denise Kühnert, Laura Marcela Torres, Laura Voitl, Ivan Aksamentov, Emma B Hodcroft, John Huddleston, John T McCrone, John SJ Anderson, Thomas R Sibley, Jover Lee, Richard A Neher, Trevor Bedford‡.  __bioRxiv__, March 26, 2026. at [DOI: 10.64898/2026.03.23.713807](https://bedford.io/pdfs/papers/andrews-nextstrain-pathogens.pdf)
 
 __Fatal Human H3N8 Influenza Virus has a Moderate Pandemic Risk__<br>
-*Valerie Le Sage*, Michelle Vu, Maria Maltepes, Shengyang Wang, Brooke Snow, Grace A. Merrbach, Alexandra Benton, Kylie Zirckel, Sarah E. Petnuch, Carly Marble, Grace Graudin, Lora H. Rigatti, James C. Paulson, Elizabeth M. Drapeau, Louise H. Moncla, Anita K. McElroy, Scott E. Hensley, Seema S. Lakdawala‡.  __PLoS Pathogens__ March 3, 2026, at [e1013586](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013586).
+*Valerie Le Sage*, Michelle Vu, [Maria Maltepes](https://lmoncla.github.io/monclalab/team/MariaMaltepes/), Shengyang Wang, Brooke Snow, Grace A. Merrbach, Alexandra Benton, Kylie Zirckel, Sarah E. Petnuch, Carly Marble, Grace Graudin, Lora H. Rigatti, James C. Paulson, Elizabeth M. Drapeau, Louise H. Moncla, Anita K. McElroy, Scott E. Hensley, Seema S. Lakdawala‡.  __PLoS Pathogens__ March 3, 2026, at [e1013586](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013586).
 
 __Emergence and Epidemiology of Dominant Variants of Human Metapneumovirus in the United States between 2016 and 2021__<br>
-*Lora Lee Pless*, Lambodar Damodaran, Ray Pomponio, Rose Patrick, Marissa Pacey Griffith, Sara Walters, Kady D Waggle, Atalia Pleskovitch, Vatsala Rangachar Srinivasa, Cole A Varela, Lee H Harrison, John P Barton, Louise H Moncla, Marian G Michaels, John V Williams, Anna F Wang-Erickson. __MBio__, January 12, 2026.[DOI:10.1128/mbio.02619-25](https://journals.asm.org/doi/full/10.1128/mbio.02619-25)
+*Lora Lee Pless*, [Lambodhar Damodaran](https://lmoncla.github.io/monclalab/team/LambodharDamodaran/), Ray Pomponio, Rose Patrick, Marissa Pacey Griffith, Sara Walters, Kady D Waggle, Atalia Pleskovitch, Vatsala Rangachar Srinivasa, Cole A Varela, Lee H Harrison, John P Barton, Louise H Moncla, Marian G Michaels, John V Williams, Anna F Wang-Erickson. __MBio__, January 12, 2026.[DOI:10.1128/mbio.02619-25](https://journals.asm.org/doi/full/10.1128/mbio.02619-25)
 
 __Ecology and spread of the North American H5N1 epizootic__<br>
-[*Lambodhar Damodaran*](https://lmoncla.github.io/monclalab/team/LambodharDamodaran/), Anna Jaeger, Louise H. Moncla‡. __Nature__, January 8, 2026. [DOI: s41586-025-09737-x](https://www.nature.com/articles/s41586-025-09737-x)
+[*Lambodhar Damodaran*](https://lmoncla.github.io/monclalab/team/LambodharDamodaran/), [*Anna S Jaeger*](https://lmoncla.github.io/monclalab/team/AnnaJaeger/), Louise H. Moncla‡. __Nature__, January 8, 2026. [DOI: s41586-025-09737-x](https://www.nature.com/articles/s41586-025-09737-x)
 
 
 ## 2025
@@ -48,11 +50,11 @@ __Pandemic risk stemming from the bovine H5N1 outbreak: an account of the knowns
 *Anice C Lowen*, Amy L Baker, Andrew S Bowman, Adolfo García-Sastre, Scott E Hensley, Seema S Lakdawala, Louise H Moncla, Martha I Nelson, Andrew Pekosz, Rebecca L Poulson, Wendy B Puryear, Jonathan A Runstadler, Troy C Sutton, S Mark Tompkins, Richard J Webby, Risk Assessment Pipeline working group of the NIAID Centers of Excellence for Influenza Research and Response (CEIRR) Network. __Journal of Virology__, February 27, 2025. [DOI: https://doi.org/10.1128/jvi.00052-25](https://journals.asm.org/doi/pdf/10.1128/jvi.00052-25). 
 
 __The Evolution and Epidemiology of H3N2 Canine Influenza Virus After 20 Years in Dogs__<br>
-*Brian R Wasik*, Lambodhar Damodaran, Maria A Maltepes, Ian EH Voorhees, Christian M Leutenegger, Sandra Newbury, Louise H Moncla, Benjamin D Dalziel, Laura B Goodman, Colin R Parrish. __Epidemiology and Infection__, March 5, 2025. [DOI: 10.1017/S0950268825000251](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0743D5B6FC771D5CD4087B4CF50EAE73/S0950268825000251a.pdf/evolution_and_epidemiology_of_h3n2_canine_influenza_virus_after_20_years_in_dogs.pdf). 
+*Brian R Wasik*, [*Lambodhar Damodaran*](https://lmoncla.github.io/monclalab/team/LambodharDamodaran/), [Maria Maltepes](https://lmoncla.github.io/monclalab/team/MariaMaltepes/), Ian EH Voorhees, Christian M Leutenegger, Sandra Newbury, Louise H Moncla, Benjamin D Dalziel, Laura B Goodman, Colin R Parrish. __Epidemiology and Infection__, March 5, 2025. [DOI: 10.1017/S0950268825000251](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0743D5B6FC771D5CD4087B4CF50EAE73/S0950268825000251a.pdf/evolution_and_epidemiology_of_h3n2_canine_influenza_virus_after_20_years_in_dogs.pdf). 
 
 ## 2024
 __Deep mutational scanning of H5 hemagglutinin to inform influenza virus surveillance__<br>
-*Bernadeta Dadonaite*, Jenny J Ahn, Jordan T Ort, Jin Yu, Colleen Furey, Annie Dosey, William W Hannon, Amy Vincent Baker, Richard J Webby, Neil P King, Yan Liu, Scott E Hensley, Thomas P Peacock, Louise H Moncla, Jesse D Bloom‡. __PLOS Biology__, November 12, 2024. [DOI:10.1371/journal.pbio.3002916](https://journals.plos.org/Plosbiology/article?id=10.1371/journal.pbio.3002916)
+*Bernadeta Dadonaite*, Jenny J Ahn, [*Jordan T. Ort*](https://lmoncla.github.io/monclalab/team/JordanOrt/), Jin Yu, Colleen Furey, Annie Dosey, William W Hannon, Amy Vincent Baker, Richard J Webby, Neil P King, Yan Liu, Scott E Hensley, Thomas P Peacock, Louise H Moncla, Jesse D Bloom‡. __PLOS Biology__, November 12, 2024. [DOI:10.1371/journal.pbio.3002916](https://journals.plos.org/Plosbiology/article?id=10.1371/journal.pbio.3002916)
 
 __The global H5N1 influenza panzootic in mammals__<br> 
 *Thomas Peacock*, Louise Moncla, Gytis Dudas, David VanInsberghe, Ksenia Sukhova, James O Lloyd-Smith, Michael Worobey, Anice C Lowen, Martha I Nelson. __Nature__, September 24, 2024, [DOI: 10.1038/s41586-024-08054-z](https://qcb.ucla.edu/wp-content/uploads/sites/14/2025/02/s41586-024-08054-z.pdf)
@@ -79,7 +81,7 @@ __Acute SARS-CoV-2 infections harbor limited within-host diversity and transmit 
 *Katarina Braun, Gage Moreno*, Cassia Wagner, Molly A. Accola, William M. Rehrauer, David Baker, Katia Koelle, David H. O’Connor, Trevor Bedford, Thomas C. Friedrich‡, Louise H. Moncla‡. __PLOS Pathogens__, August 23, 2021, [DOI: 10.1371/journal.ppat.1009849](https://journals.plos.org/Plospathogens/article?id=10.1371/journal.ppat.1009849)
 
 __Repeated introductions and intensive community transmission fueled a mumps virus outbreak in Washington State__<br/>
-*Louise H. Moncla‡, Allison Black*, Chas DeBolt, Misty Lang, Nicholas R. Graff, Ailyn C. Pérez-Osorio, Nicola F. Müller, Dirk Haselow, Scott Lindquist, Trevor Bedford‡. __eLife__, April 19, 2021, [DOI: 10.7554/eLife.66448](https://elifesciences.org/articles/66448.pdf)
+*Louise H. Moncla‡*, Allison Black*, Chas DeBolt, Misty Lang, Nicholas R. Graff, Ailyn C. Pérez-Osorio, Nicola F. Müller, Dirk Haselow, Scott Lindquist, Trevor Bedford‡. __eLife__, April 19, 2021, [DOI: 10.7554/eLife.66448](https://elifesciences.org/articles/66448.pdf)
 
 __Viral genomes reveal patterns of the SARS-CoV-2 outbreak in Washington State<br/>__
 *Nicola F. Müller‡, Cassia Wagner, Chris D. Frazar, Pavitra Roychoudhury*, Jover Lee, Louise H. Moncla, Benjamin Pelle, Matthew Richardson, Erica Ryke, Hong Xie, Lasata Shrestha, Amin Addetia, Victoria M. Rachleff, Nicole A. P. Lieberman, Meei-Li Huang, Romesh Gautom, Geoff Melly, Brian Hiatt, Philip Dykema, Amanda Adler, Elisabeth Brandstetter, Peter D. Han, Kairsten Fay, Misja Ilcisin, Kirsten Lacombe, Thomas R. Sibley, Melissa Truong, Caitlin R. Wolf, Michael Boeckh, Janet A. Englund, Michael Famulare, Barry R. Lutz, Mark J. Rieder, Matthew Thompson, Jeffrey S. Duchin, Lea M. Starita, Helen Y. Chu, Jay Shendure, Keith R. Jerome, Scott Lindquist, Alexander L. Greninger‡, Deborah A. Nickerson‡, Trevor Bedford‡.  __Science Translational Medicine__, May 3, 2021, [DOI: 10.1126/scitranslmed.abf0202](https://www.science.org/doi/full/10.1126/scitranslmed.abf0202) 
