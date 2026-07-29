@@ -4,7 +4,7 @@ title: ""
 ---
 # Publications
 
-*first author in italics*, Moncla lab members [linked](https://lmoncla.github.io/monclalab/team/)
+*first author in italics*, ‡corresponding author, Moncla lab members [linked](https://lmoncla.github.io/monclalab/team/)
 
 ## 2026
 __Within-and between-host dynamics of highly pathogenic avian influenza in domestic birds from Pennsylvania farms and live bird markets__<br>
