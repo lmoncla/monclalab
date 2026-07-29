@@ -33,7 +33,6 @@ Anna, Qiqi, Lambo, and Maria gave posters, and took some cute pictures. Super pr
 <center>
 <img src="/monclalab/assets/images/EEID-2026-Maria.jpg" width="50%" title="" align="left" vspace="0">
 </center>
-<br/>
 
 <center>
 <img src="/monclalab/assets/images/EEID-2026-Anna.jpg" width="50%" title="" align="right" vspace="0">
