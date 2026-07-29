@@ -6,13 +6,13 @@ title: ""
 
 ## 2026
 __Within-and between-host dynamics of highly pathogenic avian influenza in domestic birds from Pennsylvania farms and live bird markets__<br>
-*Anna S Jaeger*, Elena Cruz-Adames, Stephen D Shank, Irina Chupikova, Katie Kumta, Eman Anis, Louise Moncla‡. __bioRxiv__, July 22, 2026. [DOI: 10.64898/2026.07.17.739193](https://www.biorxiv.org/content/10.64898/2026.07.17.739193v1.abstract). 
+[*Anna S Jaeger*](https://lmoncla.github.io/monclalab/team/AnnaJaeger/), Elena Cruz-Adames, Stephen D Shank, Irina Chupikova, Katie Kumta, Eman Anis, Louise Moncla‡. __bioRxiv__, July 22, 2026. [DOI: 10.64898/2026.07.17.739193](https://www.biorxiv.org/content/10.64898/2026.07.17.739193v1.abstract). 
 
 __Clade 2.3. 4.4 b H5N1 influenza virus and SARS-CoV-2 seroprevalence among owned and feral cats in Philadelphia and surrounding communities__<br>
-*Gabrielle Scher**, Kathrine Maguire, Caitlin Duffy, Katie Mina, Clara Malekshahi, Stephen D Cole, Laura Ahlers, Jacob Wohlstadter, George B Sigal, Roderick B Gagne, Louise Moncla‡, Scott E Hensley‡. __bioRxiv__, July 3, 2026. [DOI: 10.64898/2026.07.03.736283](https://www.biorxiv.org/content/10.64898/2026.07.03.736283v1.abstract). ‡ co-corresponding, contributed equally
+*Gabrielle Scher*, Kathrine Maguire, Caitlin Duffy, Katie Mina, Clara Malekshahi, Stephen D Cole, Laura Ahlers, Jacob Wohlstadter, George B Sigal, Roderick B Gagne, Louise Moncla‡, Scott E Hensley‡. __bioRxiv__, July 3, 2026. [DOI: 10.64898/2026.07.03.736283](https://www.biorxiv.org/content/10.64898/2026.07.03.736283v1.abstract). ‡ co-corresponding, contributed equally
 
 __Frequent seasonal reassortment between high and low path viruses drives the diversification of influenza A/H5N1__<br>
-*Lambodhar Damodaran*, Joseph A. Lewnard, Gregg S. Davis, Sara Y. Tartof, Louise H. Moncla‡, Nicola F. Müller‡. __bioRxiv__, April 18, 2026. [DOI: 10.64898/2026.04.17.719307](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_myzKrwAAAAJ&sortby=pubdate&citation_for_view=_myzKrwAAAAJ:J_g5lzvAfSwC). ‡ co-corresponding, contributed equally
+[*Lambodhar Damodaran*](https://lmoncla.github.io/monclalab/team/LambodharDamodaran/), Joseph A. Lewnard, Gregg S. Davis, Sara Y. Tartof, Louise H. Moncla‡, Nicola F. Müller‡. __bioRxiv__, April 18, 2026. [DOI: 10.64898/2026.04.17.719307](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_myzKrwAAAAJ&sortby=pubdate&citation_for_view=_myzKrwAAAAJ:J_g5lzvAfSwC). ‡ co-corresponding, contributed equally
 
 __The emergence and molecular evolution of H5N1 influenza viruses in United States dairy cattle__<br>
 *Jonathan E Pekar*, Karthik Gangavarapu, Alvin Crespo-Bellido, Thomas P Peacock, Joel O Wertheim, Gytis Dudas, Jeffrey B Joy, Meera Chand, Florence Debarre, Praneeth Gangavarapu, Daniel H Goldhill, Natalie Groves, Xiang Ji, Lorena Malpica Serrano, Louise Moncla, Angela L Rasmussen, Christopher Ruis, Divya Venkatesh, Moritz UG Kraemer, Oliver G Pybus, Kristian G Andersen, Marc A Suchard, Martha I Nelson, Philippe Lamey, Michael Worobey, Andrew Rambaut‡. __bioRxiv__, March 30, 2026. at: [DOI: 10.64898/2026.03.30.713641](https://www.biorxiv.org/content/10.64898/2026.03.30.713641v1.abstract)
@@ -30,13 +30,13 @@ __Emergence and Epidemiology of Dominant Variants of Human Metapneumovirus in th
 *Lora Lee Pless*, Lambodar Damodaran, Ray Pomponio, Rose Patrick, Marissa Pacey Griffith, Sara Walters, Kady D Waggle, Atalia Pleskovitch, Vatsala Rangachar Srinivasa, Cole A Varela, Lee H Harrison, John P Barton, Louise H Moncla, Marian G Michaels, John V Williams, Anna F Wang-Erickson. __MBio__, January 12, 2026.[DOI:10.1128/mbio.02619-25](https://journals.asm.org/doi/full/10.1128/mbio.02619-25)
 
 __Ecology and spread of the North American H5N1 epizootic__<br>
-*Lambodhar Damodaran*, Anna Jaeger, Louise H. Moncla‡. __Nature__, January 8, 2026. [DOI: s41586-025-09737-x](https://www.nature.com/articles/s41586-025-09737-x)
+[*Lambodhar Damodaran*](https://lmoncla.github.io/monclalab/team/LambodharDamodaran/), Anna Jaeger, Louise H. Moncla‡. __Nature__, January 8, 2026. [DOI: s41586-025-09737-x](https://www.nature.com/articles/s41586-025-09737-x)
 
 
 ## 2025
 
 __Development of avian influenza A(H5) virus datasets for Nextclade enables rapid and accurate clade assignment__<br> 
-*Jordan T. Ort*, Samuel S. Shepard, Sonja Zolnoski, Tommy T.-Y. Lam, Todd Davis, Richard Neher, Louise H. Moncla‡. __Virus Evolution__, August 4, 2025, [DOI: 10.1093/ve/veaf058](https://academic.oup.com/ve/article/11/1/veaf058/8221740)
+[*Jordan T. Ort*](https://lmoncla.github.io/monclalab/team/JordanOrt/), Samuel S. Shepard, Sonja Zolnoski, Tommy T.-Y. Lam, Todd Davis, Richard Neher, Louise H. Moncla‡. __Virus Evolution__, August 4, 2025, [DOI: 10.1093/ve/veaf058](https://academic.oup.com/ve/article/11/1/veaf058/8221740)
 
 __Controlling bird flu is urgent—for dairy, wildlife, poultry, pets, and people__<br> 
 *Anice C Lowen*, Andrew S Bowman, Jonathan A Runstadler, Amy L Baker, Adolfo García-Sastre, Scott E Hensley, Seema S Lakdawala, Louise H Moncla, Marthal Nelson, Andrew Pekosz, Rebecca L Poulson, Wendy B Puryear, Troy C Sutton, S Mark Tompkins, Richard J Webby. __Journal of the American Veterinary Medical Association.__ June 25, 2025. [DOI: https://doi.org/10.1128/jvi.00052-25](https://avmajournals.avma.org/view/journals/javma/263/9/javma.25.05.0294.xml)
