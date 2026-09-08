@@ -4,7 +4,7 @@ title: "News and outreach"
 ---
 
 ### August 30-September 2, 2026: Options for the Control of Influenza 
-A bunch of the lab went to the [Options for the Control of Influenza meeting in DC] (https://www.isrv.global/featured-events/options-xiii-conference-for-the-control-of-influenza/), which is the big, international flu meeting. Louise, Clara, Qiqi, and Anna gave talks, and Jordan and Maria presented posters. Everyone did great and I was very proud! 
+A bunch of the lab went to the [Options for the Control of Influenza meeting in DC](https://www.isrv.global/featured-events/options-xiii-conference-for-the-control-of-influenza/), which is the big, international flu meeting. Louise, Clara, Qiqi, and Anna gave talks, and Jordan and Maria presented posters. Everyone did great and I was very proud! 
 
 <center>
 <img src="/monclalab/assets/images/Options-group-photo.jpeg" width="50%" title="" align="left" vspace="0">
