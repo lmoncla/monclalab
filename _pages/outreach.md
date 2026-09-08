@@ -22,13 +22,15 @@ The lab presenting their various talks and posters!
 <center>
 <img src="/monclalab/assets/images/Options-Clara.jpg" width="50%" title="" align="left" vspace="0">
 </center>
+<img src="/monclalab/assets/images/Options-Maria.jpg" width="50%" title="" align="right" vspace="0">
 
 <center>
-<img src="/monclalab/assets/images/Options-Anna.jpg" width="50%" title="" align="left" vspace="0">
-<img src="/monclalab/assets/images/Options-Qiqi.jpg" width="50%" title="" align="left" vspace="0">
-<img src="/monclalab/assets/images/Options-Maria.jpg" width="50%" title="" align="right" vspace="0">
+<img src="/monclalab/assets/images/Options-Anna.jpg" width="50%" title="" align="left" 
+vspace="0">
 <img src="/monclalab/assets/images/Options-Jordan.jpeg" width="50%" title="" align="right" vspace="0">
 </center>
+<img src="/monclalab/assets/images/Options-Qiqi.jpg" width="50%" title="" align="left" vspace="0">
+
 <br/>
 
 &nbsp;
