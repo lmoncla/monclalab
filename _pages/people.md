@@ -31,7 +31,6 @@ Post-doctoral Research Fellow<br/>
 Department of Pathobiology<br/>
 School of Veterinary Medicine, University of Pennsylvania<br/><br/><br/><br/>
 
-
 <a href="https://lmoncla.github.io/monclalab/team/JordanOrt">
 <img src="/monclalab/assets/images/people-Jordan-Ort.jpg" width="30%" title="Jordan Ort" align="left" hspace="30">
 </a>
@@ -89,7 +88,7 @@ Biology Major; Chemistry minor<br/>
 University of Pennsylvania<br/><br/>
 
 
-#     Lab alumni
+# Lab alumni
 
 <a href="https://lmoncla.github.io/monclalab/team/LambodharDamodaran">
 <img src="/monclalab/assets/images/people-Lambodhar-Damodaran.jpg" width="30%" title="Lambodhar Damodaran" align="left" hspace="30">

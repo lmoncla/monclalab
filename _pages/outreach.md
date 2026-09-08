@@ -7,7 +7,7 @@ title: "News and outreach"
 A bunch of the lab went to the [Options for the Control of Influenza meeting in DC] (https://www.isrv.global/featured-events/options-xiii-conference-for-the-control-of-influenza/), which is the big, international flu meeting. Louise, Clara, Qiqi, and Anna gave talks, and Jordan and Maria presented posters. Everyone did great and I was very proud! 
 
 <center>
-<img src="/monclalab/assets/images/Options-group-photo.jpg" width="50%" title="" align="left" vspace="0">
+<img src="/monclalab/assets/images/Options-group-photo.jpeg" width="50%" title="" align="left" vspace="0">
 </center>
 <center>
 <img src="/monclalab/assets/images/Options-Louise-scooter.jpg" width="50%" title="" align="right" vspace="0">
@@ -27,7 +27,7 @@ The lab presenting their various talks and posters!
 <img src="/monclalab/assets/images/Options-Anna.jpg" width="50%" title="" align="right" vspace="0">
 <img src="/monclalab/assets/images/Options-Qiqi.jpg" width="50%" title="" align="left" vspace="0">
 <img src="/monclalab/assets/images/Options-Maria.jpg" width="50%" title="" align="left" vspace="0">
-<img src="/monclalab/assets/images/Options-Jordan.jpg" width="50%" title="" align="right" vspace="0">
+<img src="/monclalab/assets/images/Options-Jordan.jpeg" width="50%" title="" align="right" vspace="0">
 </center>
 <br/>
 
