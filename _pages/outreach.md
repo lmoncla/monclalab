@@ -13,8 +13,8 @@ A bunch of the lab went to the [Options for the Control of Influenza meeting in 
 <img src="/monclalab/assets/images/Options-Louise-scooter.jpg" width="50%" title="" align="right" vspace="0">
 </center>
 
-<br/>
 
+&nbsp;
 
 The lab presenting their various talks and posters! 
 
