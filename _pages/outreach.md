@@ -2,6 +2,37 @@
 permalink: /outreach/
 title: "News and outreach"
 ---
+
+### August 30-September 2, 2026: Options for the Control of Influenza 
+A bunch of the lab went to the [Options for the Control of Influenza meeting in DC] (https://www.isrv.global/featured-events/options-xiii-conference-for-the-control-of-influenza/), which is the big, international flu meeting. Louise, Clara, Qiqi, and Anna gave talks, and Jordan and Maria presented posters. Everyone did great and I was very proud! 
+
+<center>
+<img src="/monclalab/assets/images/Options-group-photo.jpg" width="50%" title="" align="left" vspace="0">
+</center>
+<center>
+<img src="/monclalab/assets/images/Options-Louise-scooter.jpg" width="50%" title="" align="right" vspace="0">
+</center>
+
+<br/>
+
+&nbsp;
+
+The lab presenting their various talks and posters!
+
+<center>
+<img src="/monclalab/assets/images/Options-Clara.jpg" width="50%" title="" align="left" vspace="0">
+</center>
+
+<center>
+<img src="/monclalab/assets/images/Options-Anna.jpg" width="50%" title="" align="right" vspace="0">
+<img src="/monclalab/assets/images/Options-Qiqi.jpg" width="50%" title="" align="left" vspace="0">
+<img src="/monclalab/assets/images/Options-Maria.jpg" width="50%" title="" align="left" vspace="0">
+<img src="/monclalab/assets/images/Options-Jordan.jpg" width="50%" title="" align="right" vspace="0">
+</center>
+<br/>
+
+&nbsp;
+
 ### July 27, 2026: American Society for Virology Meeting!  
 This year I was honored to be awarded the [Ann Palmenberg Junior Investigator Award](https://www.asv.org/ann-palmenberg-junior-investigator-award) at the [ASV Annual Meeting](https://www.asv.org/scientific-program2026) in Minneapolis! It was fun to share our work with the broader virology community, and to catch up with old friends. Congratulations to Arinjay Banjeree, my fellow awardee, and to Susan Weiss on her election as the next ASV president! 
 
