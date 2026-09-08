@@ -15,9 +15,8 @@ A bunch of the lab went to the [Options for the Control of Influenza meeting in 
 
 <br/>
 
-&nbsp;
 
-The lab presenting their various talks and posters!
+The lab presenting their various talks and posters! 
 
 <center>
 <img src="/monclalab/assets/images/Options-Clara.jpg" width="50%" title="" align="left" vspace="0">
@@ -33,6 +32,7 @@ vspace="0">
 
 <br/>
 
+&nbsp;
 &nbsp;
 
 ### July 27, 2026: American Society for Virology Meeting!  
