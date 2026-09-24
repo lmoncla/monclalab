@@ -5,8 +5,7 @@ title: ""
 # Publications
 
 *first author*, ‡corresponding author, [Moncla lab members](https://lmoncla.github.io/monclalab/team/)
-For the most up to date information, see [Louise's google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=_myzKrwAAAAJ&sortby=pubdate)https://scholar.google.com/citations?hl=en&user=_myzKrwAAAAJ&view_op=list_works&sortby=pubdate
-
+For the most up to date information, see [Louise's google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=_myzKrwAAAAJ&sortby=pubdate)
 ## 2026
 __Host type governs influenza evolutionary strategy across reservoir and spillover hosts__<br>
 [*Maria A Maltepes*](https://lmoncla.github.io/monclalab/team/MariaMaltepes/), Alexey Markin, Stephen Shank, [*Jordan T. Ort*](https://lmoncla.github.io/monclalab/team/JordanOrt/), Jared Sabre, [*Lambodhar Damodaran*](https://lmoncla.github.io/monclalab/team/LambodharDamodaran/), Grant Park, Kathryn Kistler, Tavis K. Anderson, Louise H. Moncla‡.[Louise Moncla‡](https://lmoncla.github.io/monclalab/team/LouiseMoncla/). __bioRxiv__, September 17, 2026.[DOI: 10.64898/2026.09.15.751820](https://www.biorxiv.org/content/10.64898/2026.09.15.751820v1.abstract)
