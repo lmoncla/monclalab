@@ -77,18 +77,10 @@ Undergraduate Student<br/>
 Biology, Mechanisms of Disease Major<br/>
 University of Pennsylvania<br/><br/><br/><br/>
 
-<br/>
-<a href="https://lmoncla.github.io/monclalab/team/GrantPark">
-<img src="/monclalab/assets/images/people-Grant-Park.JPG" width="30%" title="Grant Park" align="left" hspace="30">
-</a>
-
-__Grant Park__<br/>
-Undergraduate Student<br/>
-Biology Major; Chemistry minor<br/>
-University of Pennsylvania<br/><br/>
 
 
 # Lab alumni
+
 
 <a href="https://lmoncla.github.io/monclalab/team/LambodharDamodaran">
 <img src="/monclalab/assets/images/people-Lambodhar-Damodaran.jpg" width="30%" title="Lambodhar Damodaran" align="left" hspace="30">
@@ -112,3 +104,13 @@ Role: Staff Bioinformatician/Computational Biologist<br/>
 __Alex Voegele__<br/>
 Role: Research Specialist, 2022-2023<br/>
 Now: Technology Advisor at AstraZeneca
+
+<br/>
+<a href="https://lmoncla.github.io/monclalab/team/GrantPark">
+<img src="/monclalab/assets/images/people-Grant-Park.JPG" width="30%" title="Grant Park" align="left" hspace="30">
+</a>
+
+__Grant Park__<br/>
+Undergraduate Student<br/>
+Biology Major; Chemistry minor<br/>
+University of Pennsylvania<br/><br/>
