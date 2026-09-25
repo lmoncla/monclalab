@@ -7,7 +7,7 @@ title: ""
 *first author*, ‡corresponding author, [Moncla lab members](https://lmoncla.github.io/monclalab/team/)
 For the most up to date information, see [Louise's google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=_myzKrwAAAAJ&sortby=pubdate)
 
-## preprints 
+## 2026 - Preprints 
 __Host type governs influenza evolutionary strategy across reservoir and spillover hosts__<br>
 [*Maria A Maltepes*](https://lmoncla.github.io/monclalab/team/MariaMaltepes/), Alexey Markin, Stephen Shank, [*Jordan T. Ort*](https://lmoncla.github.io/monclalab/team/JordanOrt/), Jared Sabre, [*Lambodhar Damodaran*](https://lmoncla.github.io/monclalab/team/LambodharDamodaran/), Grant Park, Kathryn Kistler, Tavis K. Anderson, Louise H. Moncla‡.[Louise Moncla‡](https://lmoncla.github.io/monclalab/team/LouiseMoncla/). __bioRxiv__, September 17, 2026.[DOI: 10.64898/2026.09.15.751820](https://www.biorxiv.org/content/10.64898/2026.09.15.751820v1.abstract)
 
@@ -29,7 +29,7 @@ __Dynamics and control of highly pathogenic H5 avian influenza in a threatened p
 __Nextstrain automates real-time phylodynamic analysis of open data for endemic and emerging pathogens__<br>
 *Kimberly R Andrews*, Jennifer Chang, Cornelius Roemer, James Hadfield, Victor Lin, Anderson F Brito, Richard Olumide Daodu, Isabel A Joia, Kathryn Kistler, Allison Li, [Louise Moncla](https://lmoncla.github.io/monclalab/team/LouiseMoncla/), Miguel I Paredes, Denise Kühnert, Laura Marcela Torres, Laura Voitl, Ivan Aksamentov, Emma B Hodcroft, John Huddleston, John T McCrone, John SJ Anderson, Thomas R Sibley, Jover Lee, Richard A Neher, Trevor Bedford‡.  __bioRxiv__, March 26, 2026. at [DOI: 10.64898/2026.03.23.713807](https://bedford.io/pdfs/papers/andrews-nextstrain-pathogens.pdf)
 
-## 2026
+## 2026 - Published
 
 __Fatal Human H3N8 Influenza Virus has a Moderate Pandemic Risk__<br>
 *Valerie Le Sage*, Michelle Vu, [Maria Maltepes](https://lmoncla.github.io/monclalab/team/MariaMaltepes/), Shengyang Wang, Brooke Snow, Grace A. Merrbach, Alexandra Benton, Kylie Zirckel, Sarah E. Petnuch, Carly Marble, Grace Graudin, Lora H. Rigatti, James C. Paulson, Elizabeth M. Drapeau, [Louise Moncla](https://lmoncla.github.io/monclalab/team/LouiseMoncla/), Anita K. McElroy, Scott E. Hensley, Seema S. Lakdawala‡.  __PLoS Pathogens__ March 3, 2026, at [e1013586](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013586).
