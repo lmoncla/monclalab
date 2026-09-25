@@ -4,7 +4,7 @@ title: "News and outreach"
 ---
 
 ### September 14-18, 2026: Duck sampling
-Elena, Qiqi, Anna, and Clara joined Dan Mummert (Pennsylvania Game Commission) and Madison Stevens (Penn Vet Wildlife Futures) at Middle Creek, PA to swab ducks for influenza testing. After training with Dr. Justin Brown (Penn State), we joined Dan and Madison in the field. After Dan banding each duck, we collect swabs from the ducks before releasing them. We were so excited to sample these beautiful wood ducks and green-winged teals! The samples are going to be screened by Wildlife Futures lab at Penn Vet and sequenced by our lab. We really enjoyed the fieldwork, and learned so much about duck trapping, banding and sampling. Huge shoutout to everyone involved in this big team project!
+Elena, Qiqi, Anna, and Clara joined Dan Mummert (Pennsylvania Game Commission) and Madison Stevens (Penn Vet Wildlife Futures) at Middle Creek, PA to swab ducks for influenza testing. After training with Dr. Justin Brown (Penn State), we joined Dan and Madison in the field. We collected swabs from the ducks, which will be screened by Wildlife Futures and sequenced by our lab to look for low pathogenic avian influenza prevalence and reassortment. We were so excited to sample these beautiful wood ducks and green-winged teals! We really enjoyed the fieldwork, and learned so much about duck trapping, banding and sampling. Huge shoutout to everyone involved in this big team project!
 
 <center>
 <img src="/monclalab/assets/images/Duck-2.jpg" width="50%" title="" align="left" vspace="0">
