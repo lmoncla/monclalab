@@ -10,10 +10,13 @@ Elena, Qiqi, Anna, and Clara joined Dan Mummert (Pennsylvania Game Commission) a
 <img src="/monclalab/assets/images/Duck-2.jpg" width="50%" title="" align="left" vspace="0">
 </center>
 <center>
+<img src="/monclalab/assets/images/Duck-3.jpg" width="50%" title="" align="right" vspace="0">
+</center>
+<center>
 <img src="/monclalab/assets/images/Duck-1.jpg" width="50%" title="" align="right" vspace="0">
 </center>
 <center>
-<img src="/monclalab/assets/images/Duck-3.jpg" width="50%" title="" align="right" vspace="0">
+<img src="/monclalab/assets/images/Duck-4.jpg" width="50%" title="" align="right" vspace="0">
 </center>
 
 ### August 30-September 2, 2026: Options for the Control of Influenza 
