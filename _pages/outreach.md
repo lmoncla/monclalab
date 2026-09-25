@@ -3,6 +3,20 @@ permalink: /outreach/
 title: "News and outreach"
 ---
 
+### September 24: lab summer party 
+We had an end of summer lab party to celebrate recent lab successes. Clara's F31 was funded by NIH, Maria and Qiqi wrote funded IIZD proposals, and the lab's first R01 was awarded. We're so grateful to all this funding, which will allow us to keep working on avian influenza evolution and ecology. 
+
+We also hosted two fantastic summer students, Rhea Bakshi (a vet student), and Prisha Kurukunde (a high schooler), who helped us out with canine influenza serology and wild bird trait data, as well as some new rotators this fall working on reassortment and SARS-CoV-2 (Michael and Erin). Finally, we've submitted a bunch of new papers (see our [Publications page](https://lmoncla.github.io/monclalab/publications/) for the preprints!), and started doing field work. Thanks so much everyone for all of your hard work that made all of these successes possible, and here's to another great year! 
+
+<center>
+<img src="/monclalab/assets/images/lab-summer-party-2026-09-24.jpg" width="100%" title="" align="left" vspace="0">
+</center>
+
+
+
+&nbsp;
+
+
 ### September 14-18, 2026: Duck sampling
 Elena, Qiqi, Anna, and Clara joined Dan Mummert (Pennsylvania Game Commission) and Madison Stevens (Penn Vet Wildlife Futures) at Middle Creek, PA to swab ducks for influenza testing. After training with Dr. Justin Brown (Penn State), we joined Dan and Madison in the field. We collected swabs from the ducks, which will be screened by Wildlife Futures and sequenced by our lab to look for low pathogenic avian influenza prevalence and reassortment. We were so excited to sample these beautiful wood ducks and green-winged teals! We really enjoyed the fieldwork, and learned so much about duck trapping, banding and sampling. Huge shoutout to everyone involved in this big team project!
 
@@ -18,6 +32,8 @@ Elena, Qiqi, Anna, and Clara joined Dan Mummert (Pennsylvania Game Commission) a
 <center>
 <img src="/monclalab/assets/images/Duck-4.jpg" width="50%" title="" align="right" vspace="0">
 </center>
+&nbsp;
+
 
 ### August 30-September 2, 2026: Options for the Control of Influenza 
 A bunch of the lab went to the [Options for the Control of Influenza meeting in DC](https://www.isrv.global/featured-events/options-xiii-conference-for-the-control-of-influenza/), which is the big, international flu meeting. Louise, Clara, Qiqi, and Anna gave talks, and Jordan and Maria presented posters. Everyone did great and I was very proud! 
