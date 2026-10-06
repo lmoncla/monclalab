@@ -13,7 +13,6 @@ We also hosted two fantastic summer students, Rhea Bakshi (a vet student), and P
 </center>
 
 
-
 &nbsp;
 
 
