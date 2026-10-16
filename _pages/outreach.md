@@ -3,8 +3,8 @@ permalink: /outreach/
 title: "News and outreach"
 ---
 
-### October 5, 2026: Jordan defends his PhD 
-The lab had it's first PhD graduate! Jordan Ort defended his PhD, and did a really amazing job. Jordan has been co-mentored in our lab and Scott Hensley's group, and haas done a PhD focused on how H5N1 viruses evolve to generate new diversity, and how that diversity impacts human infection risk in the context of prior immunity. He did a great job, and I was super proud! Luckily, he will be staying on a bit as a post doc. Congrats Dr Ort!!! 
+### October 5, 2026: Jordan defends his PhD!! 
+The lab's first PhD student has successfully defended! Jordan Ort defended his PhD, and did a really amazing job. Jordan has been co-mentored in our lab and Scott Hensley's group, and haas done a PhD focused on how H5N1 viruses evolve to generate new diversity, and how that diversity impacts human infection risk in the context of prior immunity. He did a great job, and I was super proud! Luckily, he will be staying on a bit as a post doc. Congrats Dr Ort!!! 
 
 <center>
 <img src="/monclalab/assets/images/Jordans-defense-Louise-Scott.jpg" width="50%" title="" align="center" vspace="0">
