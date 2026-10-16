@@ -7,13 +7,13 @@ title: "News and outreach"
 The lab had it's first PhD graduate! Jordan Ort defended his PhD, and did a really amazing job. Jordan has been co-mentored in our lab and Scott Hensley's group, and haas done a PhD focused on how H5N1 viruses evolve to generate new diversity, and how that diversity impacts human infection risk in the context of prior immunity. He did a great job, and I was super proud! Luckily, he will be staying on a bit as a post doc. Congrats Dr Ort!!! 
 
 <center>
-<img src="/monclalab/assets/images/Jordans-defense-Louise-Scott.jpg" width="50%" title="" align="left" vspace="0">
+<img src="/monclalab/assets/images/Jordans-defense-Louise-Scott.jpg" width="50%" title="" align="center" vspace="0">
 </center>
 <center>
-<img src="/monclalab/assets/images/Jordans-defense-lab.jpg" width="50%" title="" align="right" vspace="0">
+<img src="/monclalab/assets/images/Jordans-defense-lab.jpg" width="100%" title="" align="center" vspace="0">
 </center>
 <center>
-<img src="/monclalab/assets/images/Jordans-defense-casual.jpg" width="50%" title="" align="right" vspace="0">
+<img src="/monclalab/assets/images/Jordans-defense-casual.jpg" width="100%" title="" align="center" vspace="0">
 </center>
 &nbsp;
 
